@@ -1,0 +1,1 @@
+{"id":"072f08a0b02d969004f73f56d0878efc","fullName":"providers.spec.ts:288:3","name":"reads the server defaults without letting the answer be cached","status":"passed","testResultsByEnv":{"default":"60c6c151385b70e0b6639b0bc0d2592d"}}

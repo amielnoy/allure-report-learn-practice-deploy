@@ -1,0 +1,8 @@
+{
+  "method": "POST",
+  "url": "/api/ai/generate",
+  "headers": {
+    "content-type": "application/json"
+  },
+  "body": "{ this is not json"
+}

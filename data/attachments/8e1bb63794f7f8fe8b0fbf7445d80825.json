@@ -1,0 +1,44 @@
+{
+  "method": "POST",
+  "url": "/api/stripe/webhook",
+  "headers": {
+    "content-type": "application/json",
+    "stripe-signature": "t=1,v1=deadbeef"
+  },
+  "body": {
+    "type": "Buffer",
+    "data": [
+      123,
+      34,
+      105,
+      100,
+      34,
+      58,
+      34,
+      101,
+      118,
+      116,
+      95,
+      116,
+      101,
+      115,
+      116,
+      34,
+      44,
+      34,
+      116,
+      121,
+      112,
+      101,
+      34,
+      58,
+      34,
+      112,
+      105,
+      110,
+      103,
+      34,
+      125
+    ]
+  }
+}

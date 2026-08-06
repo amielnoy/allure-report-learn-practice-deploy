@@ -1,0 +1,9 @@
+{
+  "method": "OPTIONS",
+  "url": "/api/ai/generate",
+  "headers": {
+    "Origin": "https://academy.example",
+    "Access-Control-Request-Method": "POST",
+    "Access-Control-Request-Headers": "content-type"
+  }
+}
