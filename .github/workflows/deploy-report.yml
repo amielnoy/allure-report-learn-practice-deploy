@@ -28,11 +28,64 @@ jobs:
         with:
           ref: gh-pages
 
-      - uses: actions/upload-pages-artifact@v3
+      - id: upload
+        uses: actions/upload-pages-artifact@v3
         with:
           path: .
 
-      - id: deployment
-        uses: actions/deploy-pages@v4
-        with:
-          timeout: '1200000'
+      # actions/deploy-pages hard-caps its wait at 10 minutes. GitHub Pages has
+      # repeatedly needed longer for this repository, so create the deployment
+      # through the same official API and poll it with a bounded 20-minute wait.
+      - name: Create and monitor the Pages deployment
+        id: deployment
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ARTIFACT_ID: ${{ steps.upload.outputs.artifact_id }}
+        run: |
+          set -euo pipefail
+
+          token_response=$(curl --fail --silent --show-error \
+            -H "Authorization: bearer ${ACTIONS_ID_TOKEN_REQUEST_TOKEN}" \
+            "${ACTIONS_ID_TOKEN_REQUEST_URL}")
+          oidc_token=$(jq -r '.value // empty' <<<"$token_response")
+          if [ -z "$oidc_token" ]; then
+            echo "::error::GitHub did not issue an OIDC token for the Pages deployment."
+            exit 1
+          fi
+
+          deployment=$(jq -n \
+            --argjson artifact_id "$ARTIFACT_ID" \
+            --arg pages_build_version "$GITHUB_SHA" \
+            --arg oidc_token "$oidc_token" \
+            '{artifact_id: $artifact_id, pages_build_version: $pages_build_version, oidc_token: $oidc_token}' \
+            | gh api --method POST "repos/${GITHUB_REPOSITORY}/pages/deployments" --input -)
+
+          deployment_id=$(jq -r '.id // (.status_url | split("/") | last) // empty' <<<"$deployment")
+          page_url=$(jq -r '.page_url // empty' <<<"$deployment")
+          if [ -z "$deployment_id" ]; then
+            echo "::error::GitHub created no identifiable Pages deployment."
+            exit 1
+          fi
+          echo "page_url=$page_url" >> "$GITHUB_OUTPUT"
+          echo "Created Pages deployment $deployment_id."
+
+          deadline=$((SECONDS + 1200))
+          while (( SECONDS < deadline )); do
+            status=$(gh api "repos/${GITHUB_REPOSITORY}/pages/deployments/${deployment_id}" --jq .status)
+            echo "Current Pages status: $status"
+            case "$status" in
+              succeed)
+                exit 0
+                ;;
+              deployment_failed|deployment_perms_error|deployment_content_failed|deployment_cancelled|deployment_lost)
+                echo "::error::Pages deployment ended with status: $status"
+                exit 1
+                ;;
+            esac
+            sleep 5
+          done
+
+          echo "::error::Pages deployment did not finish within 20 minutes."
+          gh api --method POST \
+            "repos/${GITHUB_REPOSITORY}/pages/deployments/${deployment_id}/cancel" || true
+          exit 1
