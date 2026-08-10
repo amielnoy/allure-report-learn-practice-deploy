@@ -1,0 +1,1 @@
+{"id":"aeef54dd56e17ddc38b1e4d9ca5b60cb","fullName":"GoogleSignIn.spec.tsx:144:3","name":"forgets the credential, so a reload does not sign you back in","status":"passed","testResultsByEnv":{"default":"f7678f944bd397d7327e757ccb1f304a"}}

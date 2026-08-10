@@ -1,1 +1,1 @@
-{"id":"b241c109f7f4caaeb01e80213b18eed9","fullName":"openapi.spec.ts:176:5","name":"GET /stripe/prices is implemented","status":"passed","testResultsByEnv":{"default":"e90016cdb510a83f794638b3abb756a7"}}
+{"id":"b241c109f7f4caaeb01e80213b18eed9","fullName":"openapi.spec.ts:178:5","name":"GET /stripe/prices is implemented","status":"passed","testResultsByEnv":{"default":"f76c47fc6130c38c70a98445fd8ec01a"}}

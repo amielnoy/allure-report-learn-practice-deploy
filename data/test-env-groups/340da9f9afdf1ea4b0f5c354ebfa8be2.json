@@ -1,1 +1,1 @@
-{"id":"340da9f9afdf1ea4b0f5c354ebfa8be2","fullName":"domUtils.spec.ts:71:3","name":"strips trailing sentence punctuation from the match","status":"passed","testResultsByEnv":{"default":"3118b8318658dc16aded92b4eb2fad85"}}
+{"id":"340da9f9afdf1ea4b0f5c354ebfa8be2","fullName":"domUtils.spec.ts:69:3","name":"strips trailing sentence punctuation from the match","status":"passed","testResultsByEnv":{"default":"533b48abbc76ef339931a5979319e2f9"}}

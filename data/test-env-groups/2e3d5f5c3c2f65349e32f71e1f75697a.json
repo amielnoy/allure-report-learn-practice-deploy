@@ -1,1 +1,1 @@
-{"id":"2e3d5f5c3c2f65349e32f71e1f75697a","fullName":"providers.spec.ts:226:3","name":"recovers a missing comma between objects in an array","status":"passed","testResultsByEnv":{"default":"f679d09bd5987f3a2b061396d6725b79"}}
+{"id":"2e3d5f5c3c2f65349e32f71e1f75697a","fullName":"providers.spec.ts:224:3","name":"recovers a missing comma between objects in an array","status":"passed","testResultsByEnv":{"default":"7c24b8b712eb85cdfaf9b2e53305a6eb"}}

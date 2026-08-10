@@ -1,1 +1,1 @@
-{"id":"d73744a109c8bcfa7e1257d30f97daa7","fullName":"sanity.spec.ts:60:1","name":"community links open in a new tab without leaking the opener","status":"passed","testResultsByEnv":{"default":"a8579995f4e0b390868052687b98fc7b"}}
+{"id":"d73744a109c8bcfa7e1257d30f97daa7","fullName":"sanity.spec.ts:63:1","name":"community links open in a new tab without leaking the opener","status":"passed","testResultsByEnv":{"default":"34992c5e386d78621a7e0ad8b4986982"}}
