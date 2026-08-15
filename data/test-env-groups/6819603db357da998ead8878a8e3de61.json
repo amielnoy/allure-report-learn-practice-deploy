@@ -1,1 +1,1 @@
-{"id":"6819603db357da998ead8878a8e3de61","fullName":"health.spec.ts:59:3","name":"rejects a malformed JSON body instead of crashing","status":"passed","testResultsByEnv":{"default":"49b98b9e837b06fe74084c75bc792d0d"}}
+{"id":"6819603db357da998ead8878a8e3de61","fullName":"health.spec.ts:59:3","name":"rejects a malformed JSON body instead of crashing","status":"passed","testResultsByEnv":{"default":"fa6936c46ae8456750a7ddf9c9e63e82"}}

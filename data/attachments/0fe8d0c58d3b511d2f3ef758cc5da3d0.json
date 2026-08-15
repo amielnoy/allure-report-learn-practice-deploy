@@ -1,0 +1,16 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "url": "http://127.0.0.1:8788/api/ai/config",
+  "headers": {
+    "x-powered-by": "Express",
+    "vary": "Origin",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "91",
+    "etag": "W/\"5b-aV9MD9rGS+uSZ9ajKhXvrAjiSso\"",
+    "date": "Sat, 15 Aug 2026 02:53:07 GMT",
+    "connection": "keep-alive",
+    "keep-alive": "timeout=5"
+  },
+  "body": "{\n  \"gemini\": {\n    \"available\": false,\n    \"defaultModel\": \"gemini-2.5-flash\",\n    \"anonymousDailyQuota\": 1000\n  }\n}"
+}

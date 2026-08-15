@@ -1,0 +1,17 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "url": "http://127.0.0.1:8788/api/healthz",
+  "headers": {
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "https://academy.example",
+    "vary": "Origin",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "15",
+    "etag": "W/\"f-VaSQ4oDUiZblZNAEkkN+sX+q3Sg\"",
+    "date": "Sat, 15 Aug 2026 02:53:02 GMT",
+    "connection": "keep-alive",
+    "keep-alive": "timeout=5"
+  },
+  "body": "{\n  \"status\": \"ok\"\n}"
+}
