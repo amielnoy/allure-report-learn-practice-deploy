@@ -1,0 +1,15 @@
+{
+  "status": 400,
+  "statusText": "Bad Request",
+  "url": "http://127.0.0.1:8788/api/stripe/webhook",
+  "headers": {
+    "x-powered-by": "Express",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "36",
+    "etag": "W/\"24-0w/fHMRqhrtSsv7cYNPDCENhZ60\"",
+    "date": "Sun, 16 Aug 2026 03:00:41 GMT",
+    "connection": "keep-alive",
+    "keep-alive": "timeout=5"
+  },
+  "body": "{\n  \"error\": \"Webhook processing error\"\n}"
+}
