@@ -1,0 +1,20 @@
+{
+  "status": 400,
+  "statusText": "Bad Request",
+  "url": "http://127.0.0.1:8790/api/ai/generate",
+  "headers": {
+    "x-powered-by": "Express",
+    "vary": "Origin",
+    "ratelimit": "\"1000-in-1min\"; r=998; t=60, \"2-in-1day\"; r=0; t=86400",
+    "ratelimit-policy": "\"1000-in-1min\"; q=1000; w=60; pk=:MTJjYTE3YjQ5YWYy:, \"2-in-1day\"; q=2; w=86400; pk=:MTJjYTE3YjQ5YWYy:",
+    "x-ai-quota-limit": "2",
+    "x-ai-quota-remaining": "0",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "86",
+    "etag": "W/\"56-W17FtV5OQtUWt3K4RPJrveZglKs\"",
+    "date": "Tue, 18 Aug 2026 06:00:14 GMT",
+    "connection": "keep-alive",
+    "keep-alive": "timeout=5"
+  },
+  "body": "{\n  \"error\": \"Invalid request body\",\n  \"issues\": [\n    {\n      \"path\": [\n        \"messages\"\n      ],\n      \"message\": \"Required\"\n    }\n  ]\n}"
+}

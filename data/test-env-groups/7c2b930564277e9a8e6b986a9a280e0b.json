@@ -1,1 +1,1 @@
-{"id":"7c2b930564277e9a8e6b986a9a280e0b","fullName":"domUtils.spec.ts:157:3","name":"strips markdown and reports the links it removed","status":"passed","testResultsByEnv":{"default":"69b5b968fefc55c4daabb2e8761361b9"}}
+{"id":"7c2b930564277e9a8e6b986a9a280e0b","fullName":"domUtils.spec.ts:157:3","name":"strips markdown and reports the links it removed","status":"passed","testResultsByEnv":{"default":"200e2ae4bd719046b1f4edd05588e018"}}
