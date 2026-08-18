@@ -1,0 +1,6 @@
+{
+  "method": "POST",
+  "url": "/api/ai/generate",
+  "headers": {},
+  "body": {}
+}

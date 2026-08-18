@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "/api/ai/generate",
+  "headers": {},
+  "body": {
+    "messages": [
+      {
+        "role": "user",
+        "content": "hi"
+      }
+    ],
+    "grounded": true
+  }
+}

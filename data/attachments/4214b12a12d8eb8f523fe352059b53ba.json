@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "http://127.0.0.1:8789/api/ai/generate",
+  "headers": {},
+  "body": {
+    "messages": [
+      {
+        "role": "user",
+        "content": "hi"
+      }
+    ],
+    "grounded": false
+  }
+}

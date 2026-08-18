@@ -1,0 +1,1 @@
+{"id":"05d5040205ef38e306eeb21873427681","fullName":"providers.spec.ts:55:3","name":"targets the OpenAI-compatible chat endpoint and sends the key as a bearer token","status":"passed","testResultsByEnv":{"default":"254b70c968731d6a971f7385e3bd7ff3"}}
