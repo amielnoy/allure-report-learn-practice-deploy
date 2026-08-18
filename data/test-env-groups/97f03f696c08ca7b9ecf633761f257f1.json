@@ -1,1 +1,1 @@
-{"id":"97f03f696c08ca7b9ecf633761f257f1","fullName":"domUtils.spec.ts:145:3","name":"only treats http and mailto targets as markdown links","status":"passed","testResultsByEnv":{"default":"a53419c2271e5f8214c411317499f435"}}
+{"id":"97f03f696c08ca7b9ecf633761f257f1","fullName":"domUtils.spec.ts:145:3","name":"only treats http and mailto targets as markdown links","status":"passed","testResultsByEnv":{"default":"503fa16123927138dd05b468cd79dbe6"}}
