@@ -1,1 +1,1 @@
-{"id":"9113782d5da4ad537b835db1ae54c852","fullName":"providers.spec.ts:271:3","name":"does not treat a brace inside a string as structure","status":"passed","testResultsByEnv":{"default":"774975b13cd89d72dfdc67feade1d4b5"}}
+{"id":"9113782d5da4ad537b835db1ae54c852","fullName":"providers.spec.ts:271:3","name":"does not treat a brace inside a string as structure","status":"passed","testResultsByEnv":{"default":"69fcb76738d622d1fbbdd128739b5774"}}

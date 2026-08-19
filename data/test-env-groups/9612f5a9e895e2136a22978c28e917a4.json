@@ -1,1 +1,1 @@
-{"id":"9612f5a9e895e2136a22978c28e917a4","fullName":"openapi.spec.ts:135:5","name":"GET /healthz returns a body its schema accepts","status":"passed","testResultsByEnv":{"default":"12e5afff4ebc8077dca4ef6f8142b469"}}
+{"id":"9612f5a9e895e2136a22978c28e917a4","fullName":"openapi.spec.ts:135:5","name":"GET /healthz returns a body its schema accepts","status":"passed","testResultsByEnv":{"default":"d9244a212b4bdd19c4c6c2742c389d39"}}

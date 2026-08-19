@@ -1,0 +1,20 @@
+{
+  "status": 400,
+  "statusText": "Bad Request",
+  "url": "http://127.0.0.1:8789/api/ai/generate",
+  "headers": {
+    "x-powered-by": "Express",
+    "vary": "Origin",
+    "ratelimit": "\"1000-in-1min\"; r=990; t=60, \"1000-in-1day\"; r=990; t=86400",
+    "ratelimit-policy": "\"1000-in-1min\"; q=1000; w=60; pk=:MTJjYTE3YjQ5YWYy:, \"1000-in-1day\"; q=1000; w=86400; pk=:MTJjYTE3YjQ5YWYy:",
+    "x-ai-quota-limit": "1000",
+    "x-ai-quota-remaining": "990",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "59",
+    "etag": "W/\"3b-pX+xDxJvOe6N18bWChvcxMjvgSA\"",
+    "date": "Wed, 19 Aug 2026 03:04:04 GMT",
+    "connection": "keep-alive",
+    "keep-alive": "timeout=5"
+  },
+  "body": "{\n  \"error\": \"API key not valid. Please pass a valid API key.\"\n}"
+}
