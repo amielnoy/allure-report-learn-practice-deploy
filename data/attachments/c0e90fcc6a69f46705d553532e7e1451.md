@@ -1,0 +1,198 @@
+# Instructions
+
+- Following Playwright test failed.
+- Explain why, be concise, respect Playwright best practices.
+- Provide a snippet of code with the fix, if possible.
+
+# Test info
+
+- Name: ResumeAgent.spec.tsx >> a résumé with no text layer >> leaves the editor empty rather than half-filling it
+- Location: component/ResumeAgent.spec.tsx:46:3
+
+# Error details
+
+```
+Error: expect(locator).toHaveText(expected) failed
+
+Locator: locator('#root').locator('internal:control=component').locator('#resumeErr')
+Error: expected value must be a string or regular expression
+Expected has value: undefined
+
+```
+
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - heading "01 Agent 1 — Resume & Cover Letter" [level=2] [ref=e4]
+  - paragraph [ref=e5]: Upload your CV and get a scored evaluation with strengths, gaps, and an AI-rewritten version tailored to any QA or SDET role.
+  - generic [ref=e6]:
+    - heading "📄 Evaluate & improve your resume" [level=3] [ref=e7]
+    - generic [ref=e8]: Target role (optional)
+    - textbox "Target role (optional)" [ref=e9]:
+      - /placeholder: e.g. SDET, QA Automation Lead, DevOps Engineer
+    - button "Upload resume — click or drag a file" [ref=e10]: undefinedscanned-resume.pdf...
+    - generic [ref=e11]: "Or paste your resume text:"
+    - textbox "Or paste your resume text:" [ref=e12]:
+      - /placeholder: Paste your resume text here…
+    - generic [ref=e13]: Job description (optional — for targeted rewrite)
+    - textbox "Job description (optional — for targeted rewrite)" [ref=e14]:
+      - /placeholder: Paste the job description here to get a targeted rewrite…
+    - alert
+    - button "📊 Evaluate resume" [ref=e15]
+```
+
+# Test source
+
+```ts
+  1   | import { test, expect } from './fixtures';
+  2   | import { en } from '@academy/lib/locales';
+  3   | import { imageOnlyPdf, longResumeText, textPdf } from '../support/pdfFixtures';
+  4   | 
+  5   | /**
+  6   |  * The résumé uploader, driven with real PDFs through the real pdf.js.
+  7   |  *
+  8   |  * The case worth the setup is the résumé that is a picture of a résumé. It has
+  9   |  * been reached twice from different directions — once by the site's own
+  10  |  * rasterising fallback, which emitted image-only PDFs whenever the Hebrew font
+  11  |  * failed to load, and once by an applicant simply scanning a printout. Both
+  12  |  * produce a file that looks right to the person holding it and is empty to
+  13  |  * every machine that reads one, an applicant tracking system included, so
+  14  |  * saying "could not extract text" and stopping there leaves the reader with no
+  15  |  * idea that their file is the problem.
+  16  |  *
+  17  |  * These tests therefore assert on which message comes back, not merely that
+  18  |  * some error did: the two failures need different things from the reader.
+  19  |  */
+  20  | 
+  21  | const S = en.s;
+  22  | 
+  23  | /** Comfortably past the length below which the component calls extraction failed. */
+  24  | const FULL_RESUME =
+  25  |   'Amiel Peled\nQA Automation Engineer\namielnoy@gmail.com\n\n' +
+  26  |   'SUMMARY\nAutomation engineer building Playwright suites and CI pipelines.\n\n' +
+  27  |   'SKILLS\nPlaywright, TypeScript, Node.js, CI/CD, REST APIs, SQL';
+  28  | 
+  29  | test.describe('a résumé with no text layer', () => {
+  30  |   test('is named as a scan rather than as an extraction that came up short', async ({
+  31  |     resumeAgent,
+  32  |   }) => {
+  33  |     await resumeAgent.upload('scanned-resume.pdf', imageOnlyPdf());
+  34  | 
+  35  |     await expect(resumeAgent.error).toHaveText(S.errScannedPdf);
+  36  |   });
+  37  | 
+  38  |   test('warns that no applicant tracking system can read it either', async ({ resumeAgent }) => {
+  39  |     // The consequence, not the mechanism: someone whose only copy is a scan has
+  40  |     // a problem well beyond this upload failing, and this is where they find out.
+  41  |     await resumeAgent.upload('scanned-resume.pdf', imageOnlyPdf());
+  42  | 
+  43  |     await expect(resumeAgent.error).toContainText('applicant tracking system');
+  44  |   });
+  45  | 
+  46  |   test('leaves the editor empty rather than half-filling it', async ({ resumeAgent }) => {
+  47  |     await resumeAgent.upload('scanned-resume.pdf', imageOnlyPdf());
+  48  | 
+> 49  |     await expect(resumeAgent.error).toHaveText(S.errScannedPdf);
+      |                                     ^ Error: expect(locator).toHaveText(expected) failed
+  50  |     await expect(resumeAgent.resumeText).toHaveValue('');
+  51  |     // Back to the invitation, so the zone does not sit on a filename that was
+  52  |     // never actually read.
+  53  |     await expect(resumeAgent.uploadLabel).toHaveText(S.uploadPrompt);
+  54  |   });
+  55  | });
+  56  | 
+  57  | test.describe('a résumé that does have a text layer', () => {
+  58  |   test('still reports a nearly empty one as a failed extraction', async ({ resumeAgent }) => {
+  59  |     // The distinction the scan message must not swallow. This file has real
+  60  |     // text in it, just not enough to be a résumé, and telling its owner to
+  61  |     // re-export it as a text PDF would be advice about the wrong problem.
+  62  |     await resumeAgent.upload('stub.pdf', await textPdf('Amiel'));
+  63  | 
+  64  |     await expect(resumeAgent.error).toHaveText(S.errExtractFail);
+  65  |   });
+  66  | 
+  67  |   test('loads into the editor, with the character count in the label', async ({ resumeAgent }) => {
+  68  |     await resumeAgent.upload('resume.pdf', await textPdf(FULL_RESUME));
+  69  | 
+  70  |     await expect(resumeAgent.error).toHaveText('');
+  71  |     await expect(resumeAgent.resumeText).toHaveValue(/QA Automation Engineer/);
+  72  |     await expect(resumeAgent.uploadLabel).toContainText('resume.pdf');
+  73  |     await expect(resumeAgent.uploadLabel).toContainText(S.uploadLoadedSuffix);
+  74  |   });
+  75  | });
+  76  | 
+  77  | /**
+  78  |  * One page of a résumé is read in about a millisecond, so none of this is about
+  79  |  * speed. It is about the label never sitting still long enough to be mistaken
+  80  |  * for a stall: the fetch of pdf.js and its worker is the one genuinely slow
+  81  |  * step, it happens before there is anything to count, and a zone that says the
+  82  |  * same thing throughout is what made a working upload look like a hung one.
+  83  |  */
+  84  | test.describe('while a résumé is being read', () => {
+  85  |   /** The page counters the zone showed, in order, as `{ page, pages }`. */
+  86  |   function pageCounters(labels: readonly string[]): Array<{ page: number; pages: number }> {
+  87  |     return labels
+  88  |       .filter(label => label.includes(S.uploadPageMid))
+  89  |       .map(label => {
+  90  |         const counter = label.slice(label.indexOf(S.uploadPageMid) + S.uploadPageMid.length);
+  91  |         const [page, pages] = counter.replace(/\.{3}$/, '').split(S.uploadPageOf);
+  92  |         return { page: Number(page), pages: Number(pages) };
+  93  |       });
+  94  |   }
+  95  | 
+  96  |   test('says it is getting ready before it can count anything', async ({ resumeAgent }) => {
+  97  |     const read = await resumeAgent.recordUploadLabels();
+  98  | 
+  99  |     await resumeAgent.upload('resume.pdf', await textPdf(FULL_RESUME));
+  100 |     await expect(resumeAgent.resumeText).toHaveValue(/QA Automation Engineer/);
+  101 | 
+  102 |     // First state after the file is handed over, and the only one covering the
+  103 |     // download of the reader itself.
+  104 |     expect(await read()).toContain(`${S.uploadPreparing}resume.pdf...`);
+  105 |   });
+  106 | 
+  107 |   test('counts its way through a résumé that runs to several pages', async ({ resumeAgent }) => {
+  108 |     const read = await resumeAgent.recordUploadLabels();
+  109 | 
+  110 |     await resumeAgent.upload('long-resume.pdf', await textPdf(longResumeText(4)));
+  111 |     await expect(resumeAgent.resumeText).toHaveValue(/milestone 1\./);
+  112 | 
+  113 |     const counters = pageCounters(await read());
+  114 |     const total = counters[0]?.pages ?? 0;
+  115 |     expect(total).toBeGreaterThan(1);
+  116 |     // Starts at the first page, ends at the last, never goes backwards, and
+  117 |     // every step agrees on how many pages there are. Deliberately not an
+  118 |     // assertion that all N were seen: the counters are read from rendered
+  119 |     // frames, and a frame the browser coalesces under load is not a defect.
+  120 |     expect(counters[0]?.page).toBe(1);
+  121 |     expect(counters.at(-1)?.page).toBe(total);
+  122 |     expect(counters.every(c => c.pages === total)).toBe(true);
+  123 |     expect(counters.map(c => c.page)).toEqual([...counters.map(c => c.page)].sort((a, b) => a - b));
+  124 |   });
+  125 | 
+  126 |   test('leaves the counter behind once the text is in', async ({ resumeAgent }) => {
+  127 |     await resumeAgent.upload('long-resume.pdf', await textPdf(longResumeText(4)));
+  128 | 
+  129 |     await expect(resumeAgent.uploadLabel).toContainText(S.uploadLoadedSuffix);
+  130 |     await expect(resumeAgent.uploadLabel).not.toContainText(S.uploadPageMid);
+  131 |   });
+  132 | });
+  133 | 
+  134 | test.describe('choosing a file a second time', () => {
+  135 |   test('leaves the picker holding nothing, so the same file can be chosen again', async ({
+  136 |     resumeAgent,
+  137 |   }) => {
+  138 |     // A real file picker fires `change` only when the selection differs from
+  139 |     // what the input already holds, so an input still holding `resume.pdf`
+  140 |     // ignores `resume.pdf` being chosen again — and the obvious recovery from a
+  141 |     // failed upload, picking the same file once more, does nothing at all.
+  142 |     // Clearing the input after each read is what keeps that route open.
+  143 |     //
+  144 |     // Asserted on the input rather than by choosing twice: `setInputFiles`
+  145 |     // raises the events itself whatever the input holds, so a test driven that
+  146 |     // way passes with or without the clearing and proves nothing.
+  147 |     await resumeAgent.upload('resume.pdf', await textPdf(FULL_RESUME));
+  148 |     await expect(resumeAgent.resumeText).toHaveValue(/QA Automation Engineer/);
+  149 | 
+```

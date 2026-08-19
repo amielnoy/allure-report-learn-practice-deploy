@@ -1,1 +1,1 @@
-{"id":"bb635aa4299212c07ded14b44bec1b23","fullName":"ConnectionSetup.spec.tsx:33:3","name":"adopts the model the server says it defaults to","status":"failed","testResultsByEnv":{"default":"8a62ac5a386ebe6ee4a40f31742d1183"}}
+{"id":"bb635aa4299212c07ded14b44bec1b23","fullName":"ConnectionSetup.spec.tsx:33:3","name":"adopts the model the server says it defaults to","status":"passed","testResultsByEnv":{"default":"03c87a21cafbe1baab80cb2e00706a1d"}}
