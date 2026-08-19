@@ -1,0 +1,17 @@
+{
+  "status": 404,
+  "statusText": "Not Found",
+  "url": "http://127.0.0.1:8788/api/does-not-exist",
+  "headers": {
+    "x-powered-by": "Express",
+    "vary": "Origin",
+    "content-security-policy": "default-src 'none'",
+    "x-content-type-options": "nosniff",
+    "content-type": "text/html; charset=utf-8",
+    "content-length": "157",
+    "date": "Wed, 19 Aug 2026 13:45:35 GMT",
+    "connection": "keep-alive",
+    "keep-alive": "timeout=5"
+  },
+  "body": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>Cannot GET /api/does-not-exist</pre>\n</body>\n</html>\n"
+}

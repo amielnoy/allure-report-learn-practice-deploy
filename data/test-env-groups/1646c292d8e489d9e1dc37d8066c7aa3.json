@@ -1,1 +1,1 @@
-{"id":"1646c292d8e489d9e1dc37d8066c7aa3","fullName":"health.spec.ts:30:3","name":"allows a cross-origin read from the configured production origin","status":"passed","testResultsByEnv":{"default":"924ce64b63ed9d847234dd97e79dc050"}}
+{"id":"1646c292d8e489d9e1dc37d8066c7aa3","fullName":"health.spec.ts:30:3","name":"allows a cross-origin read from the configured production origin","status":"passed","testResultsByEnv":{"default":"e8a5afda3653fa15c6b7995d540528e8"}}

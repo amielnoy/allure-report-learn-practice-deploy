@@ -1,1 +1,1 @@
-{"id":"11522662a5778b552e075e727808c5bb","fullName":"stripe.spec.ts:77:3","name":"refuses an empty priceId","status":"passed","testResultsByEnv":{"default":"0ff4e24be62e318ad0009f5f7f23a139"}}
+{"id":"11522662a5778b552e075e727808c5bb","fullName":"stripe.spec.ts:77:3","name":"refuses an empty priceId","status":"passed","testResultsByEnv":{"default":"a9df896728780af48f1d481739ea6eed"}}
