@@ -1,0 +1,9 @@
+{
+  "method": "POST",
+  "url": "/api/stripe/checkout",
+  "headers": {},
+  "body": {
+    "priceId": "price_test",
+    "googleSubject": "someone-elses-account"
+  }
+}

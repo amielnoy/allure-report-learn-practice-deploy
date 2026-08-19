@@ -1,1 +1,1 @@
-{"id":"eb01196aa8cab72637a11e1d8a5c6574","fullName":"providers.spec.ts:143:3","name":"sends the key and API version as headers, and the system prompt as a field","status":"passed","testResultsByEnv":{"default":"ab9655bb6d55a0313c3de3674b194e41"}}
+{"id":"eb01196aa8cab72637a11e1d8a5c6574","fullName":"providers.spec.ts:155:3","name":"sends the key and API version as headers, and the system prompt as a field","status":"passed","testResultsByEnv":{"default":"b910c7567dc6cb9d26d309a2d4e52d95"}}

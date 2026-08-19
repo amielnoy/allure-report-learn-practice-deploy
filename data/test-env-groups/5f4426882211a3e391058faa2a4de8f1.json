@@ -1,1 +1,1 @@
-{"id":"5f4426882211a3e391058faa2a4de8f1","fullName":"domUtils.spec.ts:75:3","name":"gives a bare www. host an https scheme","status":"passed","testResultsByEnv":{"default":"070b25e498cb4952edc00781b88e1268"}}
+{"id":"5f4426882211a3e391058faa2a4de8f1","fullName":"domUtils.spec.ts:75:3","name":"gives a bare www. host an https scheme","status":"passed","testResultsByEnv":{"default":"3e6c58d33b713cd8a75fe83bd3e4b46d"}}

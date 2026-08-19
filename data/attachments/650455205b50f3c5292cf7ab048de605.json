@@ -1,0 +1,10 @@
+{
+  "method": "POST",
+  "url": "/api/stripe/checkout",
+  "headers": {
+    "authorization": "«redacted»"
+  },
+  "body": {
+    "priceId": "price_test"
+  }
+}

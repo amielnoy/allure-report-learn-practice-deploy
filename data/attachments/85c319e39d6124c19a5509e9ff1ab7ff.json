@@ -1,0 +1,16 @@
+{
+  "status": 401,
+  "statusText": "Unauthorized",
+  "url": "http://127.0.0.1:8789/api/entitlements/course",
+  "headers": {
+    "x-powered-by": "Express",
+    "vary": "Origin",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "48",
+    "etag": "W/\"30-9xdj7XPY5hURE+T/grI78b3Qmtc\"",
+    "date": "Wed, 19 Aug 2026 03:23:17 GMT",
+    "connection": "keep-alive",
+    "keep-alive": "timeout=5"
+  },
+  "body": "{\n  \"error\": \"A valid Google ID token is required.\"\n}"
+}

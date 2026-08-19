@@ -1,0 +1,7 @@
+{
+  "method": "POST",
+  "url": "http://127.0.0.1:8789/api/stripe/seed",
+  "headers": {
+    "authorization": "«redacted»"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "method": "OPTIONS",
+  "url": "/api/entitlements/course",
+  "headers": {
+    "Origin": "https://academy.example",
+    "Access-Control-Request-Method": "GET",
+    "Access-Control-Request-Headers": "authorization"
+  }
+}

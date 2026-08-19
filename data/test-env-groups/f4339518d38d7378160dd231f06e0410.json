@@ -1,1 +1,1 @@
-{"id":"f4339518d38d7378160dd231f06e0410","fullName":"openapi.spec.ts:178:5","name":"POST /stripe/checkout is implemented","status":"passed","testResultsByEnv":{"default":"a38f9da92c23e190571b75ba6f24188d"}}
+{"id":"f4339518d38d7378160dd231f06e0410","fullName":"openapi.spec.ts:182:5","name":"POST /stripe/checkout is implemented","status":"passed","testResultsByEnv":{"default":"3184ed253f8ab846e938b2e1ff58ba7b"}}

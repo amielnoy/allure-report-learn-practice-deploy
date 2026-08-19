@@ -1,1 +1,1 @@
-{"id":"152622d45fc1d5b594ba1a2b8b36569f","fullName":"ResumeAgent.spec.tsx:30:3","name":"is named as a scan rather than as an extraction that came up short","status":"failed","testResultsByEnv":{"default":"e6c1ee67f1b68535e7703915a14b5dd7"}}
+{"id":"152622d45fc1d5b594ba1a2b8b36569f","fullName":"ResumeAgent.spec.tsx:30:3","name":"is named as a scan rather than as an extraction that came up short","status":"passed","testResultsByEnv":{"default":"5bdb3f54bd4c65330f7943f9edeb88d8"}}

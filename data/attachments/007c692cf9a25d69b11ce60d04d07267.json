@@ -1,0 +1,16 @@
+{
+  "status": 400,
+  "statusText": "Bad Request",
+  "url": "http://127.0.0.1:8788/api/stripe/checkout",
+  "headers": {
+    "x-powered-by": "Express",
+    "vary": "Origin",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "120",
+    "etag": "W/\"78-PBcHs/alQVFpVKVIOsjFwCX+ucg\"",
+    "date": "Wed, 19 Aug 2026 03:23:18 GMT",
+    "connection": "keep-alive",
+    "keep-alive": "timeout=5"
+  },
+  "body": "{\n  \"error\": \"Invalid request body\",\n  \"issues\": [\n    {\n      \"path\": [\n        \"priceId\"\n      ],\n      \"message\": \"String must contain at least 1 character(s)\"\n    }\n  ]\n}"
+}

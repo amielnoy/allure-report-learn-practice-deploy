@@ -1,0 +1,7 @@
+{
+  "method": "POST",
+  "url": "/api/stripe/seed",
+  "headers": {
+    "authorization": "«redacted»"
+  }
+}

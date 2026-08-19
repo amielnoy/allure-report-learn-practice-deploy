@@ -1,1 +1,1 @@
-{"id":"cd37d92dfb6bb0b463e3982e346665f4","fullName":"providers.spec.ts:220:3","name":"throws a readable error when there is no object at all","status":"passed","testResultsByEnv":{"default":"cc724d4777170633669a5495e6dd78df"}}
+{"id":"cd37d92dfb6bb0b463e3982e346665f4","fullName":"providers.spec.ts:232:3","name":"throws a readable error when there is no object at all","status":"passed","testResultsByEnv":{"default":"1127f3172b0ba99a3130498164400ba1"}}

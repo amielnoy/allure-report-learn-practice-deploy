@@ -1,1 +1,1 @@
-{"id":"92c7979916107345aa41c6a58c169452","fullName":"providers.spec.ts:259:3","name":"stops at the matching brace, ignoring trailing prose and citations","status":"passed","testResultsByEnv":{"default":"2cc88159abc2c65b610e6bdabda860cd"}}
+{"id":"92c7979916107345aa41c6a58c169452","fullName":"providers.spec.ts:271:3","name":"stops at the matching brace, ignoring trailing prose and citations","status":"passed","testResultsByEnv":{"default":"2476396ef8ebc86a17da0a156b062768"}}

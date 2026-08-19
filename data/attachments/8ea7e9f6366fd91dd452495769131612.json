@@ -1,0 +1,8 @@
+{
+  "method": "POST",
+  "url": "/api/stripe/checkout",
+  "headers": {},
+  "body": {
+    "priceId": 42
+  }
+}
