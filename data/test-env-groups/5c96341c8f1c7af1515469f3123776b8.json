@@ -1,0 +1,1 @@
+{"id":"5c96341c8f1c7af1515469f3123776b8","fullName":"content.spec.ts:23:3","name":"GET /api/content/lecture-series degrades to a clean JSON error when Supabase is not configured","status":"passed","testResultsByEnv":{"default":"24dfab83115b6f2c191ba9ef0399efa8"}}

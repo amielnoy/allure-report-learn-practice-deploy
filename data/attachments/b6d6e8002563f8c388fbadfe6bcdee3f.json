@@ -1,0 +1,20 @@
+{
+  "status": 503,
+  "statusText": "Service Unavailable",
+  "url": "http://127.0.0.1:8788/api/ai/generate",
+  "headers": {
+    "x-powered-by": "Express",
+    "vary": "Origin",
+    "ratelimit": "\"1000-in-1min\"; r=998; t=60, \"1000-in-1day\"; r=998; t=86400",
+    "ratelimit-policy": "\"1000-in-1min\"; q=1000; w=60; pk=:MTJjYTE3YjQ5YWYy:, \"1000-in-1day\"; q=1000; w=86400; pk=:MTJjYTE3YjQ5YWYy:",
+    "x-ai-quota-limit": "1000",
+    "x-ai-quota-remaining": "998",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "52",
+    "etag": "W/\"34-tVe7cQLKVspd/5B2cTI5tdZoam8\"",
+    "date": "Thu, 20 Aug 2026 02:57:33 GMT",
+    "connection": "keep-alive",
+    "keep-alive": "timeout=5"
+  },
+  "body": "{\n  \"error\": \"No server-side Gemini key is configured.\"\n}"
+}
