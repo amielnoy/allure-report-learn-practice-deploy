@@ -1,3 +1,0 @@
-[GIVEN] retries after a failure rather than caching it forever | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePdf.spec.ts:319
-[WHEN] retries after a failure rather than caching it forever | execute test actions and assertions
-[THEN] retries after a failure rather than caching it forever | status=passed | expected=passed | duration=19ms

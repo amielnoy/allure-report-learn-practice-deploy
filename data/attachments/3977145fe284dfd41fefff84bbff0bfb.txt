@@ -1,3 +1,0 @@
-[GIVEN] keeps an email address intact | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/bidi.spec.ts:46
-[WHEN] keeps an email address intact | execute test actions and assertions
-[THEN] keeps an email address intact | status=passed | expected=passed | duration=12ms

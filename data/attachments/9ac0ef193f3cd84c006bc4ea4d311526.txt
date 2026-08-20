@@ -1,0 +1,3 @@
+[GIVEN] advertises both default keys without revealing them | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/ai.spec.ts:75
+[WHEN] advertises both default keys without revealing them | execute test actions and assertions
+[THEN] advertises both default keys without revealing them | status=passed | expected=passed | duration=13ms

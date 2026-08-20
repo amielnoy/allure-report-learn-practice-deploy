@@ -1,7 +1,0 @@
-{
-  "test": "test_a_matching_paid_session_is_recorded_once",
-  "source": "tests/test_commerce.py::test_a_matching_paid_session_is_recorded_once",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

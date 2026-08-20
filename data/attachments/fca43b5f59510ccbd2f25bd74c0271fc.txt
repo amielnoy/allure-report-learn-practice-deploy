@@ -1,3 +1,0 @@
-[GIVEN] reveals the solution and its complexity on the second click | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ChallengeCard.spec.tsx:49
-[WHEN] reveals the solution and its complexity on the second click | execute test actions and assertions
-[THEN] reveals the solution and its complexity on the second click | status=passed | expected=passed | duration=1305ms

@@ -1,7 +1,0 @@
-{
-  "test": "test_a_test_run_does_not_take_the_local_fallback",
-  "source": "tests/test_origins.py::test_a_test_run_does_not_take_the_local_fallback",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

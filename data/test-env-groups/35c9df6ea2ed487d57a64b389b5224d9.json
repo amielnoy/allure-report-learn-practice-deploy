@@ -1,1 +1,1 @@
-{"id":"35c9df6ea2ed487d57a64b389b5224d9","fullName":"tests.test_metrics#test_metrics_include_fastapi_request_history","name":"test_metrics_include_fastapi_request_history","status":"passed","testResultsByEnv":{"default":"4386518b052b204c652ef56f59fa6201"}}
+{"id":"35c9df6ea2ed487d57a64b389b5224d9","fullName":"tests.test_metrics#test_metrics_include_fastapi_request_history","name":"test_metrics_include_fastapi_request_history","status":"passed","testResultsByEnv":{"default":"5e38e1218cba19266998c144f07ae49f"}}

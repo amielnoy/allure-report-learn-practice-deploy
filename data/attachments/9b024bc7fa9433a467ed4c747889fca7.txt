@@ -1,3 +1,0 @@
-[GIVEN] returns null when the validator refuses | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/storage.spec.ts:130
-[WHEN] returns null when the validator refuses | execute test actions and assertions
-[THEN] returns null when the validator refuses | status=passed | expected=passed | duration=15ms

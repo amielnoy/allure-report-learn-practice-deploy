@@ -1,3 +1,0 @@
-[GIVEN] test_a_session_matching_the_approved_catalog_is_accepted | isolated backend fixtures | worker=gw1 | tests/test_commerce.py::test_a_session_matching_the_approved_catalog_is_accepted
-[WHEN] test_a_session_matching_the_approved_catalog_is_accepted | execute test actions and assertions
-[THEN] test_a_session_matching_the_approved_catalog_is_accepted | status=passed | duration=2ms

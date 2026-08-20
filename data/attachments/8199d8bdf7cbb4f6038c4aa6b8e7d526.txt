@@ -1,0 +1,3 @@
+[GIVEN] an unauthenticated call is refused | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/adminAuth.spec.ts:44
+[WHEN] an unauthenticated call is refused | execute test actions and assertions
+[THEN] an unauthenticated call is refused | status=passed | expected=passed | duration=19ms

@@ -1,0 +1,3 @@
+[GIVEN] repairs a damaged href when rendering HTML | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:204
+[WHEN] repairs a damaged href when rendering HTML | execute test actions and assertions
+[THEN] repairs a damaged href when rendering HTML | status=passed | expected=passed | duration=2ms

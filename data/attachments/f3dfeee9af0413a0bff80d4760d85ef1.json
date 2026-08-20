@@ -1,0 +1,7 @@
+{
+  "test": "test_a_currency_that_is_not_three_letters_stops_the_sale[u]",
+  "source": "tests/test_catalog.py::test_a_currency_that_is_not_three_letters_stops_the_sale[u]",
+  "worker": "gw1",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

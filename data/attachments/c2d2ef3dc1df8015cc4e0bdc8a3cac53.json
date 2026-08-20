@@ -1,7 +1,0 @@
-{
-  "test": "test_a_paid_session_with_no_email_cannot_be_recorded",
-  "source": "tests/test_commerce.py::test_a_paid_session_with_no_email_cannot_be_recorded",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

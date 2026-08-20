@@ -1,3 +1,0 @@
-[GIVEN] keeps every embedded Latin token forwards | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePdf.spec.ts:231
-[WHEN] keeps every embedded Latin token forwards | execute test actions and assertions
-[THEN] keeps every embedded Latin token forwards | status=passed | expected=passed | duration=114ms

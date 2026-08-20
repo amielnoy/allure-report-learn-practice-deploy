@@ -1,3 +1,0 @@
-[GIVEN] reveals one question at a time, leaving its neighbours collapsed | project=component-mobile | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/QuestionBank.spec.tsx:43
-[WHEN] reveals one question at a time, leaving its neighbours collapsed | execute test actions and assertions
-[THEN] reveals one question at a time, leaving its neighbours collapsed | status=passed | expected=passed | duration=2148ms

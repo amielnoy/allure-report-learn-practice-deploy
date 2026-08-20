@@ -1,0 +1,7 @@
+{
+  "test": "test_tax_collection_cannot_be_left_unconfigured",
+  "source": "tests/test_catalog.py::test_tax_collection_cannot_be_left_unconfigured",
+  "worker": "gw1",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

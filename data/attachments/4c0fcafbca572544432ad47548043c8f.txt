@@ -1,3 +1,0 @@
-[GIVEN] test_a_gemini_reply_joins_its_parts_and_reports_the_token_ceiling | isolated backend fixtures | worker=gw0 | tests/test_ai_gateway.py::test_a_gemini_reply_joins_its_parts_and_reports_the_token_ceiling
-[WHEN] test_a_gemini_reply_joins_its_parts_and_reports_the_token_ceiling | execute test actions and assertions
-[THEN] test_a_gemini_reply_joins_its_parts_and_reports_the_token_ceiling | status=passed | duration=13ms

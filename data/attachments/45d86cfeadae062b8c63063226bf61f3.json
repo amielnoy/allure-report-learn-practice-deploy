@@ -1,7 +1,0 @@
-{
-  "test": "test_monitor_targets_are_fixture_driven_json",
-  "source": "tests/test_monitor.py::test_monitor_targets_are_fixture_driven_json",
-  "worker": "gw0",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

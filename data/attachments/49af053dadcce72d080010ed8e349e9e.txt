@@ -1,0 +1,3 @@
+[GIVEN] is not left stateful by a previous call | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:100
+[WHEN] is not left stateful by a previous call | execute test actions and assertions
+[THEN] is not left stateful by a previous call | status=passed | expected=passed | duration=3ms

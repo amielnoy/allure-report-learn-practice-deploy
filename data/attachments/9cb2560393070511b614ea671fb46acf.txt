@@ -1,0 +1,3 @@
+[GIVEN] returns a left-to-right English catalog by default | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/i18n.spec.ts:76
+[WHEN] returns a left-to-right English catalog by default | execute test actions and assertions
+[THEN] returns a left-to-right English catalog by default | status=passed | expected=passed | duration=1ms

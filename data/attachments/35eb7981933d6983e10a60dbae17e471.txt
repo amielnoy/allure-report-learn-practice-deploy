@@ -1,0 +1,3 @@
+[GIVEN] every deck opts the rotated stage out of flex shrinking | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/lectureDecks.spec.ts:84
+[WHEN] every deck opts the rotated stage out of flex shrinking | execute test actions and assertions
+[THEN] every deck opts the rotated stage out of flex shrinking | status=passed | expected=passed | duration=7ms

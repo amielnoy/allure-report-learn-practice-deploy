@@ -1,3 +1,0 @@
-[GIVEN] requires affirmative acceptance of the terms | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/stripe.spec.ts:68
-[WHEN] requires affirmative acceptance of the terms | execute test actions and assertions
-[THEN] requires affirmative acceptance of the terms | status=passed | expected=passed | duration=36ms

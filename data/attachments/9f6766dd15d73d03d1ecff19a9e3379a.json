@@ -1,7 +1,0 @@
-{
-  "test": "test_metrics_include_fastapi_request_history",
-  "source": "tests/test_metrics.py::test_metrics_include_fastapi_request_history",
-  "worker": "gw0",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

@@ -1,0 +1,13 @@
+{
+  "status": 405,
+  "statusText": "Method Not Allowed",
+  "url": "http://127.0.0.1:8788/api/content/question-bank",
+  "headers": {
+    "date": "Thu, 20 Aug 2026 11:36:28 GMT",
+    "server": "uvicorn",
+    "allow": "GET",
+    "content-length": "31",
+    "content-type": "application/json"
+  },
+  "body": "{\n  \"detail\": \"Method Not Allowed\"\n}"
+}

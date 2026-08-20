@@ -1,0 +1,3 @@
+[GIVEN] test_allure_fixtures_become_grafana_test_metrics | isolated backend fixtures | worker=gw1 | tests/test_test_history.py::test_allure_fixtures_become_grafana_test_metrics
+[WHEN] test_allure_fixtures_become_grafana_test_metrics | execute test actions and assertions
+[THEN] test_allure_fixtures_become_grafana_test_metrics | status=passed | duration=3ms

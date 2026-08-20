@@ -1,3 +1,0 @@
-[GIVEN] targets the OpenAI-compatible chat endpoint and sends the key as a bearer token | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:67
-[WHEN] targets the OpenAI-compatible chat endpoint and sends the key as a bearer token | execute test actions and assertions
-[THEN] targets the OpenAI-compatible chat endpoint and sends the key as a bearer token | status=passed | expected=passed | duration=9ms

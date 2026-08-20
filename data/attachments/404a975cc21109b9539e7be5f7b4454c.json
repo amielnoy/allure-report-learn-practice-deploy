@@ -1,0 +1,7 @@
+{
+  "test": "test_logout_clears_session_fixture",
+  "source": "tests/test_auth_routes.py::test_logout_clears_session_fixture",
+  "worker": "gw1",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}
