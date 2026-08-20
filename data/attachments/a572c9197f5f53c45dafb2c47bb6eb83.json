@@ -1,0 +1,16 @@
+{
+  "status": 400,
+  "statusText": "Bad Request",
+  "url": "http://127.0.0.1:8788/api/stripe/checkout",
+  "headers": {
+    "x-powered-by": "Express",
+    "vary": "Origin",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "88",
+    "etag": "W/\"58-tkl/DX5c6+wiBIq90p0eDUZ2Q4k\"",
+    "date": "Thu, 20 Aug 2026 06:34:49 GMT",
+    "connection": "keep-alive",
+    "keep-alive": "timeout=5"
+  },
+  "body": "{\n  \"error\": \"Invalid request body\",\n  \"issues\": [\n    {\n      \"path\": [\n        \"email\"\n      ],\n      \"message\": \"Invalid email\"\n    }\n  ]\n}"
+}

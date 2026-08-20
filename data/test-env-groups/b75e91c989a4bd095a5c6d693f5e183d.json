@@ -1,1 +1,1 @@
-{"id":"b75e91c989a4bd095a5c6d693f5e183d","fullName":"content.spec.ts:23:3","name":"GET /api/content/coding-challenges degrades to a clean JSON error when Supabase is not configured","status":"passed","testResultsByEnv":{"default":"842f285585eb18b347fbec20c96d452d"}}
+{"id":"b75e91c989a4bd095a5c6d693f5e183d","fullName":"content.spec.ts:23:3","name":"GET /api/content/coding-challenges degrades to a clean JSON error when Supabase is not configured","status":"passed","testResultsByEnv":{"default":"840ca59b8d5a65e727c162bfba54b947"}}
