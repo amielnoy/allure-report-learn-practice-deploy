@@ -1,0 +1,2 @@
+ERROR    app.rate_limit:rate_limit.py:122 Shared rate limiting is unavailable: RATE_LIMIT_SALT (or METRICS_ID_SALT) is not set; every 'ai-burst' request is refused
+INFO     httpx:_client.py:1740 HTTP Request: POST http://test/api/ai/generate "HTTP/1.1 429 Too Many Requests"

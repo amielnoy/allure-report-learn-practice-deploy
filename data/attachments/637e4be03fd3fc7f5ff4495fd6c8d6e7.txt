@@ -1,0 +1,1 @@
+ERROR:app.rate_limit:Shared rate limiting is unavailable: RATE_LIMIT_SALT (or METRICS_ID_SALT) is not set; the 'login' quota is per-worker only

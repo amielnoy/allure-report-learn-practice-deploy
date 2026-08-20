@@ -1,3 +1,0 @@
-[GIVEN] there are code panels to check | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/lectureDecks.spec.ts:131
-[WHEN] there are code panels to check | execute test actions and assertions
-[THEN] there are code panels to check | status=passed | expected=passed | duration=58ms

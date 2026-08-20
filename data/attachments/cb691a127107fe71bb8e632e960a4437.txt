@@ -1,3 +1,0 @@
-[GIVEN] falls back to the bundled locale levels when /api/content/coding-challenges fails | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/CodingChallenges.spec.tsx:113
-[WHEN] falls back to the bundled locale levels when /api/content/coding-challenges fails | execute test actions and assertions
-[THEN] falls back to the bundled locale levels when /api/content/coding-challenges fails | status=passed | expected=passed | duration=1524ms

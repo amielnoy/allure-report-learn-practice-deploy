@@ -1,0 +1,11 @@
+{
+  "project": "component-desktop",
+  "test": "the button stays available, whatever the reason",
+  "suite": [
+    "GoogleSignIn.spec.tsx",
+    "when the server refuses the credential"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/GoogleSignIn.spec.tsx:298",
+  "retry": 0,
+  "repeat": 0
+}

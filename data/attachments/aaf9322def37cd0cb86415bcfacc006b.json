@@ -1,0 +1,7 @@
+{
+  "test": "test_relay_drops_a_client_supplied_identity_header[x-forwarded-for]",
+  "source": "tests/test_relay.py::test_relay_drops_a_client_supplied_identity_header[x-forwarded-for]",
+  "worker": "gw1",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

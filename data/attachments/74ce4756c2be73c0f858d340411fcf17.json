@@ -1,0 +1,11 @@
+{
+  "project": "component-desktop",
+  "test": "a rate-limited sign-in says to wait, not to try again",
+  "suite": [
+    "GoogleSignIn.spec.tsx",
+    "when the server refuses the credential"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/GoogleSignIn.spec.tsx:268",
+  "retry": 0,
+  "repeat": 0
+}

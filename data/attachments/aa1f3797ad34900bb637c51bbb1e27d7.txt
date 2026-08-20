@@ -1,3 +1,0 @@
-[GIVEN] is present in every deck | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/lectureDecks.spec.ts:97
-[WHEN] is present in every deck | execute test actions and assertions
-[THEN] is present in every deck | status=passed | expected=passed | duration=50ms

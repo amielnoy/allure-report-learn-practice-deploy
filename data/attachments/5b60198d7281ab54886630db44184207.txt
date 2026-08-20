@@ -1,3 +1,0 @@
-[GIVEN] warns that no applicant tracking system can read it either | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ResumeAgent.spec.tsx:55
-[WHEN] warns that no applicant tracking system can read it either | execute test actions and assertions
-[THEN] warns that no applicant tracking system can read it either | status=passed | expected=passed | duration=2222ms

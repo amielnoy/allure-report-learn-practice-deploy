@@ -1,0 +1,2 @@
+INFO:httpx:HTTP Request: POST https://ata-api.fly.dev/api/auth/google "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://test/api/auth/google "HTTP/1.1 200 OK"

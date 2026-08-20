@@ -1,3 +1,0 @@
-[GIVEN] is case-insensitive, because file managers are not consistent | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/documentText.spec.ts:57
-[WHEN] is case-insensitive, because file managers are not consistent | execute test actions and assertions
-[THEN] is case-insensitive, because file managers are not consistent | status=passed | expected=passed | duration=9ms

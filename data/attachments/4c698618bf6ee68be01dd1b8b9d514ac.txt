@@ -1,3 +1,0 @@
-[GIVEN] reveals the hint on the first click, without giving away the solution | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ChallengeCard.spec.tsx:37
-[WHEN] reveals the hint on the first click, without giving away the solution | execute test actions and assertions
-[THEN] reveals the hint on the first click, without giving away the solution | status=passed | expected=passed | duration=1145ms

@@ -1,7 +1,0 @@
-{
-  "test": "test_a_matching_live_price_is_served_with_sales_enabled",
-  "source": "tests/test_commerce.py::test_a_matching_live_price_is_served_with_sales_enabled",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

@@ -1,1 +1,1 @@
-{"id":"c11d3c614995225adb88b640912f04b5","fullName":"tests.test_monitor#test_monitor_rejects_unsafe_targets","name":"test_monitor_rejects_unsafe_targets[[]]","status":"passed","testResultsByEnv":{"default":"0902b21eba34675234f8c4f97422f3ef"}}
+{"id":"c11d3c614995225adb88b640912f04b5","fullName":"tests.test_monitor#test_monitor_rejects_unsafe_targets","name":"test_monitor_rejects_unsafe_targets[{\"bad name\":\"https://example.test\"}]","status":"passed","testResultsByEnv":{"default":"606050c885140b91ae21a641d0ec3055"}}

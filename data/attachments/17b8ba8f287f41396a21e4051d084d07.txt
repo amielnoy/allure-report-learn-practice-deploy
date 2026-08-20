@@ -1,3 +1,0 @@
-[GIVEN] keeps a link clickable on a line long enough to wrap | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePdf.spec.ts:159
-[WHEN] keeps a link clickable on a line long enough to wrap | execute test actions and assertions
-[THEN] keeps a link clickable on a line long enough to wrap | status=passed | expected=passed | duration=116ms

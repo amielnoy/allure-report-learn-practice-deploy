@@ -1,3 +1,0 @@
-[GIVEN] strips markdown and reports the links it removed | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:157
-[WHEN] strips markdown and reports the links it removed | execute test actions and assertions
-[THEN] strips markdown and reports the links it removed | status=passed | expected=passed | duration=3ms

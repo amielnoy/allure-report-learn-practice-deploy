@@ -1,7 +1,0 @@
-{
-  "test": "test_a_session_for_a_different_purchase_is_rejected[currency-eur]",
-  "source": "tests/test_commerce.py::test_a_session_for_a_different_purchase_is_rejected[currency-eur]",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

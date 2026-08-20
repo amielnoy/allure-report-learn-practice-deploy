@@ -1,0 +1,3 @@
+[GIVEN] test_an_amount_that_is_not_a_positive_number_stops_the_sale[0] | isolated backend fixtures | worker=gw1 | tests/test_catalog.py::test_an_amount_that_is_not_a_positive_number_stops_the_sale[0]
+[WHEN] test_an_amount_that_is_not_a_positive_number_stops_the_sale[0] | execute test actions and assertions
+[THEN] test_an_amount_that_is_not_a_positive_number_stops_the_sale[0] | status=passed | duration=12ms

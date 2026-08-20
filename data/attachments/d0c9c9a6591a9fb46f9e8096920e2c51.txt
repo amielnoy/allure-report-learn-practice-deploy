@@ -1,3 +1,0 @@
-[GIVEN] asks for a key when there is neither a server default nor a visitor key | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:397
-[WHEN] asks for a key when there is neither a server default nor a visitor key | execute test actions and assertions
-[THEN] asks for a key when there is neither a server default nor a visitor key | status=passed | expected=passed | duration=25ms

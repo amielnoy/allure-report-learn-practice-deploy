@@ -1,3 +1,0 @@
-[GIVEN] does not advertise the framework version | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/health.spec.ts:89
-[WHEN] does not advertise the framework version | execute test actions and assertions
-[THEN] does not advertise the framework version | status=passed | expected=passed | duration=78ms

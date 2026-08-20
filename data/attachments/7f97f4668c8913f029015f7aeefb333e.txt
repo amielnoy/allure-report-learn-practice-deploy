@@ -1,3 +1,0 @@
-[GIVEN] offers Google’s button, initialised with the configured client | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/GoogleSignIn.spec.tsx:50
-[WHEN] offers Google’s button, initialised with the configured client | execute test actions and assertions
-[THEN] offers Google’s button, initialised with the configured client | status=passed | expected=passed | duration=1510ms

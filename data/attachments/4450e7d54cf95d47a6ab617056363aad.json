@@ -1,0 +1,7 @@
+{
+  "test": "test_an_unrelated_event_type_records_nothing",
+  "source": "tests/test_commerce.py::test_an_unrelated_event_type_records_nothing",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

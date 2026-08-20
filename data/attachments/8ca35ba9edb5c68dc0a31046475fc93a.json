@@ -1,7 +1,0 @@
-{
-  "test": "test_a_failing_stripe_call_becomes_a_500_rather_than_an_unhandled_error",
-  "source": "tests/test_commerce.py::test_a_failing_stripe_call_becomes_a_500_rather_than_an_unhandled_error",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}
