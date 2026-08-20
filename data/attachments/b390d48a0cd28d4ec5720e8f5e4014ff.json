@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "offers exactly the three formats the upload zone advertises",
+  "suite": [
+    "unit/documentText.spec.ts",
+    "choosing an extractor"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/documentText.spec.ts:66",
+  "retry": 0,
+  "repeat": 0
+}

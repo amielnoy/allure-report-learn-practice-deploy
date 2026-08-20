@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "reports progress only for a format that reads page by page",
+  "suite": [
+    "unit/documentText.spec.ts",
+    "reading a file end to end"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/documentText.spec.ts:168",
+  "retry": 0,
+  "repeat": 0
+}

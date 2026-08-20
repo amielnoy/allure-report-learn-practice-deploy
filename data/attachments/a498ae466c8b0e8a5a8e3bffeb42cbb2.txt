@@ -1,0 +1,1 @@
+ERROR:app.commerce:Configured Stripe course catalog does not match the live price

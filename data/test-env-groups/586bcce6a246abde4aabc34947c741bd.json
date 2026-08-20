@@ -1,1 +1,1 @@
-{"id":"586bcce6a246abde4aabc34947c741bd","fullName":"openapi.spec.ts:170:5","name":"GET /stripe/prices answers with a documented media type","status":"passed","testResultsByEnv":{"default":"547a40d4619840e310402c27241e4766"}}
+{"id":"586bcce6a246abde4aabc34947c741bd","fullName":"openapi.spec.ts:170:5","name":"GET /stripe/prices answers with a documented media type","status":"passed","testResultsByEnv":{"default":"95f62f3568c4a4b454938a0bc8b476e7"}}

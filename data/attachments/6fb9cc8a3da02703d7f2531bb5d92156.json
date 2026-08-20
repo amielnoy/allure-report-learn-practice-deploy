@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "reads the extension from the last dot, not the first",
+  "suite": [
+    "unit/documentText.spec.ts",
+    "choosing an extractor"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/documentText.spec.ts:53",
+  "retry": 0,
+  "repeat": 0
+}

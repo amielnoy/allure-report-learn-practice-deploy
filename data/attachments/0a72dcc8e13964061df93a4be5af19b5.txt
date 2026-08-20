@@ -1,0 +1,3 @@
+[GIVEN] stops at the matching brace, ignoring trailing prose and citations | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:271
+[WHEN] stops at the matching brace, ignoring trailing prose and citations | execute test actions and assertions
+[THEN] stops at the matching brace, ignoring trailing prose and citations | status=passed | expected=passed | duration=9ms

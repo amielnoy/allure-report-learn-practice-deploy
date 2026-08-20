@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "names the size limit for a file above it",
+  "suite": [
+    "unit/documentText.spec.ts",
+    "refusals that need no parser"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/documentText.spec.ts:82",
+  "retry": 0,
+  "repeat": 0
+}

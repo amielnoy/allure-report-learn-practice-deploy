@@ -1,0 +1,8 @@
+ERROR:app.commerce:Stripe webhook error
+Traceback (most recent call last):
+  File "/home/runner/work/LearnPracticeWork/LearnPracticeWork/server/app/commerce.py", line 312, in handle
+    event = await self._verified_event(payload, signature)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/LearnPracticeWork/LearnPracticeWork/server/app/commerce.py", line 323, in _verified_event
+    raise RuntimeError("Stripe integration supplied no webhook secret")
+RuntimeError: Stripe integration supplied no webhook secret

@@ -1,0 +1,3 @@
+[GIVEN] a content failure does not take the rest of the server with it | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/content.spec.ts:52
+[WHEN] a content failure does not take the rest of the server with it | execute test actions and assertions
+[THEN] a content failure does not take the rest of the server with it | status=passed | expected=passed | duration=38ms

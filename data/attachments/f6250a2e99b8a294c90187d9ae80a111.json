@@ -1,0 +1,7 @@
+{
+  "test": "test_localhost_is_allowed_by_cors_outside_production",
+  "source": "tests/test_origins.py::test_localhost_is_allowed_by_cors_outside_production",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

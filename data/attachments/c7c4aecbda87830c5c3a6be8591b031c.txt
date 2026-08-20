@@ -1,3 +1,0 @@
-[GIVEN] receives the body as raw bytes, not parsed JSON | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/stripe.spec.ts:44
-[WHEN] receives the body as raw bytes, not parsed JSON | execute test actions and assertions
-[THEN] receives the body as raw bytes, not parsed JSON | status=passed | expected=passed | duration=37ms

@@ -1,7 +1,0 @@
-{
-  "test": "test_wrong_signature_is_rejected",
-  "source": "tests/test_google_auth.py::test_wrong_signature_is_rejected",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

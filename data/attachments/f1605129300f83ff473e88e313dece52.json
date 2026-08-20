@@ -1,0 +1,10 @@
+{
+  "project": "unit",
+  "test": "does not let a traversal sequence survive as one",
+  "suite": [
+    "unit/resumeExport.spec.ts"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumeExport.spec.ts:31",
+  "retry": 0,
+  "repeat": 0
+}

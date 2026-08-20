@@ -1,0 +1,3 @@
+[GIVEN] renders all six main sections | project=e2e-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/e2e/home.spec.ts:21
+[WHEN] renders all six main sections | execute test actions and assertions
+[THEN] renders all six main sections | status=passed | expected=passed | duration=4114ms

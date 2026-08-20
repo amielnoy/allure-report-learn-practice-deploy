@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "is case-insensitive, because file managers are not consistent",
+  "suite": [
+    "unit/documentText.spec.ts",
+    "choosing an extractor"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/documentText.spec.ts:57",
+  "retry": 0,
+  "repeat": 0
+}

@@ -1,3 +1,0 @@
-[GIVEN] emits as many closing brackets as opening ones | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/bidi.spec.ts:106
-[WHEN] emits as many closing brackets as opening ones | execute test actions and assertions
-[THEN] emits as many closing brackets as opening ones | status=passed | expected=passed | duration=9ms

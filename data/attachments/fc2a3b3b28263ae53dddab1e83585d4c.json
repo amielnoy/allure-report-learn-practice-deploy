@@ -1,0 +1,7 @@
+{
+  "test": "test_gemini_maps_an_assistant_turn_to_the_model_role",
+  "source": "tests/test_ai_gateway.py::test_gemini_maps_an_assistant_turn_to_the_model_role",
+  "worker": "gw1",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "is refused when it was saved in the other language",
+  "suite": [
+    "unit/interviewSession.spec.ts",
+    "a transcript that should not be restored"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/interviewSession.spec.ts:58",
+  "retry": 0,
+  "repeat": 0
+}

@@ -1,0 +1,12 @@
+{
+  "status": 400,
+  "statusText": "Bad Request",
+  "url": "http://127.0.0.1:8788/api/stripe/checkout",
+  "headers": {
+    "date": "Thu, 20 Aug 2026 10:38:48 GMT",
+    "server": "uvicorn",
+    "content-length": "107",
+    "content-type": "application/json"
+  },
+  "body": "{\n  \"error\": \"Invalid request body\",\n  \"issues\": [\n    {\n      \"path\": [\n        \"priceId\"\n      ],\n      \"message\": \"Extra inputs are not permitted\"\n    }\n  ]\n}"
+}

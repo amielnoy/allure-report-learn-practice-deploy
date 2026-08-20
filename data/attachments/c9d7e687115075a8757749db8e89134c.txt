@@ -1,0 +1,1 @@
+ERROR    app.commerce:commerce.py:335 Ignoring paid checkout while course sales configuration is incomplete

@@ -1,3 +1,0 @@
-[GIVEN] reads a top-level array, not only an object | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:264
-[WHEN] reads a top-level array, not only an object | execute test actions and assertions
-[THEN] reads a top-level array, not only an object | status=passed | expected=passed | duration=11ms

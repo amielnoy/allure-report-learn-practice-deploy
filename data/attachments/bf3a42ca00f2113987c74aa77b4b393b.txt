@@ -1,3 +1,0 @@
-[GIVEN] test_scalar_reference_is_served_without_agent_telemetry_or_proxy | isolated backend fixtures | worker=gw0 | tests/test_scalar_docs.py::test_scalar_reference_is_served_without_agent_telemetry_or_proxy
-[WHEN] test_scalar_reference_is_served_without_agent_telemetry_or_proxy | execute test actions and assertions
-[THEN] test_scalar_reference_is_served_without_agent_telemetry_or_proxy | status=passed | duration=31ms

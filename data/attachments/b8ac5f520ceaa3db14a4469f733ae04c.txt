@@ -1,3 +1,0 @@
-[GIVEN] linkifies a bare URL sitting outside markdown syntax | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:124
-[WHEN] linkifies a bare URL sitting outside markdown syntax | execute test actions and assertions
-[THEN] linkifies a bare URL sitting outside markdown syntax | status=passed | expected=passed | duration=13ms

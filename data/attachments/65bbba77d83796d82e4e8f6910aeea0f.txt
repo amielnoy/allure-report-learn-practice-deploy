@@ -1,3 +1,0 @@
-[GIVEN] is identical across all of them | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/lectureDecks.spec.ts:59
-[WHEN] is identical across all of them | execute test actions and assertions
-[THEN] is identical across all of them | status=passed | expected=passed | duration=38ms

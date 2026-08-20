@@ -1,0 +1,3 @@
+[GIVEN] returns to the button | project=component-mobile | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/GoogleSignIn.spec.tsx:155
+[WHEN] returns to the button | execute test actions and assertions
+[THEN] returns to the button | status=passed | expected=passed | duration=1232ms

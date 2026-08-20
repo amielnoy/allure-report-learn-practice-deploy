@@ -1,7 +1,0 @@
-{
-  "test": "test_checkout_returns_to_the_allowlisted_replit_app",
-  "source": "tests/test_integrations.py::test_checkout_returns_to_the_allowlisted_replit_app",
-  "worker": "gw0",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

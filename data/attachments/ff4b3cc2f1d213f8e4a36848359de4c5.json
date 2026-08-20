@@ -1,0 +1,10 @@
+{
+  "project": "unit",
+  "test": "names the file after the role it was targeted at",
+  "suite": [
+    "unit/resumeExport.spec.ts"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumeExport.spec.ts:18",
+  "retry": 0,
+  "repeat": 0
+}

@@ -1,3 +1,0 @@
-[GIVEN] the home screen presents the three primary tools clearly | project=e2e-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/e2e/tools.spec.ts:3
-[WHEN] the home screen presents the three primary tools clearly | execute test actions and assertions
-[THEN] the home screen presents the three primary tools clearly | status=passed | expected=passed | duration=2318ms

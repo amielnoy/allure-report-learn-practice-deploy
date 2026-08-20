@@ -1,0 +1,1 @@
+{"id":"e2041a81618a2e96afabf2d692d8c4dc","fullName":"documentText.spec.ts:137:3","name":"refuses a file the precheck already rejected, without reading it","status":"passed","testResultsByEnv":{"default":"490b21eb758c3b8b5ff332976daa2690"}}

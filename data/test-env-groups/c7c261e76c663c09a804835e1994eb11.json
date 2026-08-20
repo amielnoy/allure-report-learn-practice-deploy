@@ -1,1 +1,1 @@
-{"id":"c7c261e76c663c09a804835e1994eb11","fullName":"providers.spec.ts:251:3","name":"drops trailing commas before a closing bracket or brace","status":"passed","testResultsByEnv":{"default":"30237327f36d9ce0157578da198e04c8"}}
+{"id":"c7c261e76c663c09a804835e1994eb11","fullName":"providers.spec.ts:251:3","name":"drops trailing commas before a closing bracket or brace","status":"passed","testResultsByEnv":{"default":"0b98bd7ac3b528221e361b470b6f78d6"}}

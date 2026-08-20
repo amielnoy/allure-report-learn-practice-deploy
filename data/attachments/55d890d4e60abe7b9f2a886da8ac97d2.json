@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "does not take the surviving entries down with it",
+  "suite": [
+    "unit/interviewSession.spec.ts",
+    "a tampered entry inside an otherwise valid transcript"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/interviewSession.spec.ts:106",
+  "retry": 0,
+  "repeat": 0
+}

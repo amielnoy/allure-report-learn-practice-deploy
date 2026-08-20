@@ -1,0 +1,3 @@
+[GIVEN] places the first link of an RTL line at the right margin | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePdf.spec.ts:280
+[WHEN] places the first link of an RTL line at the right margin | execute test actions and assertions
+[THEN] places the first link of an RTL line at the right margin | status=passed | expected=passed | duration=40ms

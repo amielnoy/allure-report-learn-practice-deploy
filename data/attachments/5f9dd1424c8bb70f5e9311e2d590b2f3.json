@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "accepts a file exactly at the limit",
+  "suite": [
+    "unit/documentText.spec.ts",
+    "refusals that need no parser"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/documentText.spec.ts:86",
+  "retry": 0,
+  "repeat": 0
+}

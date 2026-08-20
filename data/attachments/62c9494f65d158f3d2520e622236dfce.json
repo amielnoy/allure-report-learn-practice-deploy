@@ -1,0 +1,10 @@
+{
+  "project": "unit",
+  "test": "keeps a Hebrew role intact, since it is a valid filename",
+  "suite": [
+    "unit/resumeExport.spec.ts"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumeExport.spec.ts:35",
+  "retry": 0,
+  "repeat": 0
+}

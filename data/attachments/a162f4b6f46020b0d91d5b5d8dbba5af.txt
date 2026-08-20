@@ -1,3 +1,0 @@
-[GIVEN] keeps serving other routes after a Stripe failure | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/stripe.spec.ts:144
-[WHEN] keeps serving other routes after a Stripe failure | execute test actions and assertions
-[THEN] keeps serving other routes after a Stripe failure | status=passed | expected=passed | duration=37ms

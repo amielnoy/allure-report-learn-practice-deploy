@@ -1,7 +1,0 @@
-{
-  "test": "test_invalid_claims_are_rejected[issuer]",
-  "source": "tests/test_google_auth.py::test_invalid_claims_are_rejected[issuer]",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

@@ -1,0 +1,3 @@
+[GIVEN] is restored, so a reload does not lose the interview | project=component-mobile | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/InterviewAgent.spec.tsx:77
+[WHEN] is restored, so a reload does not lose the interview | execute test actions and assertions
+[THEN] is restored, so a reload does not lose the interview | status=passed | expected=passed | duration=1159ms

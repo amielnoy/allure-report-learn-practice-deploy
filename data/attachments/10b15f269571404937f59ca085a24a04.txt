@@ -1,0 +1,3 @@
+[GIVEN] renders the footer with a safe external author link | project=e2e-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/e2e/sanity.spec.ts:27
+[WHEN] renders the footer with a safe external author link | execute test actions and assertions
+[THEN] renders the footer with a safe external author link | status=passed | expected=passed | duration=3082ms

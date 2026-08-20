@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "reports an interview that was still running",
+  "suite": [
+    "unit/interviewSession.spec.ts",
+    "a transcript that should be restored"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/interviewSession.spec.ts:47",
+  "retry": 0,
+  "repeat": 0
+}

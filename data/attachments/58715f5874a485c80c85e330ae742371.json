@@ -1,0 +1,10 @@
+{
+  "project": "unit",
+  "test": "caps the length so a pasted job description cannot become the filename",
+  "suite": [
+    "unit/resumeExport.spec.ts"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumeExport.spec.ts:39",
+  "retry": 0,
+  "repeat": 0
+}

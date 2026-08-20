@@ -1,0 +1,8 @@
+ERROR:app.commerce:Stripe checkout creation failed
+Traceback (most recent call last):
+  File "/home/runner/work/LearnPracticeWork/LearnPracticeWork/server/app/commerce.py", line 121, in create
+    session = await self._gateway.create_checkout_session(params)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/LearnPracticeWork/LearnPracticeWork/server/tests/test_commerce.py", line 192, in create_checkout_session
+    raise RuntimeError("Stripe is down")
+RuntimeError: Stripe is down

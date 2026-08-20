@@ -1,0 +1,10 @@
+{
+  "project": "unit",
+  "test": "collapses a run of reserved characters into one dash",
+  "suite": [
+    "unit/resumeExport.spec.ts"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumeExport.spec.ts:27",
+  "retry": 0,
+  "repeat": 0
+}

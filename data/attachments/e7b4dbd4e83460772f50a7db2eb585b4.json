@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "reports a document past the editor bound as too long",
+  "suite": [
+    "unit/documentText.spec.ts",
+    "reading a file end to end"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/documentText.spec.ts:151",
+  "retry": 0,
+  "repeat": 0
+}
