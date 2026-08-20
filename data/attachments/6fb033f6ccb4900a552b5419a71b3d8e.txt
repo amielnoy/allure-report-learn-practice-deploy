@@ -1,3 +1,0 @@
-[GIVEN] does not pull fonts in through a remote CSS @import | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/fontLoading.spec.ts:107
-[WHEN] does not pull fonts in through a remote CSS @import | execute test actions and assertions
-[THEN] does not pull fonts in through a remote CSS @import | status=passed | expected=passed | duration=8ms

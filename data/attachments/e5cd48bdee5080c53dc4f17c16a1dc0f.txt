@@ -1,3 +1,0 @@
-[GIVEN] survives a stored value that is not JSON at all | project=component-mobile | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/InterviewAgent.spec.tsx:143
-[WHEN] survives a stored value that is not JSON at all | execute test actions and assertions
-[THEN] survives a stored value that is not JSON at all | status=passed | expected=passed | duration=1387ms

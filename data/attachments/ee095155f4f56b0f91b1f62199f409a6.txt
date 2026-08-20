@@ -1,0 +1,3 @@
+[GIVEN] escapes every character that could break out of markup | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:17
+[WHEN] escapes every character that could break out of markup | execute test actions and assertions
+[THEN] escapes every character that could break out of markup | status=passed | expected=passed | duration=6ms

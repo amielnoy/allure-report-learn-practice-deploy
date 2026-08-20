@@ -1,0 +1,12 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "url": "http://127.0.0.1:8788/api/ai/config",
+  "headers": {
+    "date": "Thu, 20 Aug 2026 16:15:25 GMT",
+    "server": "uvicorn",
+    "content-length": "182",
+    "content-type": "application/json"
+  },
+  "body": "{\n  \"groq\": {\n    \"available\": false,\n    \"defaultModel\": \"openai/gpt-oss-120b\",\n    \"anonymousDailyQuota\": 1000\n  },\n  \"gemini\": {\n    \"available\": false,\n    \"defaultModel\": \"gemini-2.5-flash\",\n    \"anonymousDailyQuota\": 1000\n  }\n}"
+}

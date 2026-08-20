@@ -1,1 +1,1 @@
-{"id":"014ba8c72d8764233863c7cf622b0f37","fullName":"tests.test_ai_gateway#test_a_grounded_request_cannot_borrow_an_ungrounded_model","name":"test_a_grounded_request_cannot_borrow_an_ungrounded_model","status":"passed","testResultsByEnv":{"default":"927a4d97e81d5c51225505ff2034d442"}}
+{"id":"014ba8c72d8764233863c7cf622b0f37","fullName":"tests.test_ai_gateway#test_a_grounded_request_cannot_borrow_an_ungrounded_model","name":"test_a_grounded_request_cannot_borrow_an_ungrounded_model","status":"passed","testResultsByEnv":{"default":"249d215ecec738aba02d742a96b90395"}}

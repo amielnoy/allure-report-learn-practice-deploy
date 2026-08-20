@@ -1,0 +1,7 @@
+{
+  "test": "test_a_coding_challenge_keeps_the_fields_the_client_renders",
+  "source": "tests/test_content_store.py::test_a_coding_challenge_keeps_the_fields_the_client_renders",
+  "worker": "gw1",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

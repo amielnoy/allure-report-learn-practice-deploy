@@ -1,0 +1,3 @@
+[GIVEN] test_production_cors_has_no_wildcard_pattern | isolated backend fixtures | worker=gw1 | tests/test_origins.py::test_production_cors_has_no_wildcard_pattern
+[WHEN] test_production_cors_has_no_wildcard_pattern | execute test actions and assertions
+[THEN] test_production_cors_has_no_wildcard_pattern | status=passed | duration=4ms

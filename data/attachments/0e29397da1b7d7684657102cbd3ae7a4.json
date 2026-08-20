@@ -1,0 +1,7 @@
+{
+  "test": "test_the_requested_language_filters_the_parent_table",
+  "source": "tests/test_content_store.py::test_the_requested_language_filters_the_parent_table",
+  "worker": "gw1",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

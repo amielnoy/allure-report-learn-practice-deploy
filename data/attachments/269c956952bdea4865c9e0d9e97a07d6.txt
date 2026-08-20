@@ -1,3 +1,0 @@
-[GIVEN] refuses an email that is not an address | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/stripe.spec.ts:91
-[WHEN] refuses an email that is not an address | execute test actions and assertions
-[THEN] refuses an email that is not an address | status=passed | expected=passed | duration=31ms

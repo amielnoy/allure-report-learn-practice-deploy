@@ -1,0 +1,3 @@
+[GIVEN] test_production_metrics_require_the_backend_token | isolated backend fixtures | worker=gw0 | tests/test_metrics.py::test_production_metrics_require_the_backend_token
+[WHEN] test_production_metrics_require_the_backend_token | execute test actions and assertions
+[THEN] test_production_metrics_require_the_backend_token | status=passed | duration=14ms

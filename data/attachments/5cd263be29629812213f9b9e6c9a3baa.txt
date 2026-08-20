@@ -1,0 +1,3 @@
+[GIVEN] caps how many model turns are restored | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/interviewSession.spec.ts:120
+[WHEN] caps how many model turns are restored | execute test actions and assertions
+[THEN] caps how many model turns are restored | status=passed | expected=passed | duration=9ms

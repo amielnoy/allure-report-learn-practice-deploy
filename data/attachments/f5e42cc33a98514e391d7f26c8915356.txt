@@ -1,0 +1,3 @@
+[GIVEN] tells social scrapers that a second locale exists | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/hreflang.spec.ts:114
+[WHEN] tells social scrapers that a second locale exists | execute test actions and assertions
+[THEN] tells social scrapers that a second locale exists | status=passed | expected=passed | duration=13ms

@@ -1,0 +1,3 @@
+[GIVEN] offers the choice between the server key and your own | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ConnectionSetup.spec.tsx:18
+[WHEN] offers the choice between the server key and your own | execute test actions and assertions
+[THEN] offers the choice between the server key and your own | status=passed | expected=passed | duration=1252ms

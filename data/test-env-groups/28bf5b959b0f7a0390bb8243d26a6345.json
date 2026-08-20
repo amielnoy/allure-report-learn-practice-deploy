@@ -1,1 +1,1 @@
-{"id":"28bf5b959b0f7a0390bb8243d26a6345","fullName":"tests.test_commerce#test_a_session_for_a_different_purchase_is_rejected","name":"test_a_session_for_a_different_purchase_is_rejected[price_id-None]","status":"passed","testResultsByEnv":{"default":"4517e9c26fd229adf6e4ee8443ec536f"}}
+{"id":"28bf5b959b0f7a0390bb8243d26a6345","fullName":"tests.test_commerce#test_a_session_for_a_different_purchase_is_rejected","name":"test_a_session_for_a_different_purchase_is_rejected[price_id-None]","status":"passed","testResultsByEnv":{"default":"3f67b373ccf696b03d3bf499a331ae37"}}

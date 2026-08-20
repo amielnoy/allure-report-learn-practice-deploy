@@ -1,3 +1,0 @@
-[GIVEN] counts its way through a résumé that runs to several pages | project=component-mobile | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ResumeAgent.spec.tsx:124
-[WHEN] counts its way through a résumé that runs to several pages | execute test actions and assertions
-[THEN] counts its way through a résumé that runs to several pages | status=passed | expected=passed | duration=2509ms

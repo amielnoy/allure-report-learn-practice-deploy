@@ -1,3 +1,0 @@
-[GIVEN] drops an entry whose class is not one of the two | project=component-mobile | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/InterviewAgent.spec.tsx:128
-[WHEN] drops an entry whose class is not one of the two | execute test actions and assertions
-[THEN] drops an entry whose class is not one of the two | status=passed | expected=passed | duration=1399ms

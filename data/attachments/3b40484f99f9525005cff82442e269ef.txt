@@ -1,3 +1,0 @@
-[GIVEN] locks the key field while the server key is in use | project=component-mobile | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ConnectionSetup.spec.tsx:25
-[WHEN] locks the key field while the server key is in use | execute test actions and assertions
-[THEN] locks the key field while the server key is in use | status=passed | expected=passed | duration=1472ms

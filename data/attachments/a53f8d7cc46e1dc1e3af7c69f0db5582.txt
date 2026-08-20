@@ -1,0 +1,3 @@
+[GIVEN] caps hidden reasoning effort so short replies are not starved of visible tokens | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:100
+[WHEN] caps hidden reasoning effort so short replies are not starved of visible tokens | execute test actions and assertions
+[THEN] caps hidden reasoning effort so short replies are not starved of visible tokens | status=passed | expected=passed | duration=7ms
