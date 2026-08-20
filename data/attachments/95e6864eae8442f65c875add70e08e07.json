@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "returns nothing for text without links",
+  "suite": [
+    "unit/domUtils.spec.ts",
+    "findLinks"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:96",
+  "retry": 0,
+  "repeat": 0
+}

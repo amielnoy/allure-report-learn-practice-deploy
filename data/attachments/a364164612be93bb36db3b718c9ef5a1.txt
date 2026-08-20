@@ -1,0 +1,3 @@
+[GIVEN] a primary nav link jumps to its section | project=e2e-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/e2e/navigation.spec.ts:20
+[WHEN] a primary nav link jumps to its section | execute test actions and assertions
+[THEN] a primary nav link jumps to its section | status=passed | expected=passed | duration=4211ms

@@ -1,1 +1,1 @@
-{"id":"05d5040205ef38e306eeb21873427681","fullName":"providers.spec.ts:67:3","name":"targets the OpenAI-compatible chat endpoint and sends the key as a bearer token","status":"passed","testResultsByEnv":{"default":"16151fc72e04efc799d92ec7ad3419f0"}}
+{"id":"05d5040205ef38e306eeb21873427681","fullName":"providers.spec.ts:67:3","name":"targets the OpenAI-compatible chat endpoint and sends the key as a bearer token","status":"passed","testResultsByEnv":{"default":"c547d47a2ee57565499ee61f97d6e5ca"}}

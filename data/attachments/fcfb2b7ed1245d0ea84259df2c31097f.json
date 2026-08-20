@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "replaces an existing lang parameter rather than appending one",
+  "suite": [
+    "unit/i18n.spec.ts",
+    "switchLang"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/i18n.spec.ts:109",
+  "retry": 0,
+  "repeat": 0
+}

@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "reads the first choice when parsing the reply",
+  "suite": [
+    "unit/providers.spec.ts",
+    "openai"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:213",
+  "retry": 0,
+  "repeat": 0
+}

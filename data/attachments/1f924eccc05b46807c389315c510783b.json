@@ -1,0 +1,11 @@
+{
+  "project": "api",
+  "test": "/api/content/coding-challenges answers the same whatever lang is",
+  "suite": [
+    "api/content.spec.ts",
+    "the language parameter"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/content.spec.ts:78",
+  "retry": 0,
+  "repeat": 0
+}

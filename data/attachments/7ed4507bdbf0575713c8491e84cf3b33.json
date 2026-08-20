@@ -1,0 +1,10 @@
+{
+  "project": "e2e-mobile",
+  "test": "opens the drawer and closes it once a destination is chosen",
+  "suite": [
+    "e2e/mobile-nav.spec.ts"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/e2e/mobile-nav.spec.ts:8",
+  "retry": 0,
+  "repeat": 0
+}

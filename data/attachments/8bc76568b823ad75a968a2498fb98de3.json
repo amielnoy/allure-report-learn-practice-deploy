@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "repairs a bold link too",
+  "suite": [
+    "unit/domUtils.spec.ts",
+    "URLs damaged by text extraction"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:214",
+  "retry": 0,
+  "repeat": 0
+}

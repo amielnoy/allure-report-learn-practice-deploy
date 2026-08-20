@@ -1,0 +1,10 @@
+{
+  "project": "e2e-mobile",
+  "test": "agrees with the language the app itself resolves",
+  "suite": [
+    "e2e/seoHead.spec.ts"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/e2e/seoHead.spec.ts:64",
+  "retry": 0,
+  "repeat": 0
+}

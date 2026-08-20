@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "linkifies a bare URL sitting outside markdown syntax",
+  "suite": [
+    "unit/domUtils.spec.ts",
+    "linkifyHtml"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:124",
+  "retry": 0,
+  "repeat": 0
+}

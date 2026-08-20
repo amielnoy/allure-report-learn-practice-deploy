@@ -1,0 +1,11 @@
+{
+  "project": "e2e-desktop",
+  "test": "is ignored, and the document falls back to a real theme",
+  "suite": [
+    "e2e/appearance.spec.ts",
+    "a tampered theme preference"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/e2e/appearance.spec.ts:40",
+  "retry": 0,
+  "repeat": 0
+}

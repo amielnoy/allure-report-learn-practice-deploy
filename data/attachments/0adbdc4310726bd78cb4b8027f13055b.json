@@ -1,0 +1,11 @@
+{
+  "project": "api",
+  "test": "reports that sales are disabled without contacting Stripe",
+  "suite": [
+    "api/stripe.spec.ts",
+    "Stripe routes without backend secrets"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/stripe.spec.ts:125",
+  "retry": 0,
+  "repeat": 0
+}

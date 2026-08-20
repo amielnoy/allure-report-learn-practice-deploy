@@ -1,0 +1,10 @@
+{
+  "project": "api",
+  "test": "content does not depend on a key, so both servers answer alike",
+  "suite": [
+    "api/content.spec.ts"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/content.spec.ts:98",
+  "retry": 0,
+  "repeat": 0
+}

@@ -1,0 +1,10 @@
+{
+  "project": "component-mobile",
+  "test": "collapses back to the prompt on the third click",
+  "suite": [
+    "ChallengeCard.spec.tsx"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ChallengeCard.spec.tsx:61",
+  "retry": 0,
+  "repeat": 0
+}

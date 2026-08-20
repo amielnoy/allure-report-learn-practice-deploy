@@ -1,0 +1,11 @@
+{
+  "project": "api",
+  "test": "a prefix of the token is refused",
+  "suite": [
+    "api/adminAuth.spec.ts",
+    "with an admin token configured"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/adminAuth.spec.ts:67",
+  "retry": 0,
+  "repeat": 0
+}

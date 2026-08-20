@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "recovers unescaped quotes inside a string value",
+  "suite": [
+    "unit/providers.spec.ts",
+    "extractJSON"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:289",
+  "retry": 0,
+  "repeat": 0
+}

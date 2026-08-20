@@ -1,0 +1,11 @@
+{
+  "project": "component-desktop",
+  "test": "is named as a scan rather than as an extraction that came up short",
+  "suite": [
+    "ResumeAgent.spec.tsx",
+    "a résumé with no text layer"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ResumeAgent.spec.tsx:47",
+  "retry": 0,
+  "repeat": 0
+}

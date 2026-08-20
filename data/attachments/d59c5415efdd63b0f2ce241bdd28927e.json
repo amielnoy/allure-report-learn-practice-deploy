@@ -1,0 +1,11 @@
+{
+  "project": "component-mobile",
+  "test": "signs out by itself when the token lapses mid-visit",
+  "suite": [
+    "GoogleSignIn.spec.tsx",
+    "the credential’s lifetime"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/GoogleSignIn.spec.tsx:234",
+  "retry": 0,
+  "repeat": 0
+}

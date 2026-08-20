@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "writes the language and direction onto the root element",
+  "suite": [
+    "unit/i18n.spec.ts",
+    "applyHtmlAttrs"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/i18n.spec.ts:119",
+  "retry": 0,
+  "repeat": 0
+}

@@ -1,0 +1,10 @@
+{
+  "project": "e2e-mobile",
+  "test": "serves a Hebrew document at ?lang=he",
+  "suite": [
+    "e2e/seoHead.spec.ts"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/e2e/seoHead.spec.ts:33",
+  "retry": 0,
+  "repeat": 0
+}

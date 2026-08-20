@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "keeps every embedded Latin token forwards",
+  "suite": [
+    "unit/resumePdf.spec.ts",
+    "pdfFromRtlText — the Hebrew résumé"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePdf.spec.ts:231",
+  "retry": 0,
+  "repeat": 0
+}

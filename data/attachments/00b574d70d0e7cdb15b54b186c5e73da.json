@@ -1,0 +1,10 @@
+{
+  "project": "e2e-desktop",
+  "test": "contains keyboard focus while the mobile drawer is open",
+  "suite": [
+    "e2e/mobile-nav.spec.ts"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/e2e/mobile-nav.spec.ts:29",
+  "retry": 0,
+  "repeat": 0
+}

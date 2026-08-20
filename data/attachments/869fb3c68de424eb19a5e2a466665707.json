@@ -1,0 +1,10 @@
+{
+  "project": "component-desktop",
+  "test": "keeps the code verbatim, including indentation",
+  "suite": [
+    "ChallengeCard.spec.tsx"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ChallengeCard.spec.tsx:75",
+  "retry": 0,
+  "repeat": 0
+}

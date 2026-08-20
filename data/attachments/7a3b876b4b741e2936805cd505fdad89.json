@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "defaults to English for any other browser locale",
+  "suite": [
+    "unit/i18n.spec.ts",
+    "resolveLang"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/i18n.spec.ts:43",
+  "retry": 0,
+  "repeat": 0
+}

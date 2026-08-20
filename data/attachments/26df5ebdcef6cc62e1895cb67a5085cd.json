@@ -1,0 +1,11 @@
+{
+  "project": "deck",
+  "test": "is left alone once the phone is actually turned",
+  "suite": [
+    "deck/sanity.spec.ts",
+    "the stage"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/deck/sanity.spec.ts:66",
+  "retry": 0,
+  "repeat": 0
+}

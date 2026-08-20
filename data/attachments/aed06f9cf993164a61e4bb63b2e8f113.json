@@ -1,0 +1,11 @@
+{
+  "project": "contract",
+  "test": "is served from the path the server mounts its router on",
+  "suite": [
+    "contract/openapi.spec.ts",
+    "the spec itself"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/contract/openapi.spec.ts:131",
+  "retry": 0,
+  "repeat": 0
+}

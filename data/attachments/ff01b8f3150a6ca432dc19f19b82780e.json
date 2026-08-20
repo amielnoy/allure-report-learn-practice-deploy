@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "carries the Hebrew through as Hebrew characters",
+  "suite": [
+    "unit/resumePdf.spec.ts",
+    "pdfFromRtlText — the Hebrew résumé"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePdf.spec.ts:246",
+  "retry": 0,
+  "repeat": 0
+}

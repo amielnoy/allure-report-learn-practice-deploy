@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "keeps the separator inside a Latin phrase",
+  "suite": [
+    "unit/bidi.spec.ts",
+    "neutrals between runs"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/bidi.spec.ts:85",
+  "retry": 0,
+  "repeat": 0
+}

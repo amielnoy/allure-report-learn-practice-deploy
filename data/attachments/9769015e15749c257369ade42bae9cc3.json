@@ -1,0 +1,10 @@
+{
+  "project": "component-mobile",
+  "test": "prefers levels served by /api/content/coding-challenges over the bundled locale",
+  "suite": [
+    "CodingChallenges.spec.tsx"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/CodingChallenges.spec.tsx:78",
+  "retry": 0,
+  "repeat": 0
+}

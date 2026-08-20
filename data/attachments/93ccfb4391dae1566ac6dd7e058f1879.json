@@ -1,0 +1,10 @@
+{
+  "project": "e2e-desktop",
+  "test": "toggles the colour theme and remembers the choice",
+  "suite": [
+    "e2e/appearance.spec.ts"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/e2e/appearance.spec.ts:9",
+  "retry": 0,
+  "repeat": 0
+}

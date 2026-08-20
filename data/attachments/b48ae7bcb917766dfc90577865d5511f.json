@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "surfaces a proxy failure with its status code",
+  "suite": [
+    "unit/providers.spec.ts",
+    "callAI"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:368",
+  "retry": 0,
+  "repeat": 0
+}

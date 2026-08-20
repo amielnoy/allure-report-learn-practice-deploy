@@ -1,0 +1,10 @@
+{
+  "project": "e2e-desktop",
+  "test": "renders the hero with both headline lines",
+  "suite": [
+    "e2e/home.spec.ts"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/e2e/home.spec.ts:10",
+  "retry": 0,
+  "repeat": 0
+}

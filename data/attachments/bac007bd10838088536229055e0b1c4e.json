@@ -1,0 +1,11 @@
+{
+  "project": "component-mobile",
+  "test": "keeps a typed key in sessionStorage by default and out of the DOM",
+  "suite": [
+    "ConnectionSetup.spec.tsx",
+    "when the server has no default key"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ConnectionSetup.spec.tsx:60",
+  "retry": 0,
+  "repeat": 0
+}

@@ -1,0 +1,11 @@
+{
+  "project": "api",
+  "test": "a content failure does not take the rest of the server with it",
+  "suite": [
+    "api/content.spec.ts",
+    "with no content store configured"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/content.spec.ts:52",
+  "retry": 0,
+  "repeat": 0
+}

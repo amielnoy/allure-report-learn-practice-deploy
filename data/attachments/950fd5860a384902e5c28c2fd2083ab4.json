@@ -1,0 +1,11 @@
+{
+  "project": "component-mobile",
+  "test": "shows progress while the server verifies Google’s answer",
+  "suite": [
+    "GoogleSignIn.spec.tsx",
+    "signing in"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/GoogleSignIn.spec.tsx:74",
+  "retry": 0,
+  "repeat": 0
+}

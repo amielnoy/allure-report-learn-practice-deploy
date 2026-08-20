@@ -1,0 +1,11 @@
+{
+  "project": "api",
+  "test": "refuses an ungrounded (Groq) request, with a status that says \"not configured\"",
+  "suite": [
+    "api/ai.spec.ts",
+    "no server-side key configured"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/ai.spec.ts:42",
+  "retry": 0,
+  "repeat": 0
+}

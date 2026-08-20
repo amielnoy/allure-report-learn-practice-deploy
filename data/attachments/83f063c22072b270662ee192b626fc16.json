@@ -1,0 +1,11 @@
+{
+  "project": "api",
+  "test": "advertises both default keys without revealing them",
+  "suite": [
+    "api/ai.spec.ts",
+    "server-side key configured"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/ai.spec.ts:75",
+  "retry": 0,
+  "repeat": 0
+}

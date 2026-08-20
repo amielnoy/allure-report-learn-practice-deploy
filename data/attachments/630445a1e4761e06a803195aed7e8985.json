@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "escapes every character that could break out of markup",
+  "suite": [
+    "unit/domUtils.spec.ts",
+    "esc"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:17",
+  "retry": 0,
+  "repeat": 0
+}

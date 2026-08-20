@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "rejects anything else",
+  "suite": [
+    "unit/storage.spec.ts",
+    "readOneOf"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/storage.spec.ts:89",
+  "retry": 0,
+  "repeat": 0
+}

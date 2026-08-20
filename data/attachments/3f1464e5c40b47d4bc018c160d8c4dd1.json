@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "returns the requested catalog",
+  "suite": [
+    "unit/i18n.spec.ts",
+    "getLocale"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/i18n.spec.ts:71",
+  "retry": 0,
+  "repeat": 0
+}

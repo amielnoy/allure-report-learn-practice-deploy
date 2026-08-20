@@ -1,0 +1,10 @@
+{
+  "project": "contract",
+  "test": "parses a documented response into the shape the Zod schema describes",
+  "suite": [
+    "contract/apiClient.spec.ts"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/contract/apiClient.spec.ts:17",
+  "retry": 0,
+  "repeat": 0
+}

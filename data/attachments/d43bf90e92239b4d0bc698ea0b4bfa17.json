@@ -1,0 +1,11 @@
+{
+  "project": "component-desktop",
+  "test": "persists a key only after explicit opt-in and displays a warning",
+  "suite": [
+    "ConnectionSetup.spec.tsx",
+    "when the server has no default key"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ConnectionSetup.spec.tsx:76",
+  "retry": 0,
+  "repeat": 0
+}

@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "persists the fallback, not the unknown language it was asked for",
+  "suite": [
+    "unit/i18n.spec.ts",
+    "resolveLang"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/i18n.spec.ts:61",
+  "retry": 0,
+  "repeat": 0
+}

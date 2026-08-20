@@ -1,0 +1,10 @@
+{
+  "project": "contract",
+  "test": "refuses to send a body on a GET, instead of letting the server reject it",
+  "suite": [
+    "contract/apiClient.spec.ts"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/contract/apiClient.spec.ts:57",
+  "retry": 0,
+  "repeat": 0
+}

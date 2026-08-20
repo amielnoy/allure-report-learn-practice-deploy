@@ -1,0 +1,10 @@
+{
+  "project": "deck",
+  "test": "serves the deck and renders the first slide",
+  "suite": [
+    "deck/sanity.spec.ts"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/deck/sanity.spec.ts:44",
+  "retry": 0,
+  "repeat": 0
+}

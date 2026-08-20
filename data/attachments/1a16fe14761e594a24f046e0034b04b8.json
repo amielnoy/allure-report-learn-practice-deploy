@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "caps hidden reasoning effort so short replies are not starved of visible tokens",
+  "suite": [
+    "unit/providers.spec.ts",
+    "groq request building"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:100",
+  "retry": 0,
+  "repeat": 0
+}

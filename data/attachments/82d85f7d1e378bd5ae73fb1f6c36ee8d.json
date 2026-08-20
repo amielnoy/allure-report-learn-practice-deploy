@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "writes the résumé as a readable text layer",
+  "suite": [
+    "unit/resumePdf.spec.ts",
+    "pdfFromText — the left-to-right résumé"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePdf.spec.ts:111",
+  "retry": 0,
+  "repeat": 0
+}

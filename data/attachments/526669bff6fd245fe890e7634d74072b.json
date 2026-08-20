@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "strips markdown and reports the links it removed",
+  "suite": [
+    "unit/domUtils.spec.ts",
+    "markdownLineToPlain"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:157",
+  "retry": 0,
+  "repeat": 0
+}

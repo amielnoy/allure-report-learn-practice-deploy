@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "unwraps bold without recording a link",
+  "suite": [
+    "unit/domUtils.spec.ts",
+    "markdownLineToPlain"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:166",
+  "retry": 0,
+  "repeat": 0
+}

@@ -1,0 +1,10 @@
+{
+  "project": "component-desktop",
+  "test": "renders one button per question across every stage",
+  "suite": [
+    "QuestionBank.spec.tsx"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/QuestionBank.spec.tsx:27",
+  "retry": 0,
+  "repeat": 0
+}

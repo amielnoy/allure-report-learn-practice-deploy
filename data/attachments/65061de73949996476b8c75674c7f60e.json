@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "returns the empty string for a page with no text",
+  "suite": [
+    "unit/domUtils.spec.ts",
+    "pdfItemsToText"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:277",
+  "retry": 0,
+  "repeat": 0
+}

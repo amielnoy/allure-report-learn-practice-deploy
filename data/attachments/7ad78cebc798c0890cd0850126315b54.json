@@ -1,0 +1,11 @@
+{
+  "project": "component-mobile",
+  "test": "still reports a nearly empty one as a failed extraction",
+  "suite": [
+    "ResumeAgent.spec.tsx",
+    "a résumé that does have a text layer"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ResumeAgent.spec.tsx:75",
+  "retry": 0,
+  "repeat": 0
+}

@@ -1,0 +1,11 @@
+{
+  "project": "component-mobile",
+  "test": "is ignored when it was saved in the other language",
+  "suite": [
+    "InterviewAgent.spec.tsx",
+    "a transcript saved in this session"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/InterviewAgent.spec.tsx:85",
+  "retry": 0,
+  "repeat": 0
+}

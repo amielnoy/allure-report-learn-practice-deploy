@@ -1,0 +1,11 @@
+{
+  "project": "contract",
+  "test": "POST /stripe/seed returns a body its schema accepts",
+  "suite": [
+    "contract/openapi.spec.ts",
+    "spec ↔ running server"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/contract/openapi.spec.ts:184",
+  "retry": 0,
+  "repeat": 0
+}

@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "turns an email address into a mailto link",
+  "suite": [
+    "unit/domUtils.spec.ts",
+    "findLinks"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:81",
+  "retry": 0,
+  "repeat": 0
+}

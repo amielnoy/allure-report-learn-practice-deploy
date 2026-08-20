@@ -1,0 +1,11 @@
+{
+  "project": "api",
+  "test": "does not advertise the framework version",
+  "suite": [
+    "api/health.spec.ts",
+    "request handling"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/health.spec.ts:89",
+  "retry": 0,
+  "repeat": 0
+}

@@ -1,0 +1,10 @@
+{
+  "project": "component-mobile",
+  "test": "gives every question a unique text, so the cards keep stable keys",
+  "suite": [
+    "QuestionBank.spec.tsx"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/QuestionBank.spec.tsx:60",
+  "retry": 0,
+  "repeat": 0
+}

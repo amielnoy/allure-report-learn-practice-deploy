@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "routes through the server proxy when the visitor has no key of their own",
+  "suite": [
+    "unit/providers.spec.ts",
+    "callAI"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:329",
+  "retry": 0,
+  "repeat": 0
+}

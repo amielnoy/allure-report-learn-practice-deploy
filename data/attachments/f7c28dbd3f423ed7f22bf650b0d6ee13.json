@@ -1,0 +1,11 @@
+{
+  "project": "api",
+  "test": "tells the client neither default key exists",
+  "suite": [
+    "api/ai.spec.ts",
+    "no server-side key configured"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/ai.spec.ts:24",
+  "retry": 0,
+  "repeat": 0
+}

@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "attaches a Hebrew prefix to the Latin word it qualifies",
+  "suite": [
+    "unit/bidi.spec.ts",
+    "neutrals between runs"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/bidi.spec.ts:89",
+  "retry": 0,
+  "repeat": 0
+}

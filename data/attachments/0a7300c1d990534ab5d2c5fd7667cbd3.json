@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "is the empty string when nothing is stored",
+  "suite": [
+    "unit/storage.spec.ts",
+    "readText"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/storage.spec.ts:107",
+  "retry": 0,
+  "repeat": 0
+}

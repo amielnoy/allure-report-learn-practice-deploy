@@ -1,0 +1,10 @@
+{
+  "project": "component-mobile",
+  "test": "renders one collapsible panel per interview stage",
+  "suite": [
+    "QuestionBank.spec.tsx"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/QuestionBank.spec.tsx:17",
+  "retry": 0,
+  "repeat": 0
+}

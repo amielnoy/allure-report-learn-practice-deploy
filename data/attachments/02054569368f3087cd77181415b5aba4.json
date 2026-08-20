@@ -1,0 +1,11 @@
+{
+  "project": "component-mobile",
+  "test": "returns to the button",
+  "suite": [
+    "GoogleSignIn.spec.tsx",
+    "signing out"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/GoogleSignIn.spec.tsx:155",
+  "retry": 0,
+  "repeat": 0
+}

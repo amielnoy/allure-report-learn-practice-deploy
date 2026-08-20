@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "keeps the spaces pdf.js already worked out",
+  "suite": [
+    "unit/domUtils.spec.ts",
+    "pdfItemsToText"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:261",
+  "retry": 0,
+  "repeat": 0
+}

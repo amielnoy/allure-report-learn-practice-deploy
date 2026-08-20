@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "returns a value from the allowed set",
+  "suite": [
+    "unit/storage.spec.ts",
+    "readOneOf"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/storage.spec.ts:85",
+  "retry": 0,
+  "repeat": 0
+}

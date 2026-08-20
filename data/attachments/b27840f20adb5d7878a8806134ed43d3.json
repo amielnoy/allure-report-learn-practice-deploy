@@ -1,0 +1,11 @@
+{
+  "project": "component-desktop",
+  "test": "stays signed out for a credential that has already expired",
+  "suite": [
+    "GoogleSignIn.spec.tsx",
+    "signing in"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/GoogleSignIn.spec.tsx:107",
+  "retry": 0,
+  "repeat": 0
+}

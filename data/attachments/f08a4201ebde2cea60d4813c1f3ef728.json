@@ -1,0 +1,10 @@
+{
+  "project": "component-desktop",
+  "test": "requires affirmative data-processing consent before starting",
+  "suite": [
+    "InterviewAgent.spec.tsx"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/InterviewAgent.spec.tsx:67",
+  "retry": 0,
+  "repeat": 0
+}

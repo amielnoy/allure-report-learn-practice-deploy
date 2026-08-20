@@ -1,0 +1,11 @@
+{
+  "project": "component-desktop",
+  "test": "counts its way through a résumé that runs to several pages",
+  "suite": [
+    "ResumeAgent.spec.tsx",
+    "while a résumé is being read"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ResumeAgent.spec.tsx:124",
+  "retry": 0,
+  "repeat": 0
+}

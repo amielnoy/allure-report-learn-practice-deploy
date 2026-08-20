@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "joins runs without inserting a space between them",
+  "suite": [
+    "unit/domUtils.spec.ts",
+    "pdfItemsToText"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:255",
+  "retry": 0,
+  "repeat": 0
+}

@@ -1,0 +1,10 @@
+{
+  "project": "e2e-desktop",
+  "test": "the back-to-top button appears after scrolling and returns to the top",
+  "suite": [
+    "e2e/sanity.spec.ts"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/e2e/sanity.spec.ts:51",
+  "retry": 0,
+  "repeat": 0
+}

@@ -1,0 +1,10 @@
+{
+  "project": "component-desktop",
+  "test": "reveals the solution and its complexity on the second click",
+  "suite": [
+    "ChallengeCard.spec.tsx"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ChallengeCard.spec.tsx:49",
+  "retry": 0,
+  "repeat": 0
+}

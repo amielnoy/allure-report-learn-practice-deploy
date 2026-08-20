@@ -1,0 +1,11 @@
+{
+  "project": "contract",
+  "test": "GET /auth/config answers with a documented status",
+  "suite": [
+    "contract/openapi.spec.ts",
+    "spec ↔ running server"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/contract/openapi.spec.ts:161",
+  "retry": 0,
+  "repeat": 0
+}

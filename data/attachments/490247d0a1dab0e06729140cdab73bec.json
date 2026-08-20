@@ -1,0 +1,11 @@
+{
+  "project": "component-mobile",
+  "test": "loads into the editor, with the character count in the label",
+  "suite": [
+    "ResumeAgent.spec.tsx",
+    "a résumé that does have a text layer"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ResumeAgent.spec.tsx:84",
+  "retry": 0,
+  "repeat": 0
+}

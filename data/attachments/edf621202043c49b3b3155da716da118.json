@@ -1,0 +1,10 @@
+{
+  "project": "component-desktop",
+  "test": "collapses back to the bare question on the third click",
+  "suite": [
+    "QuestionCard.spec.tsx"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/QuestionCard.spec.tsx:75",
+  "retry": 0,
+  "repeat": 0
+}

@@ -1,0 +1,10 @@
+{
+  "project": "component-desktop",
+  "test": "requires affirmative data-processing consent before an AI submission",
+  "suite": [
+    "ResumeAgent.spec.tsx"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ResumeAgent.spec.tsx:38",
+  "retry": 0,
+  "repeat": 0
+}

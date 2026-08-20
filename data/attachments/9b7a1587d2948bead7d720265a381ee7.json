@@ -1,0 +1,11 @@
+{
+  "project": "api",
+  "test": "accepts the new ceiling itself, so the bound is where it says it is",
+  "suite": [
+    "api/ai.spec.ts",
+    "server-side key configured"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/ai.spec.ts:149",
+  "retry": 0,
+  "repeat": 0
+}

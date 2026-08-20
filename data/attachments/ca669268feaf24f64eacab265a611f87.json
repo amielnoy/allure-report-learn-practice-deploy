@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "places the Latin run to the left of the Hebrew that precedes it",
+  "suite": [
+    "unit/bidi.spec.ts",
+    "embedded Latin runs"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/bidi.spec.ts:41",
+  "retry": 0,
+  "repeat": 0
+}

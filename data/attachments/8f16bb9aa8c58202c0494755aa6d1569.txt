@@ -1,0 +1,2 @@
+ERROR:app.main:Paid Stripe session cs_foreign did not match the approved course catalog
+INFO:httpx:HTTP Request: POST http://test/api/stripe/webhook "HTTP/1.1 200 OK"

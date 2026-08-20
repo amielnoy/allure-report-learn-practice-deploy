@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "closes a reply that was truncated before the JSON finished",
+  "suite": [
+    "unit/providers.spec.ts",
+    "extractJSON"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:297",
+  "retry": 0,
+  "repeat": 0
+}

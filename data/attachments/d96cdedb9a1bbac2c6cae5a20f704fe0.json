@@ -1,0 +1,11 @@
+{
+  "project": "api",
+  "test": "refusals disclose nothing about the expected token",
+  "suite": [
+    "api/adminAuth.spec.ts",
+    "with an admin token configured"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/adminAuth.spec.ts:89",
+  "retry": 0,
+  "repeat": 0
+}

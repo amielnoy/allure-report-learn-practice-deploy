@@ -1,0 +1,11 @@
+{
+  "project": "component-mobile",
+  "test": "English: the sign-out label and Google’s own button are in English",
+  "suite": [
+    "GoogleSignIn.spec.tsx",
+    "both languages"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/GoogleSignIn.spec.tsx:192",
+  "retry": 0,
+  "repeat": 0
+}

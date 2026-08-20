@@ -1,0 +1,11 @@
+{
+  "project": "component-mobile",
+  "test": "the two languages agree on what sign-in is called",
+  "suite": [
+    "GoogleSignIn.spec.tsx",
+    "both languages"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/GoogleSignIn.spec.tsx:225",
+  "retry": 0,
+  "repeat": 0
+}

@@ -1,0 +1,10 @@
+{
+  "project": "component-mobile",
+  "test": "hides every hint and answer until asked",
+  "suite": [
+    "QuestionBank.spec.tsx"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/QuestionBank.spec.tsx:35",
+  "retry": 0,
+  "repeat": 0
+}

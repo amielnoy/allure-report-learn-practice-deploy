@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "leaves a Latin-only line untouched",
+  "suite": [
+    "unit/bidi.spec.ts",
+    "pure runs"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/bidi.spec.ts:22",
+  "retry": 0,
+  "repeat": 0
+}

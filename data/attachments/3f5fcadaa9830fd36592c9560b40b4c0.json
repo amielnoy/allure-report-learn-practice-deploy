@@ -1,0 +1,10 @@
+{
+  "project": "component-desktop",
+  "test": "gives every challenge a unique title, so the cards keep stable keys",
+  "suite": [
+    "CodingChallenges.spec.tsx"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/CodingChallenges.spec.tsx:63",
+  "retry": 0,
+  "repeat": 0
+}

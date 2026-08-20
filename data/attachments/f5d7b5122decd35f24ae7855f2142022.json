@@ -1,0 +1,10 @@
+{
+  "project": "component-desktop",
+  "test": "renders the inline markup the answers carry, rather than printing it",
+  "suite": [
+    "QuestionCard.spec.tsx"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/QuestionCard.spec.tsx:88",
+  "retry": 0,
+  "repeat": 0
+}

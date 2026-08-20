@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "retries after a failure rather than caching it forever",
+  "suite": [
+    "unit/resumePdf.spec.ts",
+    "loadHebrewFont"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePdf.spec.ts:319",
+  "retry": 0,
+  "repeat": 0
+}

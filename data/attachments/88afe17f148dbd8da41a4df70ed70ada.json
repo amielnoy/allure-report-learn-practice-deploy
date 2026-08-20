@@ -1,0 +1,5 @@
+{
+  "method": "GET",
+  "url": "/api/content/coding-challenges?lang=en&lang=he",
+  "headers": {}
+}

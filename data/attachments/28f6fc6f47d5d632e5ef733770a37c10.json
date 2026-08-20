@@ -1,0 +1,11 @@
+{
+  "project": "api",
+  "test": "routes grounded requests to Gemini and ungrounded ones to Groq",
+  "suite": [
+    "api/ai.spec.ts",
+    "server-side key configured"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/ai.spec.ts:132",
+  "retry": 0,
+  "repeat": 0
+}

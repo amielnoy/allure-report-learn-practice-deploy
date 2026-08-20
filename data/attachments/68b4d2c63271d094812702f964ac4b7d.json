@@ -1,0 +1,11 @@
+{
+  "project": "component-desktop",
+  "test": "replaces the model list with the newly chosen vendor models",
+  "suite": [
+    "ConnectionSetup.spec.tsx",
+    "provider switching"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ConnectionSetup.spec.tsx:96",
+  "retry": 0,
+  "repeat": 0
+}

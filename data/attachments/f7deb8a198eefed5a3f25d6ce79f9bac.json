@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "rejects Latin-only text",
+  "suite": [
+    "unit/domUtils.spec.ts",
+    "isRtlText"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:49",
+  "retry": 0,
+  "repeat": 0
+}

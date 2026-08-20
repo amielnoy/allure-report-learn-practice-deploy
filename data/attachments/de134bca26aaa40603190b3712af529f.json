@@ -1,0 +1,11 @@
+{
+  "project": "component-mobile",
+  "test": "does not sign out early on a credential with an hour left",
+  "suite": [
+    "GoogleSignIn.spec.tsx",
+    "the credential’s lifetime"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/GoogleSignIn.spec.tsx:245",
+  "retry": 0,
+  "repeat": 0
+}

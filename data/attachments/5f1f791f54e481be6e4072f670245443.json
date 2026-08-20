@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "persists whatever it resolved",
+  "suite": [
+    "unit/i18n.spec.ts",
+    "resolveLang"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/i18n.spec.ts:53",
+  "retry": 0,
+  "repeat": 0
+}

@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "explains which host was unreachable when the browser blocks the call",
+  "suite": [
+    "unit/providers.spec.ts",
+    "callAI"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:421",
+  "retry": 0,
+  "repeat": 0
+}

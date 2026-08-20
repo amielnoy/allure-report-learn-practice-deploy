@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "falls back to English for an unknown language",
+  "suite": [
+    "unit/i18n.spec.ts",
+    "getLocale"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/i18n.spec.ts:80",
+  "retry": 0,
+  "repeat": 0
+}

@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "leaves a plain line untouched",
+  "suite": [
+    "unit/domUtils.spec.ts",
+    "markdownLineToPlain"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:178",
+  "retry": 0,
+  "repeat": 0
+}

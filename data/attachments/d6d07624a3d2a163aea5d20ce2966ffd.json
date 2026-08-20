@@ -1,0 +1,11 @@
+{
+  "project": "api",
+  "test": "returns 404 for a route that does not exist",
+  "suite": [
+    "api/health.spec.ts",
+    "request handling"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/health.spec.ts:75",
+  "retry": 0,
+  "repeat": 0
+}

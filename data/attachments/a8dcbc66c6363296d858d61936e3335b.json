@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "does not strip spaces from the label",
+  "suite": [
+    "unit/domUtils.spec.ts",
+    "URLs damaged by text extraction"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:248",
+  "retry": 0,
+  "repeat": 0
+}

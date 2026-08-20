@@ -1,0 +1,1 @@
+INFO:httpx:HTTP Request: POST http://test/api/stripe/checkout "HTTP/1.1 200 OK"

@@ -1,0 +1,10 @@
+{
+  "project": "component-desktop",
+  "test": "renders the footer text from the active locale",
+  "suite": [
+    "Footer.spec.tsx"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/Footer.spec.tsx:11",
+  "retry": 0,
+  "repeat": 0
+}

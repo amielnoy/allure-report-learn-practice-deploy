@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "caps what it hands back",
+  "suite": [
+    "unit/storage.spec.ts",
+    "readText"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/storage.spec.ts:102",
+  "retry": 0,
+  "repeat": 0
+}

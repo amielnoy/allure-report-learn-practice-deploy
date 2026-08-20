@@ -1,0 +1,11 @@
+{
+  "project": "api",
+  "test": "says so rather than answering",
+  "suite": [
+    "api/entitlements.spec.ts",
+    "on a server with no OAuth client configured"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/entitlements.spec.ts:32",
+  "retry": 0,
+  "repeat": 0
+}

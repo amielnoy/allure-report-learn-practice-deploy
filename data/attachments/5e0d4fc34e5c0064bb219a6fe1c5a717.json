@@ -1,0 +1,11 @@
+{
+  "project": "api",
+  "test": "receives the body as raw bytes, not parsed JSON",
+  "suite": [
+    "api/stripe.spec.ts",
+    "POST /api/stripe/webhook"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/stripe.spec.ts:44",
+  "retry": 0,
+  "repeat": 0
+}

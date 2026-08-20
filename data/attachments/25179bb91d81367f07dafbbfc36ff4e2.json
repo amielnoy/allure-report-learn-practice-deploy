@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "agrees with itself: markup and sitemap point at the same URLs",
+  "suite": [
+    "unit/hreflang.spec.ts",
+    "ai-testing-academy"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/hreflang.spec.ts:99",
+  "retry": 0,
+  "repeat": 0
+}

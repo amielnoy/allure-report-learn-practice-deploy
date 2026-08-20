@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "falls back to a Hebrew browser locale",
+  "suite": [
+    "unit/i18n.spec.ts",
+    "resolveLang"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/i18n.spec.ts:38",
+  "retry": 0,
+  "repeat": 0
+}

@@ -1,0 +1,11 @@
+{
+  "project": "api",
+  "test": "the route is not there at all",
+  "suite": [
+    "api/adminAuth.spec.ts",
+    "with no admin token configured"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/adminAuth.spec.ts:24",
+  "retry": 0,
+  "repeat": 0
+}

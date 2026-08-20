@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "breaks a long résumé across pages instead of running off the first",
+  "suite": [
+    "unit/resumePdf.spec.ts",
+    "pdfFromRtlText — the Hebrew résumé"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePdf.spec.ts:251",
+  "retry": 0,
+  "repeat": 0
+}

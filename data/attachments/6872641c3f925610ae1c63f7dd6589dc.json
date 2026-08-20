@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "leaves an undamaged URL exactly as it was",
+  "suite": [
+    "unit/domUtils.spec.ts",
+    "URLs damaged by text extraction"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:243",
+  "retry": 0,
+  "repeat": 0
+}

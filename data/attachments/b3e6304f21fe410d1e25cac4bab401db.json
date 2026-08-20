@@ -1,0 +1,11 @@
+{
+  "project": "component-desktop",
+  "test": "puts the name and picture in the header once Google answers",
+  "suite": [
+    "GoogleSignIn.spec.tsx",
+    "signing in"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/GoogleSignIn.spec.tsx:61",
+  "retry": 0,
+  "repeat": 0
+}

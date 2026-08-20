@@ -1,0 +1,10 @@
+{
+  "project": "e2e-mobile",
+  "test": "the sample CV CTA loads a useful example without asking for setup first",
+  "suite": [
+    "e2e/tools.spec.ts"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/e2e/tools.spec.ts:12",
+  "retry": 0,
+  "repeat": 0
+}

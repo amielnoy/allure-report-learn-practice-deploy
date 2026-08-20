@@ -1,0 +1,11 @@
+{
+  "project": "api",
+  "test": "refuses an unsigned token",
+  "suite": [
+    "api/entitlements.spec.ts",
+    "on a server with an OAuth client configured"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/entitlements.spec.ts:58",
+  "retry": 0,
+  "repeat": 0
+}

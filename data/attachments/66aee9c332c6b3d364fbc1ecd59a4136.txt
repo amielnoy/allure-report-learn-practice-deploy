@@ -1,0 +1,1 @@
+INFO:httpx:HTTP Request: POST http://test/api/ai/generate "HTTP/1.1 413 Request Entity Too Large"

@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "toggles English to Hebrew and navigates",
+  "suite": [
+    "unit/i18n.spec.ts",
+    "switchLang"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/i18n.spec.ts:90",
+  "retry": 0,
+  "repeat": 0
+}

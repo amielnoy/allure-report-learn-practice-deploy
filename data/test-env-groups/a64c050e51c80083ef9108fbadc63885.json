@@ -1,1 +1,1 @@
-{"id":"a64c050e51c80083ef9108fbadc63885","fullName":"QuestionCard.spec.tsx:50:1","name":"reveals the hint on the first click, without giving away the answer","status":"passed","testResultsByEnv":{"default":"a39a2fa80fb9a04330f68139ba7e3896"}}
+{"id":"a64c050e51c80083ef9108fbadc63885","fullName":"QuestionCard.spec.tsx:50:1","name":"reveals the hint on the first click, without giving away the answer","status":"passed","testResultsByEnv":{"default":"2261a1af85849fa540147c88d82a5399"}}

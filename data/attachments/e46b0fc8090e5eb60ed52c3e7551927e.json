@@ -1,0 +1,11 @@
+{
+  "project": "component-desktop",
+  "test": "recovers after a rejected file, without a reload",
+  "suite": [
+    "ResumeAgent.spec.tsx",
+    "choosing a file a second time"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ResumeAgent.spec.tsx:184",
+  "retry": 0,
+  "repeat": 0
+}

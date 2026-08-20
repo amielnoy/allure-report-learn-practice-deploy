@@ -1,0 +1,11 @@
+{
+  "project": "component-mobile",
+  "test": "unlocks the key field once you opt into your own key",
+  "suite": [
+    "ConnectionSetup.spec.tsx",
+    "when the server has a default key"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ConnectionSetup.spec.tsx:39",
+  "retry": 0,
+  "repeat": 0
+}

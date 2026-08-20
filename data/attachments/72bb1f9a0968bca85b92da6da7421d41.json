@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "calls the vendor directly once the visitor supplies a key",
+  "suite": [
+    "unit/providers.spec.ts",
+    "callAI"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:378",
+  "retry": 0,
+  "repeat": 0
+}

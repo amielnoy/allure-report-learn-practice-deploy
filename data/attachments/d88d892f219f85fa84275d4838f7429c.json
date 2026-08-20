@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "lists every variant in the sitemap",
+  "suite": [
+    "unit/hreflang.spec.ts",
+    "ai-testing-lecture-1"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/hreflang.spec.ts:79",
+  "retry": 0,
+  "repeat": 0
+}

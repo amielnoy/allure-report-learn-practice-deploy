@@ -1,0 +1,11 @@
+{
+  "project": "component-mobile",
+  "test": "leaves the picker holding nothing, so the same file can be chosen again",
+  "suite": [
+    "ResumeAgent.spec.tsx",
+    "choosing a file a second time"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ResumeAgent.spec.tsx:152",
+  "retry": 0,
+  "repeat": 0
+}

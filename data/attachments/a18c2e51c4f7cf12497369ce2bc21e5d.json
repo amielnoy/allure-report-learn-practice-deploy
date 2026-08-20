@@ -1,0 +1,10 @@
+{
+  "project": "e2e-desktop",
+  "test": "the hero \"Watch Lectures\" CTA jumps to the lecture series",
+  "suite": [
+    "e2e/navigation.spec.ts"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/e2e/navigation.spec.ts:14",
+  "retry": 0,
+  "repeat": 0
+}

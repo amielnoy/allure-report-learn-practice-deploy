@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "emits as many closing brackets as opening ones",
+  "suite": [
+    "unit/bidi.spec.ts",
+    "mirrored pairs"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/bidi.spec.ts:106",
+  "retry": 0,
+  "repeat": 0
+}

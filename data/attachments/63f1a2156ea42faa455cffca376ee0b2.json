@@ -1,0 +1,11 @@
+{
+  "project": "component-desktop",
+  "test": "discards an unreadable credential instead of failing on every load",
+  "suite": [
+    "GoogleSignIn.spec.tsx",
+    "coming back later"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/GoogleSignIn.spec.tsx:140",
+  "retry": 0,
+  "repeat": 0
+}

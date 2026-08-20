@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "a write is a no-op, not a thrown one",
+  "suite": [
+    "unit/storage.spec.ts",
+    "when storage is denied"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/storage.spec.ts:70",
+  "retry": 0,
+  "repeat": 0
+}

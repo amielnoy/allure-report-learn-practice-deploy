@@ -1,0 +1,10 @@
+{
+  "project": "component-desktop",
+  "test": "renders one card per challenge",
+  "suite": [
+    "CodingChallenges.spec.tsx"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/CodingChallenges.spec.tsx:35",
+  "retry": 0,
+  "repeat": 0
+}

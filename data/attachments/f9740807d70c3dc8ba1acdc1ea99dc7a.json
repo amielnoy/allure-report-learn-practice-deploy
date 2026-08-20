@@ -1,0 +1,11 @@
+{
+  "project": "contract",
+  "test": "documents at least one operation",
+  "suite": [
+    "contract/openapi.spec.ts",
+    "the spec itself"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/contract/openapi.spec.ts:127",
+  "retry": 0,
+  "repeat": 0
+}

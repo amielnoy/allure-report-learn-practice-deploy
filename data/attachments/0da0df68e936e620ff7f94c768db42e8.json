@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "recovers every link on a contact line, not just the first",
+  "suite": [
+    "unit/domUtils.spec.ts",
+    "URLs damaged by text extraction"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:219",
+  "retry": 0,
+  "repeat": 0
+}

@@ -1,0 +1,11 @@
+{
+  "project": "component-desktop",
+  "test": "is signed out again once the credential has lapsed",
+  "suite": [
+    "GoogleSignIn.spec.tsx",
+    "coming back later"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/GoogleSignIn.spec.tsx:127",
+  "retry": 0,
+  "repeat": 0
+}

@@ -1,0 +1,11 @@
+{
+  "project": "contract",
+  "test": "the health schema has the same fields the spec declares",
+  "suite": [
+    "contract/openapi.spec.ts",
+    "spec ↔ generated Zod schemas"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/contract/openapi.spec.ts:148",
+  "retry": 0,
+  "repeat": 0
+}

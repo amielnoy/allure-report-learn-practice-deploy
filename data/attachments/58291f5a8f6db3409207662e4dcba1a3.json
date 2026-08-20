@@ -1,0 +1,10 @@
+{
+  "project": "component-desktop",
+  "test": "hides every hint and solution until asked",
+  "suite": [
+    "CodingChallenges.spec.tsx"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/CodingChallenges.spec.tsx:41",
+  "retry": 0,
+  "repeat": 0
+}

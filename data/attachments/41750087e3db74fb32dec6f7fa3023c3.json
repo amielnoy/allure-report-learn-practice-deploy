@@ -1,0 +1,11 @@
+{
+  "project": "component-desktop",
+  "test": "keeps the address for the tooltip rather than crowding the drawer",
+  "suite": [
+    "GoogleSignIn.spec.tsx",
+    "signing in"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/GoogleSignIn.spec.tsx:87",
+  "retry": 0,
+  "repeat": 0
+}

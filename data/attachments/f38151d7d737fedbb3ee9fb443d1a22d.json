@@ -1,0 +1,11 @@
+{
+  "project": "contract",
+  "test": "GET /ai/config has a generated response schema",
+  "suite": [
+    "contract/openapi.spec.ts",
+    "spec ↔ generated Zod schemas"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/contract/openapi.spec.ts:139",
+  "retry": 0,
+  "repeat": 0
+}

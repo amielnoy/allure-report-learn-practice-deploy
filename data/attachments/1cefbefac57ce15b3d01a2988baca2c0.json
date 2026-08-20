@@ -1,0 +1,11 @@
+{
+  "project": "component-mobile",
+  "test": "leaves the editor empty rather than half-filling it",
+  "suite": [
+    "ResumeAgent.spec.tsx",
+    "a résumé with no text layer"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ResumeAgent.spec.tsx:63",
+  "retry": 0,
+  "repeat": 0
+}

@@ -1,0 +1,10 @@
+{
+  "project": "component-desktop",
+  "test": "is labelled for screen readers from the locale",
+  "suite": [
+    "BackToTop.spec.tsx"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/BackToTop.spec.tsx:19",
+  "retry": 0,
+  "repeat": 0
+}

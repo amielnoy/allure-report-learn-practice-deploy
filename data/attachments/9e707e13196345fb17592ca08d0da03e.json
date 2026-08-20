@@ -1,0 +1,11 @@
+{
+  "project": "component-desktop",
+  "test": "is still signed in, without touching Google again",
+  "suite": [
+    "GoogleSignIn.spec.tsx",
+    "coming back later"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/GoogleSignIn.spec.tsx:119",
+  "retry": 0,
+  "repeat": 0
+}

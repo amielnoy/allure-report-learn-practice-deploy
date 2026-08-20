@@ -1,0 +1,11 @@
+{
+  "project": "component-mobile",
+  "test": "Hebrew: a Hebrew name survives the round trip intact",
+  "suite": [
+    "GoogleSignIn.spec.tsx",
+    "both languages"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/GoogleSignIn.spec.tsx:217",
+  "retry": 0,
+  "repeat": 0
+}

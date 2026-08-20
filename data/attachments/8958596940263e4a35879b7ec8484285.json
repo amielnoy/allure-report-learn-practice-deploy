@@ -1,0 +1,10 @@
+{
+  "project": "e2e-mobile",
+  "test": "renders all six main sections",
+  "suite": [
+    "e2e/home.spec.ts"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/e2e/home.spec.ts:21",
+  "retry": 0,
+  "repeat": 0
+}

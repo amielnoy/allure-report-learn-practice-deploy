@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "expose the same links for the same contact line",
+  "suite": [
+    "unit/resumePdf.spec.ts",
+    "both directions"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePdf.spec.ts:191",
+  "retry": 0,
+  "repeat": 0
+}

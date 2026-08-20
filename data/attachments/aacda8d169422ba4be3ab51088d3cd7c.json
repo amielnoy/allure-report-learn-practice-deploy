@@ -1,0 +1,10 @@
+{
+  "project": "contract",
+  "test": "sets a JSON content type from a JSON body without being told to",
+  "suite": [
+    "contract/apiClient.spec.ts"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/contract/apiClient.spec.ts:45",
+  "retry": 0,
+  "repeat": 0
+}

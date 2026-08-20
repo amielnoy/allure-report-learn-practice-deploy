@@ -1,0 +1,10 @@
+{
+  "project": "contract",
+  "test": "lifts the server error message out of a JSON error envelope",
+  "suite": [
+    "contract/apiClient.spec.ts"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/contract/apiClient.spec.ts:31",
+  "retry": 0,
+  "repeat": 0
+}

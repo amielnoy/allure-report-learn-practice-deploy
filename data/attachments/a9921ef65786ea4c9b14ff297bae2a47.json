@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "targets the OpenAI-compatible chat endpoint and sends the key as a bearer token",
+  "suite": [
+    "unit/providers.spec.ts",
+    "groq request building"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:67",
+  "retry": 0,
+  "repeat": 0
+}

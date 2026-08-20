@@ -1,0 +1,10 @@
+{
+  "project": "component-mobile",
+  "test": "reveals the hint on the first click, without giving away the answer",
+  "suite": [
+    "QuestionCard.spec.tsx"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/QuestionCard.spec.tsx:50",
+  "retry": 0,
+  "repeat": 0
+}

@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "leaves text with no URL unclickable rather than guessing one",
+  "suite": [
+    "unit/resumePdf.spec.ts",
+    "pdfFromRtlText — the Hebrew résumé"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePdf.spec.ts:291",
+  "retry": 0,
+  "repeat": 0
+}

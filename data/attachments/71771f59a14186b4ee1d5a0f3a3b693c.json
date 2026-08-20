@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "asks for a key when neither the visitor nor the server has one",
+  "suite": [
+    "unit/providers.spec.ts",
+    "callGeminiGrounded"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:505",
+  "retry": 0,
+  "repeat": 0
+}

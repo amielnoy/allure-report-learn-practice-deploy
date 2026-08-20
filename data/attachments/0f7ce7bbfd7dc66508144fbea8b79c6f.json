@@ -1,0 +1,11 @@
+{
+  "project": "component-mobile",
+  "test": "is not restored from localStorage",
+  "suite": [
+    "InterviewAgent.spec.tsx",
+    "a transcript left behind by the old version"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/InterviewAgent.spec.tsx:96",
+  "retry": 0,
+  "repeat": 0
+}

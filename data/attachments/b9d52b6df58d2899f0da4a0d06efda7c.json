@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "accepts a well-formed key",
+  "suite": [
+    "unit/providers.spec.ts",
+    "anthropic"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:151",
+  "retry": 0,
+  "repeat": 0
+}

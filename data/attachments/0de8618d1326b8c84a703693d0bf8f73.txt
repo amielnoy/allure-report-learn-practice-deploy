@@ -1,0 +1,2 @@
+INFO:httpx:HTTP Request: GET http://test/api/healthz "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://test/metrics "HTTP/1.1 200 OK"

@@ -1,0 +1,11 @@
+{
+  "project": "api",
+  "test": "returns 429 after the configured daily allowance",
+  "suite": [
+    "api/ai.spec.ts",
+    "per-IP quota"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/ai.spec.ts:217",
+  "retry": 0,
+  "repeat": 0
+}

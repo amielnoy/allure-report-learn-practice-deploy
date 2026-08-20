@@ -1,0 +1,11 @@
+{
+  "project": "api",
+  "test": "keeps serving other routes after a Stripe failure",
+  "suite": [
+    "api/stripe.spec.ts",
+    "Stripe routes without backend secrets"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/stripe.spec.ts:144",
+  "retry": 0,
+  "repeat": 0
+}

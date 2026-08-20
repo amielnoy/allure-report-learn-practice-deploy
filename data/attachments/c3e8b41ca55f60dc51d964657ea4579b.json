@@ -1,0 +1,11 @@
+{
+  "project": "component-mobile",
+  "test": "forgets the credential, so a reload does not sign you back in",
+  "suite": [
+    "GoogleSignIn.spec.tsx",
+    "signing out"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/GoogleSignIn.spec.tsx:166",
+  "retry": 0,
+  "repeat": 0
+}

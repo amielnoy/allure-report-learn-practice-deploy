@@ -1,0 +1,1 @@
+INFO     httpx:_client.py:1740 HTTP Request: GET https://api.example.test/healthz "HTTP/1.1 200 OK"

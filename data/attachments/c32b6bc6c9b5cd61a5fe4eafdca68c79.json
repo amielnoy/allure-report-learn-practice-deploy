@@ -1,0 +1,10 @@
+{
+  "project": "component-mobile",
+  "test": "reveals every paragraph of the answer on the second click",
+  "suite": [
+    "QuestionCard.spec.tsx"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/QuestionCard.spec.tsx:60",
+  "retry": 0,
+  "repeat": 0
+}

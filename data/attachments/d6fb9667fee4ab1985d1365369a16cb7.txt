@@ -1,0 +1,2 @@
+INFO:httpx:HTTP Request: POST http://test/api/ai/generate "HTTP/1.1 503 Service Unavailable"
+INFO:httpx:HTTP Request: GET http://test/metrics "HTTP/1.1 200 OK"

@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "places the first link of an RTL line at the right margin",
+  "suite": [
+    "unit/resumePdf.spec.ts",
+    "pdfFromRtlText — the Hebrew résumé"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePdf.spec.ts:280",
+  "retry": 0,
+  "repeat": 0
+}

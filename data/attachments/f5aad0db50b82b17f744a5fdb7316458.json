@@ -1,0 +1,7 @@
+{
+  "test": "test_runtime_openapi_document_drives_scalar",
+  "source": "tests/test_scalar_docs.py::test_runtime_openapi_document_drives_scalar",
+  "worker": "gw1",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

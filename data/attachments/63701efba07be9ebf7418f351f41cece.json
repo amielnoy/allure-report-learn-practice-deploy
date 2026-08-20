@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "offers the three providers the UI lists",
+  "suite": [
+    "unit/providers.spec.ts",
+    "provider registry"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:41",
+  "retry": 0,
+  "repeat": 0
+}

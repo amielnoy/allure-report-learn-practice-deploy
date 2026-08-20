@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "rejects the empty string",
+  "suite": [
+    "unit/domUtils.spec.ts",
+    "isRtlText"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:53",
+  "retry": 0,
+  "repeat": 0
+}

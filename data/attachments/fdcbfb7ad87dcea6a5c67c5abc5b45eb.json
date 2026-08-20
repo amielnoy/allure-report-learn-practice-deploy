@@ -1,0 +1,5 @@
+{
+  "method": "GET",
+  "url": "/api/content/question-bank?lang=' OR 1=1--",
+  "headers": {}
+}

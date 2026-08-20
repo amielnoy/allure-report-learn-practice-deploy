@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "ignores a language it has no catalog for",
+  "suite": [
+    "unit/i18n.spec.ts",
+    "resolveLang"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/i18n.spec.ts:48",
+  "retry": 0,
+  "repeat": 0
+}

@@ -1,0 +1,10 @@
+{
+  "project": "component-desktop",
+  "test": "tells the reader what the next click will do",
+  "suite": [
+    "QuestionCard.spec.tsx"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/QuestionCard.spec.tsx:39",
+  "retry": 0,
+  "repeat": 0
+}

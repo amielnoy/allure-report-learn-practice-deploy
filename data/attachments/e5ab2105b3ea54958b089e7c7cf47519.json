@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "sends the key as a bearer token and the system prompt as the first message",
+  "suite": [
+    "unit/providers.spec.ts",
+    "openai"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:195",
+  "retry": 0,
+  "repeat": 0
+}

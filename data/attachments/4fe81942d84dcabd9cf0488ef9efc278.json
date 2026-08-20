@@ -1,0 +1,7 @@
+{
+  "test": "test_login_metrics_pseudonymize_user_and_classify_country_and_ios",
+  "source": "tests/test_metrics.py::test_login_metrics_pseudonymize_user_and_classify_country_and_ios",
+  "worker": "gw1",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

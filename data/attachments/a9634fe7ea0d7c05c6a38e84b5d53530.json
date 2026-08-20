@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "prefers the query string over everything else",
+  "suite": [
+    "unit/i18n.spec.ts",
+    "resolveLang"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/i18n.spec.ts:18",
+  "retry": 0,
+  "repeat": 0
+}

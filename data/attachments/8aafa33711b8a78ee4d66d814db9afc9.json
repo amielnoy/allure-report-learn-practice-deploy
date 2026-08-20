@@ -1,0 +1,10 @@
+{
+  "project": "component-desktop",
+  "test": "sets the document language and direction while rendering",
+  "suite": [
+    "Footer.spec.tsx"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/Footer.spec.tsx:32",
+  "retry": 0,
+  "repeat": 0
+}

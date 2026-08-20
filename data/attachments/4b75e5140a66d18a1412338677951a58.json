@@ -1,0 +1,11 @@
+{
+  "project": "api",
+  "test": "rejects an empty conversation",
+  "suite": [
+    "api/ai.spec.ts",
+    "server-side key configured"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/ai.spec.ts:104",
+  "retry": 0,
+  "repeat": 0
+}

@@ -1,0 +1,11 @@
+{
+  "project": "component-mobile",
+  "test": "offers exactly the providers the locale advertises",
+  "suite": [
+    "ConnectionSetup.spec.tsx",
+    "provider switching"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ConnectionSetup.spec.tsx:105",
+  "retry": 0,
+  "repeat": 0
+}

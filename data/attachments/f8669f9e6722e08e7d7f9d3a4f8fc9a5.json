@@ -1,0 +1,5 @@
+{
+  "method": "POST",
+  "url": "/api/auth/google",
+  "headers": {}
+}
