@@ -1,3 +1,0 @@
-[GIVEN] /api/content/question-bank answers the same whatever lang is | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/content.spec.ts:78
-[WHEN] /api/content/question-bank answers the same whatever lang is | execute test actions and assertions
-[THEN] /api/content/question-bank answers the same whatever lang is | status=passed | expected=passed | duration=263ms

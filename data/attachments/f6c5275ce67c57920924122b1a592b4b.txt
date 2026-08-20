@@ -1,0 +1,3 @@
+[GIVEN] the proxy refuses a truncated answer rather than returning it | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:450
+[WHEN] the proxy refuses a truncated answer rather than returning it | execute test actions and assertions
+[THEN] the proxy refuses a truncated answer rather than returning it | status=passed | expected=passed | duration=20ms

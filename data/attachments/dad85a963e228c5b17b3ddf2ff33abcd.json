@@ -1,0 +1,7 @@
+{
+  "test": "test_missing_stripe_configuration_fails_closed",
+  "source": "tests/test_integrations.py::test_missing_stripe_configuration_fails_closed",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

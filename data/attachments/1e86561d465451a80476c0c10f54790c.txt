@@ -1,3 +1,0 @@
-[GIVEN] strips trailing sentence punctuation from the match | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:69
-[WHEN] strips trailing sentence punctuation from the match | execute test actions and assertions
-[THEN] strips trailing sentence punctuation from the match | status=passed | expected=passed | duration=8ms

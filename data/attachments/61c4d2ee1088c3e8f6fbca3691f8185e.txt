@@ -1,3 +1,0 @@
-[GIVEN] keeps a slashed acronym intact | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/bidi.spec.ts:54
-[WHEN] keeps a slashed acronym intact | execute test actions and assertions
-[THEN] keeps a slashed acronym intact | status=passed | expected=passed | duration=8ms

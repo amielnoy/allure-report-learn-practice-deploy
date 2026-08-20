@@ -1,1 +1,1 @@
-{"id":"184a9b6ba0bf1dce9d00459862beaf1e","fullName":"openapi.spec.ts:170:5","name":"POST /auth/google answers with a documented media type","status":"passed","testResultsByEnv":{"default":"de8082c2c78eb008d59855ec221d2020"}}
+{"id":"184a9b6ba0bf1dce9d00459862beaf1e","fullName":"openapi.spec.ts:170:5","name":"POST /auth/google answers with a documented media type","status":"passed","testResultsByEnv":{"default":"1678db69988eb5e0f27736c5ac1aa990"}}

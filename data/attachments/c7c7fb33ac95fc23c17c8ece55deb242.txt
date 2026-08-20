@@ -1,3 +1,0 @@
-[GIVEN] opens the drawer and closes it once a destination is chosen | project=e2e-mobile | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/e2e/mobile-nav.spec.ts:8
-[WHEN] opens the drawer and closes it once a destination is chosen | execute test actions and assertions
-[THEN] opens the drawer and closes it once a destination is chosen | status=passed | expected=passed | duration=3733ms

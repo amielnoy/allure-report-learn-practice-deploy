@@ -1,0 +1,3 @@
+[GIVEN] is not a whole-string reversal | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/bidi.spec.ts:152
+[WHEN] is not a whole-string reversal | execute test actions and assertions
+[THEN] is not a whole-string reversal | status=passed | expected=passed | duration=8ms

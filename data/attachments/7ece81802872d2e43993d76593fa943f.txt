@@ -1,3 +1,0 @@
-[GIVEN] test_checkout_returns_to_the_allowlisted_replit_app | isolated backend fixtures | worker=gw1 | tests/test_integrations.py::test_checkout_returns_to_the_allowlisted_replit_app
-[WHEN] test_checkout_returns_to_the_allowlisted_replit_app | execute test actions and assertions
-[THEN] test_checkout_returns_to_the_allowlisted_replit_app | status=passed | duration=41ms

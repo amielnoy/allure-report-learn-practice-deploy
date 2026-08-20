@@ -1,0 +1,3 @@
+[GIVEN] is left alone once the phone is actually turned | project=deck | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/deck/sanity.spec.ts:66
+[WHEN] is left alone once the phone is actually turned | execute test actions and assertions
+[THEN] is left alone once the phone is actually turned | status=passed | expected=passed | duration=1905ms

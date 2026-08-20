@@ -1,0 +1,3 @@
+[GIVEN] reads the first choice | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:115
+[WHEN] reads the first choice | execute test actions and assertions
+[THEN] reads the first choice | status=passed | expected=passed | duration=14ms

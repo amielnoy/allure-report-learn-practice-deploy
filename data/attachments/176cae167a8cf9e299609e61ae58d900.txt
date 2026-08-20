@@ -1,0 +1,3 @@
+[GIVEN] keeps a percentage readable | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/bidi.spec.ts:79
+[WHEN] keeps a percentage readable | execute test actions and assertions
+[THEN] keeps a percentage readable | status=passed | expected=passed | duration=10ms

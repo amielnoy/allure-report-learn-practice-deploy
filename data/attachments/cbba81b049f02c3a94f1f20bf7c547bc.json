@@ -1,7 +1,0 @@
-{
-  "test": "test_production_metrics_require_the_backend_token",
-  "source": "tests/test_metrics.py::test_production_metrics_require_the_backend_token",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

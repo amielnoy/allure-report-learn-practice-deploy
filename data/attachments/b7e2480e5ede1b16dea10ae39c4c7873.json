@@ -1,0 +1,12 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "url": "http://127.0.0.1:8788/api/auth/config",
+  "headers": {
+    "date": "Thu, 20 Aug 2026 10:32:12 GMT",
+    "server": "uvicorn",
+    "content-length": "15",
+    "content-type": "application/json"
+  },
+  "body": "{\n  \"clientId\": \"\"\n}"
+}

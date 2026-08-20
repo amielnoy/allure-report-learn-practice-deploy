@@ -1,3 +1,0 @@
-[GIVEN] test_invalid_claims_are_rejected[audience] | isolated backend fixtures | worker=gw0 | tests/test_google_auth.py::test_invalid_claims_are_rejected[audience]
-[WHEN] test_invalid_claims_are_rejected[audience] | execute test actions and assertions
-[THEN] test_invalid_claims_are_rejected[audience] | status=passed | duration=200ms

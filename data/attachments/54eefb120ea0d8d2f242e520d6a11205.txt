@@ -1,0 +1,3 @@
+[GIVEN] renders the footer text from the active locale | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/Footer.spec.tsx:11
+[WHEN] renders the footer text from the active locale | execute test actions and assertions
+[THEN] renders the footer text from the active locale | status=passed | expected=passed | duration=1427ms

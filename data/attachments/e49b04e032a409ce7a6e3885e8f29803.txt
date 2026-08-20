@@ -1,3 +1,0 @@
-[GIVEN] parses a documented response into the shape the Zod schema describes | project=contract | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/contract/apiClient.spec.ts:17
-[WHEN] parses a documented response into the shape the Zod schema describes | execute test actions and assertions
-[THEN] parses a documented response into the shape the Zod schema describes | status=passed | expected=passed | duration=214ms

@@ -1,3 +1,0 @@
-[GIVEN] is not restored from localStorage | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/InterviewAgent.spec.tsx:96
-[WHEN] is not restored from localStorage | execute test actions and assertions
-[THEN] is not restored from localStorage | status=passed | expected=passed | duration=1153ms

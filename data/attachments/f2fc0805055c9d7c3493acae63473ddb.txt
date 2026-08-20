@@ -1,3 +1,0 @@
-[GIVEN] English academy has no automated WCAG A/AA violations | project=e2e-mobile | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/e2e/accessibility.spec.ts:17
-[WHEN] English academy has no automated WCAG A/AA violations | execute test actions and assertions
-[THEN] English academy has no automated WCAG A/AA violations | status=passed | expected=passed | duration=5878ms

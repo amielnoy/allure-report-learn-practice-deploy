@@ -1,3 +1,0 @@
-[GIVEN] hands back what the validator accepts | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/storage.spec.ts:120
-[WHEN] hands back what the validator accepts | execute test actions and assertions
-[THEN] hands back what the validator accepts | status=passed | expected=passed | duration=5ms

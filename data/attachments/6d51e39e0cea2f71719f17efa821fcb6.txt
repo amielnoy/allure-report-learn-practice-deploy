@@ -1,3 +1,0 @@
-[GIVEN] test_monitor_rejects_unsafe_targets[{"api":"file:///tmp/secret"}] | isolated backend fixtures | worker=gw1 | tests/test_monitor.py::test_monitor_rejects_unsafe_targets[{"api":"file:///tmp/secret"}]
-[WHEN] test_monitor_rejects_unsafe_targets[{"api":"file:///tmp/secret"}] | execute test actions and assertions
-[THEN] test_monitor_rejects_unsafe_targets[{"api":"file:///tmp/secret"}] | status=passed | duration=5ms

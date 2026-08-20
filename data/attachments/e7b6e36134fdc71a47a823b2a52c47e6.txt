@@ -1,3 +1,0 @@
-[GIVEN] is the empty string when nothing is stored | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/storage.spec.ts:107
-[WHEN] is the empty string when nothing is stored | execute test actions and assertions
-[THEN] is the empty string when nothing is stored | status=passed | expected=passed | duration=4ms

@@ -1,1 +1,1 @@
-{"id":"ce05f67c47b81ce813800b7f2424c4c3","fullName":"openapi.spec.ts:170:5","name":"POST /auth/logout answers with a documented media type","status":"passed","testResultsByEnv":{"default":"7fb699e16082d4c087cda838c33064fd"}}
+{"id":"ce05f67c47b81ce813800b7f2424c4c3","fullName":"openapi.spec.ts:170:5","name":"POST /auth/logout answers with a documented media type","status":"passed","testResultsByEnv":{"default":"b1738c0b877f8e5c628e527c3c11f39f"}}

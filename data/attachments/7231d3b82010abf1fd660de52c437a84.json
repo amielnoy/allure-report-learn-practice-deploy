@@ -1,0 +1,7 @@
+{
+  "test": "test_allure_fixtures_become_grafana_test_metrics",
+  "source": "tests/test_test_history.py::test_allure_fixtures_become_grafana_test_metrics",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

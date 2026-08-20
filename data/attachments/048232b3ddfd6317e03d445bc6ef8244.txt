@@ -1,0 +1,3 @@
+[GIVEN] a token does not conjure it into existence | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/adminAuth.spec.ts:34
+[WHEN] a token does not conjure it into existence | execute test actions and assertions
+[THEN] a token does not conjure it into existence | status=passed | expected=passed | duration=277ms
