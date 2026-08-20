@@ -1,0 +1,3 @@
+[GIVEN] rejects a forged signature without disclosing why | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/stripe.spec.ts:28
+[WHEN] rejects a forged signature without disclosing why | execute test actions and assertions
+[THEN] rejects a forged signature without disclosing why | status=passed | expected=passed | duration=52ms

@@ -1,7 +1,0 @@
-{
-  "test": "test_chunked_body_cannot_bypass_the_request_limit",
-  "source": "tests/test_integrations.py::test_chunked_body_cannot_bypass_the_request_limit",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

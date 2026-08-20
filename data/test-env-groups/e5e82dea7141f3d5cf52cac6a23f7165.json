@@ -1,1 +1,1 @@
-{"id":"e5e82dea7141f3d5cf52cac6a23f7165","fullName":"tests.test_origins#test_a_test_run_does_not_take_the_local_fallback","name":"test_a_test_run_does_not_take_the_local_fallback","status":"passed","testResultsByEnv":{"default":"75fdbe474f92a2637c1e2cee8b06aca9"}}
+{"id":"e5e82dea7141f3d5cf52cac6a23f7165","fullName":"tests.test_origins#test_a_test_run_does_not_take_the_local_fallback","name":"test_a_test_run_does_not_take_the_local_fallback","status":"passed","testResultsByEnv":{"default":"60aa59387d0d25663deec34977255390"}}

@@ -1,3 +1,0 @@
-[GIVEN] collapses back to the prompt on the third click | project=component-mobile | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ChallengeCard.spec.tsx:61
-[WHEN] collapses back to the prompt on the third click | execute test actions and assertions
-[THEN] collapses back to the prompt on the third click | status=passed | expected=passed | duration=1076ms

@@ -1,0 +1,3 @@
+[GIVEN] repairs a bold link too | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:214
+[WHEN] repairs a bold link too | execute test actions and assertions
+[THEN] repairs a bold link too | status=passed | expected=passed | duration=3ms

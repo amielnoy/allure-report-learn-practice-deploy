@@ -1,3 +1,0 @@
-[GIVEN] reveals every paragraph of the answer on the second click | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/QuestionCard.spec.tsx:60
-[WHEN] reveals every paragraph of the answer on the second click | execute test actions and assertions
-[THEN] reveals every paragraph of the answer on the second click | status=passed | expected=passed | duration=1072ms

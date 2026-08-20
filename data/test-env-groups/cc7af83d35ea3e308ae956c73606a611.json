@@ -1,1 +1,1 @@
-{"id":"cc7af83d35ea3e308ae956c73606a611","fullName":"tests.test_ai_gateway#test_groq_receives_the_system_prompt_as_its_first_message","name":"test_groq_receives_the_system_prompt_as_its_first_message","status":"passed","testResultsByEnv":{"default":"3fc5ff40e7900c6a3ffdb154bfe25794"}}
+{"id":"cc7af83d35ea3e308ae956c73606a611","fullName":"tests.test_ai_gateway#test_groq_receives_the_system_prompt_as_its_first_message","name":"test_groq_receives_the_system_prompt_as_its_first_message","status":"passed","testResultsByEnv":{"default":"4957ff1935df5a5b7416b879f4ab01fc"}}

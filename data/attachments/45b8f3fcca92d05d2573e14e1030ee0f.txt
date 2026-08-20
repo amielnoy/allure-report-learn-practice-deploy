@@ -1,0 +1,3 @@
+[GIVEN] toggles English to Hebrew and navigates | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/i18n.spec.ts:90
+[WHEN] toggles English to Hebrew and navigates | execute test actions and assertions
+[THEN] toggles English to Hebrew and navigates | status=passed | expected=passed | duration=22ms

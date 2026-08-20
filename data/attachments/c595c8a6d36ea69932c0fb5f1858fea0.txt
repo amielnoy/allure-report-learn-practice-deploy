@@ -1,3 +1,0 @@
-[GIVEN] is ignored, and the document falls back to a real theme | project=e2e-mobile | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/e2e/appearance.spec.ts:40
-[WHEN] is ignored, and the document falls back to a real theme | execute test actions and assertions
-[THEN] is ignored, and the document falls back to a real theme | status=passed | expected=passed | duration=3329ms

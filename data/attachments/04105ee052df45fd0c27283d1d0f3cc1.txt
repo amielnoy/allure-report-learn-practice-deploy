@@ -1,3 +1,0 @@
-[GIVEN] keeps the bare URL as the x-default | project=e2e-mobile | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/e2e/seoHead.spec.ts:46
-[WHEN] keeps the bare URL as the x-default | execute test actions and assertions
-[THEN] keeps the bare URL as the x-default | status=passed | expected=passed | duration=2759ms

@@ -1,1 +1,1 @@
-{"id":"0114c3c709e60e5b3f7c0ebacc71e06d","fullName":"openapi.spec.ts:161:5","name":"GET /auth/session answers with a documented status","status":"passed","testResultsByEnv":{"default":"09bb325a346aed296445734861d7a6b0"}}
+{"id":"0114c3c709e60e5b3f7c0ebacc71e06d","fullName":"openapi.spec.ts:161:5","name":"GET /auth/session answers with a documented status","status":"passed","testResultsByEnv":{"default":"d47f180467d8acaaf5f2bf033faa14b6"}}

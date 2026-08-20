@@ -1,3 +1,0 @@
-[GIVEN] rejects an empty conversation | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/ai.spec.ts:104
-[WHEN] rejects an empty conversation | execute test actions and assertions
-[THEN] rejects an empty conversation | status=passed | expected=passed | duration=65ms

@@ -1,0 +1,3 @@
+[GIVEN] names the file after the role it was targeted at | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumeExport.spec.ts:18
+[WHEN] names the file after the role it was targeted at | execute test actions and assertions
+[THEN] names the file after the role it was targeted at | status=passed | expected=passed | duration=5ms

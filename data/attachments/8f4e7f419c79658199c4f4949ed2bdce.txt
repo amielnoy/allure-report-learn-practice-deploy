@@ -1,0 +1,3 @@
+[GIVEN] a direct Gemini call refuses one too, on its own finishReason | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:458
+[WHEN] a direct Gemini call refuses one too, on its own finishReason | execute test actions and assertions
+[THEN] a direct Gemini call refuses one too, on its own finishReason | status=passed | expected=passed | duration=9ms

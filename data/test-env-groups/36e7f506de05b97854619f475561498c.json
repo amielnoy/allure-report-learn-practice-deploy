@@ -1,1 +1,1 @@
-{"id":"36e7f506de05b97854619f475561498c","fullName":"fontLoading.spec.ts:107:5","name":"does not pull fonts in through a remote CSS @import","status":"passed","testResultsByEnv":{"default":"4e7aa297ea29bbae0e81261ccf15622d"}}
+{"id":"36e7f506de05b97854619f475561498c","fullName":"fontLoading.spec.ts:107:5","name":"does not pull fonts in through a remote CSS @import","status":"passed","testResultsByEnv":{"default":"b3270781157638f9c83a0001abde6e2a"}}
