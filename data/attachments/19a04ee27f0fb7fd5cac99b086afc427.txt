@@ -1,3 +1,0 @@
-[GIVEN] detects Hebrew mixed into Latin text | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:45
-[WHEN] detects Hebrew mixed into Latin text | execute test actions and assertions
-[THEN] detects Hebrew mixed into Latin text | status=passed | expected=passed | duration=7ms

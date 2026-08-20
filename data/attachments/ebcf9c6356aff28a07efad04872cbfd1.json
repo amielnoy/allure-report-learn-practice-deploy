@@ -1,0 +1,7 @@
+{
+  "test": "test_invalid_claims_are_rejected[expired]",
+  "source": "tests/test_google_auth.py::test_invalid_claims_are_rejected[expired]",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

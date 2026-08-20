@@ -1,3 +1,0 @@
-[GIVEN] test_logout_clears_session_fixture | isolated backend fixtures | worker=gw0 | tests/test_auth_routes.py::test_logout_clears_session_fixture
-[WHEN] test_logout_clears_session_fixture | execute test actions and assertions
-[THEN] test_logout_clears_session_fixture | status=passed | duration=245ms

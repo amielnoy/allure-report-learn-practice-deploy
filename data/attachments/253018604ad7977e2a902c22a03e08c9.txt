@@ -1,0 +1,3 @@
+[GIVEN] drops the toggle, because your own key is the only option | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ConnectionSetup.spec.tsx:53
+[WHEN] drops the toggle, because your own key is the only option | execute test actions and assertions
+[THEN] drops the toggle, because your own key is the only option | status=passed | expected=passed | duration=1814ms

@@ -1,0 +1,3 @@
+[GIVEN] test_monitor_rejects_unsafe_targets[[]] | isolated backend fixtures | worker=gw1 | tests/test_monitor.py::test_monitor_rejects_unsafe_targets[[]]
+[WHEN] test_monitor_rejects_unsafe_targets[[]] | execute test actions and assertions
+[THEN] test_monitor_rejects_unsafe_targets[[]] | status=passed | duration=6ms

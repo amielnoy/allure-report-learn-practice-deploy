@@ -1,3 +1,0 @@
-[GIVEN] test_the_advertised_config_reports_a_key_per_provider | isolated backend fixtures | worker=gw1 | tests/test_ai_gateway.py::test_the_advertised_config_reports_a_key_per_provider
-[WHEN] test_the_advertised_config_reports_a_key_per_provider | execute test actions and assertions
-[THEN] test_the_advertised_config_reports_a_key_per_provider | status=passed | duration=4ms

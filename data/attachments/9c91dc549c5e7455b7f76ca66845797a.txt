@@ -1,0 +1,3 @@
+[GIVEN] writes the language and direction onto the root element | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/i18n.spec.ts:119
+[WHEN] writes the language and direction onto the root element | execute test actions and assertions
+[THEN] writes the language and direction onto the root element | status=passed | expected=passed | duration=7ms

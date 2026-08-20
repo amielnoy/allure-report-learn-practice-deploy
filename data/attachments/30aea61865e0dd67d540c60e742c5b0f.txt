@@ -1,3 +1,0 @@
-[GIVEN] every deck recomputes on orientationchange, not only on resize | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/lectureDecks.spec.ts:93
-[WHEN] every deck recomputes on orientationchange, not only on resize | execute test actions and assertions
-[THEN] every deck recomputes on orientationchange, not only on resize | status=passed | expected=passed | duration=32ms

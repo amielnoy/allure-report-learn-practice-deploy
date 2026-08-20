@@ -1,3 +1,0 @@
-[GIVEN] no deck has slipped back to the letterbox formula | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/lectureDecks.spec.ts:68
-[WHEN] no deck has slipped back to the letterbox formula | execute test actions and assertions
-[THEN] no deck has slipped back to the letterbox formula | status=passed | expected=passed | duration=35ms

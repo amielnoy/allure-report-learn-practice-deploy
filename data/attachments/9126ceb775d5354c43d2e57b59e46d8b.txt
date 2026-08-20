@@ -1,3 +1,0 @@
-[GIVEN] escapes the ampersand without double-escaping the entities it produces | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:21
-[WHEN] escapes the ampersand without double-escaping the entities it produces | execute test actions and assertions
-[THEN] escapes the ampersand without double-escaping the entities it produces | status=passed | expected=passed | duration=4ms

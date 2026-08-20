@@ -1,3 +1,0 @@
-[GIVEN] caps what it hands back | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/storage.spec.ts:102
-[WHEN] caps what it hands back | execute test actions and assertions
-[THEN] caps what it hands back | status=passed | expected=passed | duration=23ms

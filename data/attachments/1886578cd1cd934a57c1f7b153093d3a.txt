@@ -1,0 +1,3 @@
+[GIVEN] lifts the server error message out of a JSON error envelope | project=contract | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/contract/apiClient.spec.ts:31
+[WHEN] lifts the server error message out of a JSON error envelope | execute test actions and assertions
+[THEN] lifts the server error message out of a JSON error envelope | status=passed | expected=passed | duration=80ms

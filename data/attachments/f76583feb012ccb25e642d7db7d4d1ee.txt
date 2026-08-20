@@ -1,0 +1,3 @@
+[GIVEN] allows a cross-origin read from the configured production origin | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/health.spec.ts:30
+[WHEN] allows a cross-origin read from the configured production origin | execute test actions and assertions
+[THEN] allows a cross-origin read from the configured production origin | status=passed | expected=passed | duration=100ms

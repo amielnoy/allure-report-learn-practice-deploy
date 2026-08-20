@@ -1,3 +1,0 @@
-[GIVEN] test_checkout_will_not_contact_stripe_without_a_return_url | isolated backend fixtures | worker=gw0 | tests/test_commerce.py::test_checkout_will_not_contact_stripe_without_a_return_url
-[WHEN] test_checkout_will_not_contact_stripe_without_a_return_url | execute test actions and assertions
-[THEN] test_checkout_will_not_contact_stripe_without_a_return_url | status=passed | duration=5ms
