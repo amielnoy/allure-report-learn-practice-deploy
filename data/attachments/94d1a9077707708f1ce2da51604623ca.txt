@@ -1,3 +1,0 @@
-[GIVEN] stays signed out for a credential that has already expired | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/GoogleSignIn.spec.tsx:107
-[WHEN] stays signed out for a credential that has already expired | execute test actions and assertions
-[THEN] stays signed out for a credential that has already expired | status=passed | expected=passed | duration=714ms

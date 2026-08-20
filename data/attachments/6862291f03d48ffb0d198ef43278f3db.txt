@@ -1,0 +1,3 @@
+[GIVEN] returns the empty string for a page with no text | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:277
+[WHEN] returns the empty string for a page with no text | execute test actions and assertions
+[THEN] returns the empty string for a page with no text | status=passed | expected=passed | duration=4ms

@@ -1,3 +1,0 @@
-[GIVEN] keeps the question readable as the only always-visible text | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/QuestionCard.spec.tsx:109
-[WHEN] keeps the question readable as the only always-visible text | execute test actions and assertions
-[THEN] keeps the question readable as the only always-visible text | status=passed | expected=passed | duration=555ms

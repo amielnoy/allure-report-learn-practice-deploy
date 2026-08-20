@@ -1,7 +1,0 @@
-{
-  "test": "test_python_probe_exports_status_and_latency",
-  "source": "tests/test_monitor.py::test_python_probe_exports_status_and_latency",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

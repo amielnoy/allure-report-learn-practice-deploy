@@ -1,1 +1,1 @@
-{"id":"c62a571987e821d3c9f3683ae6093a2d","fullName":"tests.test_origins#test_production_cors_has_no_wildcard_pattern","name":"test_production_cors_has_no_wildcard_pattern","status":"passed","testResultsByEnv":{"default":"3d01e67db9c1595b2c3b15f3eb000d8a"}}
+{"id":"c62a571987e821d3c9f3683ae6093a2d","fullName":"tests.test_origins#test_production_cors_has_no_wildcard_pattern","name":"test_production_cors_has_no_wildcard_pattern","status":"passed","testResultsByEnv":{"default":"7288b626297d1e2c3135f313bbc1efae"}}

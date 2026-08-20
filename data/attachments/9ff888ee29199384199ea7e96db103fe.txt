@@ -1,3 +1,0 @@
-[GIVEN] expose the same links for the same contact line | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePdf.spec.ts:191
-[WHEN] expose the same links for the same contact line | execute test actions and assertions
-[THEN] expose the same links for the same contact line | status=passed | expected=passed | duration=55ms

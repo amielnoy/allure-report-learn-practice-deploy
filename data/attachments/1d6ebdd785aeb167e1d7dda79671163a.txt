@@ -1,3 +1,0 @@
-[GIVEN] closes a reply that was truncated before the JSON finished | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:297
-[WHEN] closes a reply that was truncated before the JSON finished | execute test actions and assertions
-[THEN] closes a reply that was truncated before the JSON finished | status=passed | expected=passed | duration=2ms

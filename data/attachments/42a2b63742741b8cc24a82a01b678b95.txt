@@ -1,3 +1,0 @@
-[GIVEN] keeps the separator inside a Latin phrase | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/bidi.spec.ts:85
-[WHEN] keeps the separator inside a Latin phrase | execute test actions and assertions
-[THEN] keeps the separator inside a Latin phrase | status=passed | expected=passed | duration=2ms

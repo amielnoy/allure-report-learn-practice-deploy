@@ -1,3 +1,0 @@
-[GIVEN] collapses a run of reserved characters into one dash | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumeExport.spec.ts:27
-[WHEN] collapses a run of reserved characters into one dash | execute test actions and assertions
-[THEN] collapses a run of reserved characters into one dash | status=passed | expected=passed | duration=3ms

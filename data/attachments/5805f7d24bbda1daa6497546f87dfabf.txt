@@ -1,0 +1,3 @@
+[GIVEN] replaces a path separator rather than creating a directory | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumeExport.spec.ts:22
+[WHEN] replaces a path separator rather than creating a directory | execute test actions and assertions
+[THEN] replaces a path separator rather than creating a directory | status=passed | expected=passed | duration=15ms

@@ -1,7 +1,0 @@
-{
-  "test": "test_an_expanded_stripe_session_is_read_into_the_fields_that_are_compared",
-  "source": "tests/test_commerce.py::test_an_expanded_stripe_session_is_read_into_the_fields_that_are_compared",
-  "worker": "gw0",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

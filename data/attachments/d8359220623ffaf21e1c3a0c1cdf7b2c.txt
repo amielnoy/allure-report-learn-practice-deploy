@@ -1,3 +1,0 @@
-[GIVEN] reads an object embedded in prose | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:228
-[WHEN] reads an object embedded in prose | execute test actions and assertions
-[THEN] reads an object embedded in prose | status=passed | expected=passed | duration=1ms

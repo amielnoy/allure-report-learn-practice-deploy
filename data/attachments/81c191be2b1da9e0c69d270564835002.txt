@@ -1,3 +1,0 @@
-[GIVEN] fetches the font once even across several exports | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePdf.spec.ts:301
-[WHEN] fetches the font once even across several exports | execute test actions and assertions
-[THEN] fetches the font once even across several exports | status=passed | expected=passed | duration=7ms

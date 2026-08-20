@@ -1,3 +1,0 @@
-[GIVEN] does not call an empty text file a scan | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/documentText.spec.ts:159
-[WHEN] does not call an empty text file a scan | execute test actions and assertions
-[THEN] does not call an empty text file a scan | status=passed | expected=passed | duration=4ms

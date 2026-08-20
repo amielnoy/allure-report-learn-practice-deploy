@@ -1,3 +1,0 @@
-[GIVEN] surfaces a proxy failure with its status code | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:368
-[WHEN] surfaces a proxy failure with its status code | execute test actions and assertions
-[THEN] surfaces a proxy failure with its status code | status=passed | expected=passed | duration=2ms

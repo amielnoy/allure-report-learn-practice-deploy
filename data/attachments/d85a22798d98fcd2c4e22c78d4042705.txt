@@ -1,0 +1,3 @@
+[GIVEN] test_a_currency_that_is_not_three_letters_stops_the_sale[u] | isolated backend fixtures | worker=gw0 | tests/test_catalog.py::test_a_currency_that_is_not_three_letters_stops_the_sale[u]
+[WHEN] test_a_currency_that_is_not_three_letters_stops_the_sale[u] | execute test actions and assertions
+[THEN] test_a_currency_that_is_not_three_letters_stops_the_sale[u] | status=passed | duration=4ms

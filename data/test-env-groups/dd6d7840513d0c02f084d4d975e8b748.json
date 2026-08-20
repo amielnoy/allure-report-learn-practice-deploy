@@ -1,1 +1,1 @@
-{"id":"dd6d7840513d0c02f084d4d975e8b748","fullName":"providers.spec.ts:264:3","name":"reads a top-level array, not only an object","status":"passed","testResultsByEnv":{"default":"3409f55e8bed3199d00d279bed17b3ac"}}
+{"id":"dd6d7840513d0c02f084d4d975e8b748","fullName":"providers.spec.ts:264:3","name":"reads a top-level array, not only an object","status":"passed","testResultsByEnv":{"default":"88d496054491f05e98a785a0b54222de"}}

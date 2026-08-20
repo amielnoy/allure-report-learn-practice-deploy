@@ -1,1 +1,1 @@
-{"id":"e8e0df5296576fcd70149e352b4f4f0c","fullName":"openapi.spec.ts:161:5","name":"GET /ai/config answers with a documented status","status":"passed","testResultsByEnv":{"default":"e76ce1b14b1dcf82e28fd5e6c96852b0"}}
+{"id":"e8e0df5296576fcd70149e352b4f4f0c","fullName":"openapi.spec.ts:161:5","name":"GET /ai/config answers with a documented status","status":"passed","testResultsByEnv":{"default":"c77562fb5feb547af820ae8696df7a6c"}}

@@ -1,0 +1,3 @@
+[GIVEN] test_a_local_run_falls_back_to_its_own_base_url | isolated backend fixtures | worker=gw1 | tests/test_origins.py::test_a_local_run_falls_back_to_its_own_base_url
+[WHEN] test_a_local_run_falls_back_to_its_own_base_url | execute test actions and assertions
+[THEN] test_a_local_run_falls_back_to_its_own_base_url | status=passed | duration=6ms

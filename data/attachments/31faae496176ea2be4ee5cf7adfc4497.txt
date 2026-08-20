@@ -1,0 +1,2 @@
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+WARNING:app.ai_gateway:AI provider refused request id=F2qExLa8Hd4 status=429

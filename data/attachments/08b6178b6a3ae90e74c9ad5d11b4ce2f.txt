@@ -1,3 +1,0 @@
-[GIVEN] needs no database to answer | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/health.spec.ts:21
-[WHEN] needs no database to answer | execute test actions and assertions
-[THEN] needs no database to answer | status=passed | expected=passed | duration=9ms

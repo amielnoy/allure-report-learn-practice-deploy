@@ -1,0 +1,3 @@
+[GIVEN] leaves a plain line untouched | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:178
+[WHEN] leaves a plain line untouched | execute test actions and assertions
+[THEN] leaves a plain line untouched | status=passed | expected=passed | duration=16ms

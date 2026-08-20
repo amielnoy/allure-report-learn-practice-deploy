@@ -1,3 +1,0 @@
-[GIVEN] preserves the order of several Latin runs relative to each other | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/bidi.spec.ts:59
-[WHEN] preserves the order of several Latin runs relative to each other | execute test actions and assertions
-[THEN] preserves the order of several Latin runs relative to each other | status=passed | expected=passed | duration=2ms

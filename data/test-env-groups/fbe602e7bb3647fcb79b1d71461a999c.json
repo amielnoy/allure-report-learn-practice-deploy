@@ -1,1 +1,1 @@
-{"id":"fbe602e7bb3647fcb79b1d71461a999c","fullName":"tests.test_ai_gateway#test_an_unreachable_provider_is_reported_as_a_bad_gateway","name":"test_an_unreachable_provider_is_reported_as_a_bad_gateway","status":"passed","testResultsByEnv":{"default":"44388a87127064b872420015cccb8ea9"}}
+{"id":"fbe602e7bb3647fcb79b1d71461a999c","fullName":"tests.test_ai_gateway#test_an_unreachable_provider_is_reported_as_a_bad_gateway","name":"test_an_unreachable_provider_is_reported_as_a_bad_gateway","status":"passed","testResultsByEnv":{"default":"7813ae25d90de221535df8209727a49d"}}

@@ -1,3 +1,0 @@
-[GIVEN] test_chunked_body_cannot_bypass_the_request_limit | isolated backend fixtures | worker=gw1 | tests/test_integrations.py::test_chunked_body_cannot_bypass_the_request_limit
-[WHEN] test_chunked_body_cannot_bypass_the_request_limit | execute test actions and assertions
-[THEN] test_chunked_body_cannot_bypass_the_request_limit | status=passed | duration=56ms

@@ -1,0 +1,3 @@
+[GIVEN] test_an_absent_catalog_is_refused_as_sales_being_unavailable | isolated backend fixtures | worker=gw1 | tests/test_commerce.py::test_an_absent_catalog_is_refused_as_sales_being_unavailable
+[WHEN] test_an_absent_catalog_is_refused_as_sales_being_unavailable | execute test actions and assertions
+[THEN] test_an_absent_catalog_is_refused_as_sales_being_unavailable | status=passed | duration=7ms
