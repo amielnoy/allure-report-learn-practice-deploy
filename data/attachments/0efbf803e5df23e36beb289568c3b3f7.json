@@ -1,0 +1,7 @@
+{
+  "test": "test_replit_excludes_the_removed_node_api_artifact",
+  "source": "tests/test_replit_deployment.py::test_replit_excludes_the_removed_node_api_artifact",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

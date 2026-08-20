@@ -1,0 +1,7 @@
+{
+  "test": "test_groq_omits_the_system_message_when_there_is_no_system_prompt",
+  "source": "tests/test_ai_gateway.py::test_groq_omits_the_system_message_when_there_is_no_system_prompt",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

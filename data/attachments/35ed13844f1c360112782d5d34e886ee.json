@@ -1,7 +1,0 @@
-{
-  "test": "test_a_grounded_request_cannot_borrow_an_ungrounded_model",
-  "source": "tests/test_ai_gateway.py::test_a_grounded_request_cannot_borrow_an_ungrounded_model",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

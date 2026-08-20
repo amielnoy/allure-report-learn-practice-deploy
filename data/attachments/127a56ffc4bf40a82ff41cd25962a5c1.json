@@ -1,7 +1,0 @@
-{
-  "test": "test_a_complete_configuration_produces_the_approved_catalog",
-  "source": "tests/test_catalog.py::test_a_complete_configuration_produces_the_approved_catalog",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

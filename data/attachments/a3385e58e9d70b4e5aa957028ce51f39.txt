@@ -1,0 +1,3 @@
+[GIVEN] /api/content/question-bank degrades into JSON rather than failing open | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/content.spec.ts:39
+[WHEN] /api/content/question-bank degrades into JSON rather than failing open | execute test actions and assertions
+[THEN] /api/content/question-bank degrades into JSON rather than failing open | status=passed | expected=passed | duration=65ms

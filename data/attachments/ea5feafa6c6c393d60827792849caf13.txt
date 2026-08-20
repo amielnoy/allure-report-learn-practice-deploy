@@ -1,0 +1,3 @@
+[GIVEN] loads the public client ID from the API when the static build has none | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/GoogleSignIn.spec.tsx:39
+[WHEN] loads the public client ID from the API when the static build has none | execute test actions and assertions
+[THEN] loads the public client ID from the API when the static build has none | status=passed | expected=passed | duration=1662ms

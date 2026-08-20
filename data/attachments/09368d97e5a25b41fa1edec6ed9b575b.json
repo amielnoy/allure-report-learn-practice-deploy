@@ -1,0 +1,7 @@
+{
+  "test": "test_a_model_the_provider_does_not_offer_falls_back_to_its_default",
+  "source": "tests/test_ai_gateway.py::test_a_model_the_provider_does_not_offer_falls_back_to_its_default",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

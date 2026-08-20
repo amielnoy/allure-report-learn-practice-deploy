@@ -1,0 +1,3 @@
+[GIVEN] test_replit_excludes_the_removed_node_api_artifact | isolated backend fixtures | worker=gw0 | tests/test_replit_deployment.py::test_replit_excludes_the_removed_node_api_artifact
+[WHEN] test_replit_excludes_the_removed_node_api_artifact | execute test actions and assertions
+[THEN] test_replit_excludes_the_removed_node_api_artifact | status=passed | duration=1ms

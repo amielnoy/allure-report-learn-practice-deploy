@@ -1,0 +1,7 @@
+{
+  "test": "test_auth_config_exposes_only_the_public_client_id",
+  "source": "tests/test_auth_routes.py::test_auth_config_exposes_only_the_public_client_id",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

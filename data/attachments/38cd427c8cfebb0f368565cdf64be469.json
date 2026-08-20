@@ -1,0 +1,7 @@
+{
+  "test": "test_a_timeout_is_reported_as_a_gateway_timeout",
+  "source": "tests/test_ai_gateway.py::test_a_timeout_is_reported_as_a_gateway_timeout",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

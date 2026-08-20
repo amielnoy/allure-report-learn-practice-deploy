@@ -1,3 +1,0 @@
-[GIVEN] advertises the sitemap to crawlers | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/hreflang.spec.ts:110
-[WHEN] advertises the sitemap to crawlers | execute test actions and assertions
-[THEN] advertises the sitemap to crawlers | status=passed | expected=passed | duration=5ms

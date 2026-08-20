@@ -1,0 +1,2 @@
+INFO     httpx:_client.py:1740 HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+WARNING  app.ai_gateway:ai_gateway.py:207 AI provider refused request id=Lus1hfPv9OM status=429

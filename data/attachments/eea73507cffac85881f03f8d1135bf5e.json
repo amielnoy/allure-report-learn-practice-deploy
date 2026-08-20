@@ -1,0 +1,12 @@
+{
+  "status": 503,
+  "statusText": "Service Unavailable",
+  "url": "http://127.0.0.1:8788/api/content/lecture-series?lang=en&lang=he",
+  "headers": {
+    "date": "Thu, 20 Aug 2026 11:30:11 GMT",
+    "server": "uvicorn",
+    "content-length": "43",
+    "content-type": "application/json"
+  },
+  "body": "{\n  \"error\": \"Content temporarily unavailable\"\n}"
+}

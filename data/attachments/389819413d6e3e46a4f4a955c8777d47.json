@@ -1,0 +1,13 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "url": "http://127.0.0.1:8788/api/auth/logout",
+  "headers": {
+    "date": "Thu, 20 Aug 2026 11:30:19 GMT",
+    "server": "uvicorn",
+    "content-length": "11",
+    "content-type": "application/json",
+    "set-cookie": "«redacted»"
+  },
+  "body": "{\n  \"ok\": true\n}"
+}

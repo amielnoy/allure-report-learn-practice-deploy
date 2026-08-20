@@ -1,7 +1,0 @@
-{
-  "test": "test_checkout_will_not_contact_stripe_without_a_return_url",
-  "source": "tests/test_commerce.py::test_checkout_will_not_contact_stripe_without_a_return_url",
-  "worker": "gw0",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

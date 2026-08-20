@@ -1,0 +1,3 @@
+[GIVEN] documents at least one operation | project=contract | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/contract/openapi.spec.ts:127
+[WHEN] documents at least one operation | execute test actions and assertions
+[THEN] documents at least one operation | status=passed | expected=passed | duration=36ms

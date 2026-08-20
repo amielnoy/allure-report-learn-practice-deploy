@@ -1,1 +1,1 @@
-{"id":"683492bf273b7290025d06e8535c8c46","fullName":"tests.test_content_store#test_the_supabase_store_refuses_to_run_without_credentials","name":"test_the_supabase_store_refuses_to_run_without_credentials","status":"passed","testResultsByEnv":{"default":"2e52a40d8b1d0c0534b3d9155d6b5a5e"}}
+{"id":"683492bf273b7290025d06e8535c8c46","fullName":"tests.test_content_store#test_the_supabase_store_refuses_to_run_without_credentials","name":"test_the_supabase_store_refuses_to_run_without_credentials","status":"passed","testResultsByEnv":{"default":"4871179658ceedd1c57c2202d7a61745"}}

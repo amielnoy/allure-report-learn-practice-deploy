@@ -1,3 +1,0 @@
-[GIVEN] tells Google not to pick the same account unasked | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/GoogleSignIn.spec.tsx:179
-[WHEN] tells Google not to pick the same account unasked | execute test actions and assertions
-[THEN] tells Google not to pick the same account unasked | status=passed | expected=passed | duration=1107ms

@@ -1,7 +1,0 @@
-{
-  "test": "test_ai_metrics_include_provider_model_country_and_android",
-  "source": "tests/test_metrics.py::test_ai_metrics_include_provider_model_country_and_android",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

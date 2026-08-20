@@ -1,3 +1,0 @@
-[GIVEN] exposes privacy, terms, cancellation, accessibility, and contact links | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/Footer.spec.tsx:42
-[WHEN] exposes privacy, terms, cancellation, accessibility, and contact links | execute test actions and assertions
-[THEN] exposes privacy, terms, cancellation, accessibility, and contact links | status=passed | expected=passed | duration=1757ms

@@ -1,7 +1,0 @@
-{
-  "test": "test_checkout_sends_the_configured_price_and_never_a_client_supplied_one",
-  "source": "tests/test_commerce.py::test_checkout_sends_the_configured_price_and_never_a_client_supplied_one",
-  "worker": "gw0",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

@@ -1,1 +1,1 @@
-{"id":"450d0bda3facedabfe15213574d2f2cf","fullName":"tests.test_integrations#test_missing_stripe_configuration_fails_closed","name":"test_missing_stripe_configuration_fails_closed","status":"passed","testResultsByEnv":{"default":"771390acc570d6a9fe5b8d1bff3dd6d9"}}
+{"id":"450d0bda3facedabfe15213574d2f2cf","fullName":"tests.test_integrations#test_missing_stripe_configuration_fails_closed","name":"test_missing_stripe_configuration_fails_closed","status":"passed","testResultsByEnv":{"default":"c057863dfbb343a71948ff86d4ec9c6e"}}

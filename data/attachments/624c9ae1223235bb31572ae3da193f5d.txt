@@ -1,3 +1,0 @@
-[GIVEN] test_relay_preserves_login_cookie_and_stripe_webhook | isolated backend fixtures | worker=gw0 | tests/test_relay.py::test_relay_preserves_login_cookie_and_stripe_webhook
-[WHEN] test_relay_preserves_login_cookie_and_stripe_webhook | execute test actions and assertions
-[THEN] test_relay_preserves_login_cookie_and_stripe_webhook | status=passed | duration=34ms

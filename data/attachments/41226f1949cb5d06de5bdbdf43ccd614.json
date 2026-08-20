@@ -1,7 +1,0 @@
-{
-  "test": "test_a_replit_domain_becomes_an_https_origin",
-  "source": "tests/test_origins.py::test_a_replit_domain_becomes_an_https_origin",
-  "worker": "gw0",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

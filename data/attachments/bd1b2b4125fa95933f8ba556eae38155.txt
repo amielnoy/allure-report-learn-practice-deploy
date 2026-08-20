@@ -1,3 +1,0 @@
-[GIVEN] recovers a missing comma between object members | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:247
-[WHEN] recovers a missing comma between object members | execute test actions and assertions
-[THEN] recovers a missing comma between object members | status=passed | expected=passed | duration=8ms

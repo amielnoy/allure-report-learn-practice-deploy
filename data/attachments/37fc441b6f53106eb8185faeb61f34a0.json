@@ -1,7 +1,0 @@
-{
-  "test": "test_production_cors_has_no_wildcard_pattern",
-  "source": "tests/test_origins.py::test_production_cors_has_no_wildcard_pattern",
-  "worker": "gw0",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

@@ -1,0 +1,3 @@
+[GIVEN] test_runtime_openapi_document_drives_scalar | isolated backend fixtures | worker=gw0 | tests/test_scalar_docs.py::test_runtime_openapi_document_drives_scalar
+[WHEN] test_runtime_openapi_document_drives_scalar | execute test actions and assertions
+[THEN] test_runtime_openapi_document_drives_scalar | status=passed | duration=23ms

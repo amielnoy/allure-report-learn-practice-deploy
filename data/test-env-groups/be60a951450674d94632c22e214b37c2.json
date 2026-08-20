@@ -1,1 +1,1 @@
-{"id":"be60a951450674d94632c22e214b37c2","fullName":"tests.test_auth_routes#test_logout_clears_session_fixture","name":"test_logout_clears_session_fixture","status":"passed","testResultsByEnv":{"default":"88cdb0ea94055c2b78397778cf8b81d7"}}
+{"id":"be60a951450674d94632c22e214b37c2","fullName":"tests.test_auth_routes#test_logout_clears_session_fixture","name":"test_logout_clears_session_fixture","status":"passed","testResultsByEnv":{"default":"b3152df60f6eb1785f2af1e27b19ee13"}}

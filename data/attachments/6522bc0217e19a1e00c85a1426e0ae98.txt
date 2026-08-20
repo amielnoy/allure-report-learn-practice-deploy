@@ -1,3 +1,0 @@
-[GIVEN] Hebrew RTL academy has no automated WCAG A/AA violations | project=e2e-mobile | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/e2e/accessibility.spec.ts:22
-[WHEN] Hebrew RTL academy has no automated WCAG A/AA violations | execute test actions and assertions
-[THEN] Hebrew RTL academy has no automated WCAG A/AA violations | status=passed | expected=passed | duration=7318ms
