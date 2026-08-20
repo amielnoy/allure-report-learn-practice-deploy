@@ -1,0 +1,3 @@
+[GIVEN] caps how many rendered messages are restored | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/interviewSession.spec.ts:114
+[WHEN] caps how many rendered messages are restored | execute test actions and assertions
+[THEN] caps how many rendered messages are restored | status=passed | expected=passed | duration=21ms

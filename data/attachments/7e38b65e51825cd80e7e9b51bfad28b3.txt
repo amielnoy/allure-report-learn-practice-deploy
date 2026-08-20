@@ -1,0 +1,3 @@
+[GIVEN] reports a failed fetch instead of emitting a PDF with no Hebrew in it | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePdf.spec.ts:309
+[WHEN] reports a failed fetch instead of emitting a PDF with no Hebrew in it | execute test actions and assertions
+[THEN] reports a failed fetch instead of emitting a PDF with no Hebrew in it | status=passed | expected=passed | duration=11ms

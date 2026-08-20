@@ -1,3 +1,0 @@
-[GIVEN] is refused when it is not an object at all | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/interviewSession.spec.ts:63
-[WHEN] is refused when it is not an object at all | execute test actions and assertions
-[THEN] is refused when it is not an object at all | status=passed | expected=passed | duration=7ms

@@ -1,0 +1,3 @@
+[GIVEN] test_stripe_credentials_come_from_backend_secrets | isolated backend fixtures | worker=gw0 | tests/test_integrations.py::test_stripe_credentials_come_from_backend_secrets
+[WHEN] test_stripe_credentials_come_from_backend_secrets | execute test actions and assertions
+[THEN] test_stripe_credentials_come_from_backend_secrets | status=passed | duration=24ms

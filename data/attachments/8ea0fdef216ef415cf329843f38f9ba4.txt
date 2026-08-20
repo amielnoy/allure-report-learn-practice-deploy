@@ -1,3 +1,0 @@
-[GIVEN] rejects anything else | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/storage.spec.ts:89
-[WHEN] rejects anything else | execute test actions and assertions
-[THEN] rejects anything else | status=passed | expected=passed | duration=15ms

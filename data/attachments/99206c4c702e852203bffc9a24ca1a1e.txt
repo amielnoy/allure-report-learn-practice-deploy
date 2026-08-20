@@ -1,0 +1,3 @@
+[GIVEN] test_sales_are_off_unless_the_flag_is_exactly_true[false] | isolated backend fixtures | worker=gw0 | tests/test_catalog.py::test_sales_are_off_unless_the_flag_is_exactly_true[false]
+[WHEN] test_sales_are_off_unless_the_flag_is_exactly_true[false] | execute test actions and assertions
+[THEN] test_sales_are_off_unless_the_flag_is_exactly_true[false] | status=passed | duration=12ms

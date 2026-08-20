@@ -1,0 +1,3 @@
+[GIVEN] test_an_unpaid_completed_session_records_nothing | isolated backend fixtures | worker=gw1 | tests/test_commerce.py::test_an_unpaid_completed_session_records_nothing
+[WHEN] test_an_unpaid_completed_session_records_nothing | execute test actions and assertions
+[THEN] test_an_unpaid_completed_session_records_nothing | status=passed | duration=7ms

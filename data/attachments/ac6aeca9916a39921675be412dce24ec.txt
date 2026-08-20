@@ -1,3 +1,0 @@
-[GIVEN] refuses a grounded (Gemini) request too | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/ai.spec.ts:53
-[WHEN] refuses a grounded (Gemini) request too | execute test actions and assertions
-[THEN] refuses a grounded (Gemini) request too | status=passed | expected=passed | duration=28ms

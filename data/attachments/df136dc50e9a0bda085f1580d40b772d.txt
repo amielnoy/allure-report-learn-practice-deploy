@@ -1,3 +1,0 @@
-[GIVEN] switches the interface language to Hebrew and flips to RTL | project=e2e-mobile | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/e2e/appearance.spec.ts:20
-[WHEN] switches the interface language to Hebrew and flips to RTL | execute test actions and assertions
-[THEN] switches the interface language to Hebrew and flips to RTL | status=passed | expected=passed | duration=3829ms

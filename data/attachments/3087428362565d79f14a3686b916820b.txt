@@ -1,0 +1,3 @@
+[GIVEN] test_a_live_price_that_drifted_from_the_configuration_is_not_served | isolated backend fixtures | worker=gw1 | tests/test_commerce.py::test_a_live_price_that_drifted_from_the_configuration_is_not_served
+[WHEN] test_a_live_price_that_drifted_from_the_configuration_is_not_served | execute test actions and assertions
+[THEN] test_a_live_price_that_drifted_from_the_configuration_is_not_served | status=passed | duration=6ms

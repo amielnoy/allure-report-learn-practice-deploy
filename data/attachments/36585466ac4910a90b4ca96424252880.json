@@ -1,0 +1,7 @@
+{
+  "test": "test_a_deployment_with_no_webhook_secret_refuses_the_event",
+  "source": "tests/test_commerce.py::test_a_deployment_with_no_webhook_secret_refuses_the_event",
+  "worker": "gw1",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

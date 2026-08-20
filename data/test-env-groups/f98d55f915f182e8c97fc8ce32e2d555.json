@@ -1,1 +1,1 @@
-{"id":"f98d55f915f182e8c97fc8ce32e2d555","fullName":"openapi.spec.ts:170:5","name":"GET /auth/config answers with a documented media type","status":"passed","testResultsByEnv":{"default":"62ba132d9f9f13ee3b98972a502313fd"}}
+{"id":"f98d55f915f182e8c97fc8ce32e2d555","fullName":"openapi.spec.ts:170:5","name":"GET /auth/config answers with a documented media type","status":"passed","testResultsByEnv":{"default":"0ce5f3e57317d04df6dd4d9ec739e2f3"}}

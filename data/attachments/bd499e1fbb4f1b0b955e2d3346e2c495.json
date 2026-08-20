@@ -1,0 +1,12 @@
+{
+  "status": 404,
+  "statusText": "Not Found",
+  "url": "http://127.0.0.1:8788/api/stripe/seed",
+  "headers": {
+    "date": "Thu, 20 Aug 2026 16:50:10 GMT",
+    "server": "uvicorn",
+    "content-length": "21",
+    "content-type": "application/json"
+  },
+  "body": "{\n  \"error\": \"Not found\"\n}"
+}

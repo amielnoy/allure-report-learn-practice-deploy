@@ -1,1 +1,1 @@
-{"id":"395ddf7038af9babd9af366b870b24c2","fullName":"documentText.spec.ts:159:3","name":"does not call an empty text file a scan","status":"passed","testResultsByEnv":{"default":"8fb6b90f129ea0ce07bcd2f5dddde0c5"}}
+{"id":"395ddf7038af9babd9af366b870b24c2","fullName":"documentText.spec.ts:159:3","name":"does not call an empty text file a scan","status":"passed","testResultsByEnv":{"default":"3ce7b187afebcd0e3fe85e2c380d7842"}}

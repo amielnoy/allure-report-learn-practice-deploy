@@ -1,3 +1,0 @@
-[GIVEN] the Groq models match the ones the server proxy allows | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:55
-[WHEN] the Groq models match the ones the server proxy allows | execute test actions and assertions
-[THEN] the Groq models match the ones the server proxy allows | status=passed | expected=passed | duration=16ms

@@ -1,3 +1,0 @@
-[GIVEN] neutralises a script tag | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:25
-[WHEN] neutralises a script tag | execute test actions and assertions
-[THEN] neutralises a script tag | status=passed | expected=passed | duration=8ms

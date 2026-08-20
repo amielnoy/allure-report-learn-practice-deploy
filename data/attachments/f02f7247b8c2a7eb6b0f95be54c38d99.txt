@@ -1,3 +1,0 @@
-[GIVEN] GET /content/coding-challenges has a generated response schema | project=contract | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/contract/openapi.spec.ts:139
-[WHEN] GET /content/coding-challenges has a generated response schema | execute test actions and assertions
-[THEN] GET /content/coding-challenges has a generated response schema | status=passed | expected=passed | duration=12ms
