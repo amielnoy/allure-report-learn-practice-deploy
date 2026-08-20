@@ -1,0 +1,7 @@
+{
+  "test": "test_webhook_grants_access_only_for_the_approved_catalog",
+  "source": "tests/test_integrations.py::test_webhook_grants_access_only_for_the_approved_catalog",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

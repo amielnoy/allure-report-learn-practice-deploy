@@ -1,0 +1,7 @@
+{
+  "test": "test_gemini_sends_the_key_as_a_header_and_asks_for_search_grounding",
+  "source": "tests/test_ai_gateway.py::test_gemini_sends_the_key_as_a_header_and_asks_for_search_grounding",
+  "worker": "gw1",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

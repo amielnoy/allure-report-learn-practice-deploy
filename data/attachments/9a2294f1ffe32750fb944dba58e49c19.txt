@@ -1,3 +1,0 @@
-[GIVEN] keeps a Hebrew role intact, since it is a valid filename | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumeExport.spec.ts:35
-[WHEN] keeps a Hebrew role intact, since it is a valid filename | execute test actions and assertions
-[THEN] keeps a Hebrew role intact, since it is a valid filename | status=passed | expected=passed | duration=24ms

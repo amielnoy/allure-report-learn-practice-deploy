@@ -1,3 +1,0 @@
-[GIVEN] tells the reader what the next click will do | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/QuestionCard.spec.tsx:39
-[WHEN] tells the reader what the next click will do | execute test actions and assertions
-[THEN] tells the reader what the next click will do | status=passed | expected=passed | duration=970ms

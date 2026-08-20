@@ -1,7 +1,0 @@
-{
-  "test": "test_relay_preserves_login_cookie_and_stripe_webhook",
-  "source": "tests/test_relay.py::test_relay_preserves_login_cookie_and_stripe_webhook",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

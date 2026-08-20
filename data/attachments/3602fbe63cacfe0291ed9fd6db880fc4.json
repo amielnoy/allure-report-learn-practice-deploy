@@ -1,0 +1,7 @@
+{
+  "test": "test_the_cause_is_logged_once_rather_than_per_request",
+  "source": "tests/test_rate_limit_config.py::test_the_cause_is_logged_once_rather_than_per_request",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

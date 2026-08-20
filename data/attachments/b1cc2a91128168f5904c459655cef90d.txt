@@ -1,3 +1,0 @@
-[GIVEN] requires affirmative data-processing consent before starting | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/InterviewAgent.spec.tsx:67
-[WHEN] requires affirmative data-processing consent before starting | execute test actions and assertions
-[THEN] requires affirmative data-processing consent before starting | status=passed | expected=passed | duration=1151ms

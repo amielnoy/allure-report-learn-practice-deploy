@@ -1,3 +1,0 @@
-[GIVEN] produces a text layer rather than a picture of one | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePdf.spec.ts:226
-[WHEN] produces a text layer rather than a picture of one | execute test actions and assertions
-[THEN] produces a text layer rather than a picture of one | status=passed | expected=passed | duration=62ms

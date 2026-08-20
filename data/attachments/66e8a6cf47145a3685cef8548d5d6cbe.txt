@@ -1,3 +1,0 @@
-[GIVEN] recovers after a rejected file, without a reload | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ResumeAgent.spec.tsx:184
-[WHEN] recovers after a rejected file, without a reload | execute test actions and assertions
-[THEN] recovers after a rejected file, without a reload | status=passed | expected=passed | duration=2294ms

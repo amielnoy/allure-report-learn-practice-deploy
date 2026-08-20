@@ -1,3 +1,0 @@
-[GIVEN] does not strip spaces from the label | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:248
-[WHEN] does not strip spaces from the label | execute test actions and assertions
-[THEN] does not strip spaces from the label | status=passed | expected=passed | duration=5ms

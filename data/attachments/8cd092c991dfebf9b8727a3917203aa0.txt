@@ -1,3 +1,0 @@
-[GIVEN] keeps a typed key in sessionStorage by default and out of the DOM | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ConnectionSetup.spec.tsx:60
-[WHEN] keeps a typed key in sessionStorage by default and out of the DOM | execute test actions and assertions
-[THEN] keeps a typed key in sessionStorage by default and out of the DOM | status=passed | expected=passed | duration=1670ms

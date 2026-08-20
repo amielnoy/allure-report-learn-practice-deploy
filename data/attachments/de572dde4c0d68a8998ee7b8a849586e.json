@@ -1,7 +1,0 @@
-{
-  "test": "test_scalar_reference_is_served_without_agent_telemetry_or_proxy",
-  "source": "tests/test_scalar_docs.py::test_scalar_reference_is_served_without_agent_telemetry_or_proxy",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

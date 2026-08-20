@@ -1,0 +1,3 @@
+[GIVEN] discards an unreadable credential instead of failing on every load | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/GoogleSignIn.spec.tsx:140
+[WHEN] discards an unreadable credential instead of failing on every load | execute test actions and assertions
+[THEN] discards an unreadable credential instead of failing on every load | status=passed | expected=passed | duration=1514ms

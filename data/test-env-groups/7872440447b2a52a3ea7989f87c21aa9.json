@@ -1,1 +1,1 @@
-{"id":"7872440447b2a52a3ea7989f87c21aa9","fullName":"tests.test_auth_routes#test_login_uses_httponly_session_fixture","name":"test_login_uses_httponly_session_fixture","status":"passed","testResultsByEnv":{"default":"0d0365c02ff7fd181093b64dfb02add9"}}
+{"id":"7872440447b2a52a3ea7989f87c21aa9","fullName":"tests.test_auth_routes#test_login_uses_httponly_session_fixture","name":"test_login_uses_httponly_session_fixture","status":"passed","testResultsByEnv":{"default":"ae678a93ed9b22897b7134597e522b61"}}

@@ -1,0 +1,3 @@
+[GIVEN] caps the length so a pasted job description cannot become the filename | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumeExport.spec.ts:39
+[WHEN] caps the length so a pasted job description cannot become the filename | execute test actions and assertions
+[THEN] caps the length so a pasted job description cannot become the filename | status=passed | expected=passed | duration=14ms

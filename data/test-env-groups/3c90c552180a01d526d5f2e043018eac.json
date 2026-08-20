@@ -1,1 +1,1 @@
-{"id":"3c90c552180a01d526d5f2e043018eac","fullName":"adminAuth.spec.ts:51:3","name":"a wrong token is refused","status":"passed","testResultsByEnv":{"default":"45031b697d830c7ef66d77d98f3489aa"}}
+{"id":"3c90c552180a01d526d5f2e043018eac","fullName":"adminAuth.spec.ts:51:3","name":"a wrong token is refused","status":"passed","testResultsByEnv":{"default":"245cb857a1f12cd639d4b79588ca5efe"}}

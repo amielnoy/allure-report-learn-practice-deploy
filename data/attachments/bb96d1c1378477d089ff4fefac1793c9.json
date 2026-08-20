@@ -1,7 +1,0 @@
-{
-  "test": "test_checkout_rejects_a_client_supplied_price",
-  "source": "tests/test_integrations.py::test_checkout_rejects_a_client_supplied_price",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

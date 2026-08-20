@@ -1,3 +1,0 @@
-[GIVEN] finds every link in one line | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:87
-[WHEN] finds every link in one line | execute test actions and assertions
-[THEN] finds every link in one line | status=passed | expected=passed | duration=8ms

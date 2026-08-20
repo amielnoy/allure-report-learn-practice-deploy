@@ -1,3 +1,0 @@
-[GIVEN] test_an_expanded_stripe_session_is_read_into_the_fields_that_are_compared | isolated backend fixtures | worker=gw0 | tests/test_commerce.py::test_an_expanded_stripe_session_is_read_into_the_fields_that_are_compared
-[WHEN] test_an_expanded_stripe_session_is_read_into_the_fields_that_are_compared | execute test actions and assertions
-[THEN] test_an_expanded_stripe_session_is_read_into_the_fields_that_are_compared | status=passed | duration=2ms

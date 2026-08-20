@@ -1,0 +1,10 @@
+{
+  "project": "component-mobile",
+  "test": "asks the browser to mediate the dialog rather than opening a popup",
+  "suite": [
+    "GoogleSignIn.spec.tsx"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/GoogleSignIn.spec.tsx:309",
+  "retry": 0,
+  "repeat": 0
+}

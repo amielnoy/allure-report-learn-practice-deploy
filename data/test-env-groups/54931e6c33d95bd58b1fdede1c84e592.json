@@ -1,1 +1,1 @@
-{"id":"54931e6c33d95bd58b1fdede1c84e592","fullName":"tests.test_catalog#test_a_currency_that_is_not_three_letters_stops_the_sale","name":"test_a_currency_that_is_not_three_letters_stops_the_sale[u]","status":"passed","testResultsByEnv":{"default":"bb8958f46be201e90e5696f9c703eb60"}}
+{"id":"54931e6c33d95bd58b1fdede1c84e592","fullName":"tests.test_catalog#test_a_currency_that_is_not_three_letters_stops_the_sale","name":"test_a_currency_that_is_not_three_letters_stops_the_sale[u]","status":"passed","testResultsByEnv":{"default":"31fc7bd3dcdd05c5a16fa9c6de1d2b87"}}

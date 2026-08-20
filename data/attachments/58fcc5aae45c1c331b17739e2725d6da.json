@@ -1,7 +1,0 @@
-{
-  "test": "test_a_groq_reply_cut_short_by_the_token_limit_is_reported_as_truncated",
-  "source": "tests/test_ai_gateway.py::test_a_groq_reply_cut_short_by_the_token_limit_is_reported_as_truncated",
-  "worker": "gw0",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

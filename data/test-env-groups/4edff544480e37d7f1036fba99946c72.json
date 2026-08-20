@@ -1,1 +1,1 @@
-{"id":"4edff544480e37d7f1036fba99946c72","fullName":"content.spec.ts:39:5","name":"/api/content/coding-challenges degrades into JSON rather than failing open","status":"passed","testResultsByEnv":{"default":"2549c752dde4734ac4fa25ce28be313d"}}
+{"id":"4edff544480e37d7f1036fba99946c72","fullName":"content.spec.ts:39:5","name":"/api/content/coding-challenges degrades into JSON rather than failing open","status":"passed","testResultsByEnv":{"default":"86950da79e2bc4a51505921f458d5bf3"}}

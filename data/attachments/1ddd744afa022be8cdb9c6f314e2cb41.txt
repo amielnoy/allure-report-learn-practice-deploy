@@ -1,0 +1,3 @@
+[GIVEN] has no extractor for a file with no extension at all | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/documentText.spec.ts:62
+[WHEN] has no extractor for a file with no extension at all | execute test actions and assertions
+[THEN] has no extractor for a file with no extension at all | status=passed | expected=passed | duration=8ms

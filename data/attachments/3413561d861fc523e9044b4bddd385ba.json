@@ -1,7 +1,0 @@
-{
-  "test": "test_relay_drops_a_client_supplied_identity_header[cf-connecting-ip]",
-  "source": "tests/test_relay.py::test_relay_drops_a_client_supplied_identity_header[cf-connecting-ip]",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

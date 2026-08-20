@@ -1,3 +1,0 @@
-[GIVEN] GET /content/coding-challenges returns a body its schema accepts | project=contract | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/contract/openapi.spec.ts:184
-[WHEN] GET /content/coding-challenges returns a body its schema accepts | execute test actions and assertions
-[THEN] GET /content/coding-challenges returns a body its schema accepts | status=passed | expected=passed | duration=40ms

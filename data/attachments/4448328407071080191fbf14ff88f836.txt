@@ -1,3 +1,0 @@
-[GIVEN] fetches the font CSS early with a preload | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/fontLoading.spec.ts:68
-[WHEN] fetches the font CSS early with a preload | execute test actions and assertions
-[THEN] fetches the font CSS early with a preload | status=passed | expected=passed | duration=10ms

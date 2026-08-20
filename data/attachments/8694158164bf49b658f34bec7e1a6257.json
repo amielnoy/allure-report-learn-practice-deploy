@@ -1,7 +1,0 @@
-{
-  "test": "test_a_degraded_quota_is_still_a_quota",
-  "source": "tests/test_rate_limit_config.py::test_a_degraded_quota_is_still_a_quota",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}
