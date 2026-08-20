@@ -1,1 +1,1 @@
-{"id":"b7017c948a737355129ce85c54e1ced7","fullName":"tests.test_ai_gateway#test_gemini_maps_an_assistant_turn_to_the_model_role","name":"test_gemini_maps_an_assistant_turn_to_the_model_role","status":"passed","testResultsByEnv":{"default":"15df957e54339ac91e9e4ae958d3949a"}}
+{"id":"b7017c948a737355129ce85c54e1ced7","fullName":"tests.test_ai_gateway#test_gemini_maps_an_assistant_turn_to_the_model_role","name":"test_gemini_maps_an_assistant_turn_to_the_model_role","status":"passed","testResultsByEnv":{"default":"b186f92a299c23862b3dcb83862bd40e"}}

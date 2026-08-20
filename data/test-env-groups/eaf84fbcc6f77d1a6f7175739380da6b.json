@@ -1,1 +1,1 @@
-{"id":"eaf84fbcc6f77d1a6f7175739380da6b","fullName":"openapi.spec.ts:184:5","name":"GET /stripe/prices returns a body its schema accepts","status":"passed","testResultsByEnv":{"default":"282d2f9937360543dcd4bd8df397ac54"}}
+{"id":"eaf84fbcc6f77d1a6f7175739380da6b","fullName":"openapi.spec.ts:184:5","name":"GET /stripe/prices returns a body its schema accepts","status":"passed","testResultsByEnv":{"default":"ef7021ddd7327aa5ac9ab36efabc05f7"}}

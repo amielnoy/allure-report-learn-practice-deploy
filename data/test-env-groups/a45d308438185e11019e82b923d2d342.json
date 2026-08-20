@@ -1,1 +1,1 @@
-{"id":"a45d308438185e11019e82b923d2d342","fullName":"stripe.spec.ts:91:3","name":"refuses an email that is not an address","status":"passed","testResultsByEnv":{"default":"6213ed8c914fba9ede83a36b9f7d3dac"}}
+{"id":"a45d308438185e11019e82b923d2d342","fullName":"stripe.spec.ts:91:3","name":"refuses an email that is not an address","status":"passed","testResultsByEnv":{"default":"fad32c9f5edeb19138a4c176b304c098"}}

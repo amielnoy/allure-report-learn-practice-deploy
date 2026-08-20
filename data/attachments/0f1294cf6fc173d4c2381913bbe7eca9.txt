@@ -1,0 +1,2 @@
+WARNING:app.ai_gateway:groq could not serve the request (status 504); trying the next provider
+WARNING:app.ai_gateway:gemini could not serve the request (status 503); trying the next provider

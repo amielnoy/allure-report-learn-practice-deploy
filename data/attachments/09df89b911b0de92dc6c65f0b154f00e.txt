@@ -1,0 +1,3 @@
+[GIVEN] collapses the runs of spaces that PDF text layers leave behind | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/documentText.spec.ts:109
+[WHEN] collapses the runs of spaces that PDF text layers leave behind | execute test actions and assertions
+[THEN] collapses the runs of spaces that PDF text layers leave behind | status=passed | expected=passed | duration=37ms

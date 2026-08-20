@@ -1,3 +1,0 @@
-[GIVEN] the button stays available, whatever the reason | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/GoogleSignIn.spec.tsx:298
-[WHEN] the button stays available, whatever the reason | execute test actions and assertions
-[THEN] the button stays available, whatever the reason | status=passed | expected=passed | duration=1247ms

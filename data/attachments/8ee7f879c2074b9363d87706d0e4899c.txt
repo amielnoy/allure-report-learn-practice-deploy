@@ -1,0 +1,2 @@
+WARNING  app.ai_gateway:ai_gateway.py:227 groq could not serve the request (status 504); trying the next provider
+WARNING  app.ai_gateway:ai_gateway.py:227 gemini could not serve the request (status 503); trying the next provider

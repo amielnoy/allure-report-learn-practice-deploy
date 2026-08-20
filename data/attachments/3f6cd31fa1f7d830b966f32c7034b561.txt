@@ -1,0 +1,4 @@
+WARNING:app.ai_gateway:groq could not serve the request (status 503); trying the next provider
+WARNING:app.ai_gateway:gemini could not serve the request (status 503); trying the next provider
+INFO:httpx:HTTP Request: POST http://test/api/ai/generate "HTTP/1.1 503 Service Unavailable"
+INFO:httpx:HTTP Request: GET http://test/metrics "HTTP/1.1 200 OK"

@@ -1,0 +1,3 @@
+[GIVEN] every provider offers at least one model and a label | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:48
+[WHEN] every provider offers at least one model and a label | execute test actions and assertions
+[THEN] every provider offers at least one model and a label | status=passed | expected=passed | duration=31ms

@@ -1,0 +1,3 @@
+[GIVEN] test_groq_receives_the_system_prompt_as_its_first_message | isolated backend fixtures | worker=gw1 | tests/test_ai_gateway.py::test_groq_receives_the_system_prompt_as_its_first_message
+[WHEN] test_groq_receives_the_system_prompt_as_its_first_message | execute test actions and assertions
+[THEN] test_groq_receives_the_system_prompt_as_its_first_message | status=passed | duration=14ms

@@ -1,0 +1,1 @@
+{"id":"b2e6a93367811f8b3c92f298d2ceb923","fullName":"tests.test_rate_limit_config#test_a_refused_provider_does_not_spend_the_daily_allowance","name":"test_a_refused_provider_does_not_spend_the_daily_allowance","status":"passed","testResultsByEnv":{"default":"1e5956430d1453cf55f0d4c249b55970"}}

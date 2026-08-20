@@ -1,1 +1,1 @@
-{"id":"3783976de1f6c60c8da673a1d41ea4c2","fullName":"content.spec.ts:39:5","name":"/api/content/lecture-series degrades into JSON rather than failing open","status":"passed","testResultsByEnv":{"default":"97d1b4d2ff1ef60367d55d00d827ebbb"}}
+{"id":"3783976de1f6c60c8da673a1d41ea4c2","fullName":"content.spec.ts:39:5","name":"/api/content/lecture-series degrades into JSON rather than failing open","status":"passed","testResultsByEnv":{"default":"3420123cea77c8e68c3c8996d8846cf9"}}

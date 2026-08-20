@@ -1,1 +1,0 @@
-ERROR    app.rate_limit:rate_limit.py:122 Shared rate limiting is unavailable: RATE_LIMIT_SALT (or METRICS_ID_SALT) is not set; every 'ai-burst' request is refused

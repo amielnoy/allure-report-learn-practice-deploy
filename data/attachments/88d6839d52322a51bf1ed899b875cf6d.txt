@@ -1,3 +1,0 @@
-[GIVEN] reads a fenced block with no language tag | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:224
-[WHEN] reads a fenced block with no language tag | execute test actions and assertions
-[THEN] reads a fenced block with no language tag | status=passed | expected=passed | duration=18ms

@@ -1,0 +1,3 @@
+[GIVEN] test_checkout_sends_the_configured_price_and_never_a_client_supplied_one | isolated backend fixtures | worker=gw0 | tests/test_commerce.py::test_checkout_sends_the_configured_price_and_never_a_client_supplied_one
+[WHEN] test_checkout_sends_the_configured_price_and_never_a_client_supplied_one | execute test actions and assertions
+[THEN] test_checkout_sends_the_configured_price_and_never_a_client_supplied_one | status=passed | duration=17ms

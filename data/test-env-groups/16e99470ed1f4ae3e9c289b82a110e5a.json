@@ -1,1 +1,1 @@
-{"id":"16e99470ed1f4ae3e9c289b82a110e5a","fullName":"tests.test_content_store#test_a_lecture_without_a_link_carries_no_url_key_at_all","name":"test_a_lecture_without_a_link_carries_no_url_key_at_all","status":"passed","testResultsByEnv":{"default":"0c33b2212caad4ce5c06c869759d32f1"}}
+{"id":"16e99470ed1f4ae3e9c289b82a110e5a","fullName":"tests.test_content_store#test_a_lecture_without_a_link_carries_no_url_key_at_all","name":"test_a_lecture_without_a_link_carries_no_url_key_at_all","status":"passed","testResultsByEnv":{"default":"45ef66ae4967107a24dae4119c07c68a"}}

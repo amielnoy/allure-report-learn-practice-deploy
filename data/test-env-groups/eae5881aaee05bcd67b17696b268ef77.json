@@ -1,1 +1,1 @@
-{"id":"eae5881aaee05bcd67b17696b268ef77","fullName":"tests.test_rate_limit_config#test_a_degraded_quota_is_still_a_quota","name":"test_a_degraded_quota_is_still_a_quota","status":"passed","testResultsByEnv":{"default":"f7aabded224798ffab248100083eeff6"}}
+{"id":"eae5881aaee05bcd67b17696b268ef77","fullName":"tests.test_rate_limit_config#test_a_degraded_quota_is_still_a_quota","name":"test_a_degraded_quota_is_still_a_quota","status":"passed","testResultsByEnv":{"default":"97052a22495ba20102f7609a6f037320"}}

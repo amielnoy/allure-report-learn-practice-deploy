@@ -1,3 +1,0 @@
-[GIVEN] recovers every link on a contact line, not just the first | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:219
-[WHEN] recovers every link on a contact line, not just the first | execute test actions and assertions
-[THEN] recovers every link on a contact line, not just the first | status=passed | expected=passed | duration=7ms

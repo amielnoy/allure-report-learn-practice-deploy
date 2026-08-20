@@ -1,3 +1,0 @@
-[GIVEN] is its own inverse for a pure Hebrew line | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/bidi.spec.ts:30
-[WHEN] is its own inverse for a pure Hebrew line | execute test actions and assertions
-[THEN] is its own inverse for a pure Hebrew line | status=passed | expected=passed | duration=11ms

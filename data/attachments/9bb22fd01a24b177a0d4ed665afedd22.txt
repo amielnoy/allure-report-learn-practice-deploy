@@ -1,3 +1,0 @@
-[GIVEN] rejects request bodies above the configured parser limit | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/ai.spec.ts:192
-[WHEN] rejects request bodies above the configured parser limit | execute test actions and assertions
-[THEN] rejects request bodies above the configured parser limit | status=passed | expected=passed | duration=149ms

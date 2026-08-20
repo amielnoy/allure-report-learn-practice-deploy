@@ -1,3 +1,0 @@
-[GIVEN] hides every hint and solution until asked | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/CodingChallenges.spec.tsx:41
-[WHEN] hides every hint and solution until asked | execute test actions and assertions
-[THEN] hides every hint and solution until asked | status=passed | expected=passed | duration=1955ms

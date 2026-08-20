@@ -1,0 +1,3 @@
+[GIVEN] test_sign_in_survives_a_production_deployment_with_no_salt | isolated backend fixtures | worker=gw0 | tests/test_rate_limit_config.py::test_sign_in_survives_a_production_deployment_with_no_salt
+[WHEN] test_sign_in_survives_a_production_deployment_with_no_salt | execute test actions and assertions
+[THEN] test_sign_in_survives_a_production_deployment_with_no_salt | status=passed | duration=41ms

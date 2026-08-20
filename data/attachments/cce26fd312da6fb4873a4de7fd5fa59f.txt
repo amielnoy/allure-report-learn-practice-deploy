@@ -1,0 +1,2 @@
+INFO:httpx:HTTP Request: POST http://test/api/ai/generate "HTTP/1.1 429 Too Many Requests"
+INFO:httpx:HTTP Request: POST http://test/api/ai/generate "HTTP/1.1 429 Too Many Requests"

@@ -1,3 +1,0 @@
-[GIVEN] never echoes the server keys in an error | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/ai.spec.ts:120
-[WHEN] never echoes the server keys in an error | execute test actions and assertions
-[THEN] never echoes the server keys in an error | status=passed | expected=passed | duration=140ms

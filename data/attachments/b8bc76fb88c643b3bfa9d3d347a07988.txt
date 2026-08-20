@@ -1,3 +1,0 @@
-[GIVEN] routes grounded requests to Gemini and ungrounded ones to Groq | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/ai.spec.ts:132
-[WHEN] routes grounded requests to Gemini and ungrounded ones to Groq | execute test actions and assertions
-[THEN] routes grounded requests to Gemini and ungrounded ones to Groq | status=passed | expected=passed | duration=802ms

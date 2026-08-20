@@ -1,0 +1,20 @@
+INFO     httpx:_client.py:1740 HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+ERROR    app.ai_gateway:ai_gateway.py:258 AI provider request failed
+Traceback (most recent call last):
+  File "/home/runner/work/LearnPracticeWork/LearnPracticeWork/server/app/ai_gateway.py", line 245, in _attempt
+    data = upstream.json()
+           ^^^^^^^^^^^^^^^
+  File "/home/runner/work/LearnPracticeWork/LearnPracticeWork/server/.venv/lib/python3.12/site-packages/httpx/_models.py", line 832, in json
+    return jsonlib.loads(self.content, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+WARNING  app.ai_gateway:ai_gateway.py:227 groq could not serve the request (status 502); trying the next provider
+WARNING  app.ai_gateway:ai_gateway.py:227 gemini could not serve the request (status 503); trying the next provider

@@ -1,0 +1,3 @@
+[GIVEN] loads into the editor, with the character count in the label | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ResumeAgent.spec.tsx:84
+[WHEN] loads into the editor, with the character count in the label | execute test actions and assertions
+[THEN] loads into the editor, with the character count in the label | status=passed | expected=passed | duration=2380ms

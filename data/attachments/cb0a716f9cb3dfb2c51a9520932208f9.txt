@@ -1,0 +1,3 @@
+[GIVEN] test_whitespace_and_empty_entries_do_not_shift_the_count | isolated backend fixtures | worker=gw0 | tests/test_client_identity.py::test_whitespace_and_empty_entries_do_not_shift_the_count
+[WHEN] test_whitespace_and_empty_entries_do_not_shift_the_count | execute test actions and assertions
+[THEN] test_whitespace_and_empty_entries_do_not_shift_the_count | status=passed | duration=5ms
