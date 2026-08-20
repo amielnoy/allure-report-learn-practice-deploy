@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "every deck opts the rotated stage out of flex shrinking",
+  "suite": [
+    "unit/lectureDecks.spec.ts",
+    "the details that are easy to drop in a copy"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/lectureDecks.spec.ts:179",
+  "retry": 0,
+  "repeat": 0
+}

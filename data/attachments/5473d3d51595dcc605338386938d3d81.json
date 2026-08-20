@@ -1,7 +1,0 @@
-{
-  "test": "test_a_model_the_provider_does_offer_is_honoured",
-  "source": "tests/test_ai_gateway.py::test_a_model_the_provider_does_offer_is_honoured",
-  "worker": "gw0",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

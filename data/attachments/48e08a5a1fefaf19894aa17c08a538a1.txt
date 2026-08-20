@@ -1,3 +1,0 @@
-[GIVEN] refuses a file the precheck already rejected, without reading it | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/documentText.spec.ts:137
-[WHEN] refuses a file the precheck already rejected, without reading it | execute test actions and assertions
-[THEN] refuses a file the precheck already rejected, without reading it | status=passed | expected=passed | duration=18ms

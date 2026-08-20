@@ -1,3 +1,0 @@
-[GIVEN] test_missing_configuration_fails_closed | isolated backend fixtures | worker=gw1 | tests/test_google_auth.py::test_missing_configuration_fails_closed
-[WHEN] test_missing_configuration_fails_closed | execute test actions and assertions
-[THEN] test_missing_configuration_fails_closed | status=passed | duration=236ms

@@ -1,3 +1,0 @@
-[GIVEN] turns an email address into a mailto link | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:81
-[WHEN] turns an email address into a mailto link | execute test actions and assertions
-[THEN] turns an email address into a mailto link | status=passed | expected=passed | duration=6ms

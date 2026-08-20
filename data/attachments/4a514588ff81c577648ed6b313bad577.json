@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "every one of them sets its own direction",
+  "suite": [
+    "unit/lectureDecks.spec.ts",
+    "code panels inside a right-to-left slide"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/lectureDecks.spec.ts:142",
+  "retry": 0,
+  "repeat": 0
+}

@@ -1,7 +1,0 @@
-{
-  "test": "test_the_canonical_origin_wins_over_the_request_header",
-  "source": "tests/test_origins.py::test_the_canonical_origin_wins_over_the_request_header",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

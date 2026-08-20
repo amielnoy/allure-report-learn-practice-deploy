@@ -1,1 +1,1 @@
-{"id":"1387b1dd03403808d706a6fb3a7420ff","fullName":"tests.test_integrations#test_checkout_rejects_an_untrusted_redirect_origin","name":"test_checkout_rejects_an_untrusted_redirect_origin","status":"passed","testResultsByEnv":{"default":"ddbab16a71f307bc4d61571a4dc0c8c5"}}
+{"id":"1387b1dd03403808d706a6fb3a7420ff","fullName":"tests.test_integrations#test_checkout_rejects_an_untrusted_redirect_origin","name":"test_checkout_rejects_an_untrusted_redirect_origin","status":"passed","testResultsByEnv":{"default":"e1bb687a4be7ea3d28eab1d43a1f3103"}}

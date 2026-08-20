@@ -1,3 +1,0 @@
-[GIVEN] returns the normalised text of a plain-text résumé | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/documentText.spec.ts:129
-[WHEN] returns the normalised text of a plain-text résumé | execute test actions and assertions
-[THEN] returns the normalised text of a plain-text résumé | status=passed | expected=passed | duration=14ms

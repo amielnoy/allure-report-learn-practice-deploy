@@ -1,3 +1,0 @@
-[GIVEN] renders every Latin token forwards | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/bidi.spec.ts:145
-[WHEN] renders every Latin token forwards | execute test actions and assertions
-[THEN] renders every Latin token forwards | status=passed | expected=passed | duration=6ms

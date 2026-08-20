@@ -1,0 +1,3 @@
+[GIVEN] does not pair angle brackets across unrelated clauses | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/bidi.spec.ts:113
+[WHEN] does not pair angle brackets across unrelated clauses | execute test actions and assertions
+[THEN] does not pair angle brackets across unrelated clauses | status=passed | expected=passed | duration=6ms

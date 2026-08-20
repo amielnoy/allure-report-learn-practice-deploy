@@ -1,0 +1,3 @@
+[GIVEN] test_the_requested_language_filters_the_parent_table | isolated backend fixtures | worker=gw0 | tests/test_content_store.py::test_the_requested_language_filters_the_parent_table
+[WHEN] test_the_requested_language_filters_the_parent_table | execute test actions and assertions
+[THEN] test_the_requested_language_filters_the_parent_table | status=passed | duration=6ms

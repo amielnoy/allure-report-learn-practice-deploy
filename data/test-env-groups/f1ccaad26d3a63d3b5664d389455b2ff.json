@@ -1,1 +1,1 @@
-{"id":"f1ccaad26d3a63d3b5664d389455b2ff","fullName":"CodingChallenges.spec.tsx:113:1","name":"falls back to the bundled locale levels when /api/content/coding-challenges fails","status":"passed","testResultsByEnv":{"default":"35d9d8d5364b2609d15df0b770fecc85"}}
+{"id":"f1ccaad26d3a63d3b5664d389455b2ff","fullName":"CodingChallenges.spec.tsx:113:1","name":"falls back to the bundled locale levels when /api/content/coding-challenges fails","status":"passed","testResultsByEnv":{"default":"44d568a9d0642fdcf43ac57e44f9747e"}}

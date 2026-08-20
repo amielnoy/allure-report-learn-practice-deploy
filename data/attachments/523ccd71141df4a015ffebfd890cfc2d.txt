@@ -1,0 +1,3 @@
+[GIVEN] test_a_failing_stripe_call_becomes_a_500_rather_than_an_unhandled_error | isolated backend fixtures | worker=gw0 | tests/test_commerce.py::test_a_failing_stripe_call_becomes_a_500_rather_than_an_unhandled_error
+[WHEN] test_a_failing_stripe_call_becomes_a_500_rather_than_an_unhandled_error | execute test actions and assertions
+[THEN] test_a_failing_stripe_call_becomes_a_500_rather_than_an_unhandled_error | status=passed | duration=10ms

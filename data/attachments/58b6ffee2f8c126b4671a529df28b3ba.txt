@@ -1,3 +1,0 @@
-[GIVEN] truncates a single message that was made unbounded | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/interviewSession.spec.ts:129
-[WHEN] truncates a single message that was made unbounded | execute test actions and assertions
-[THEN] truncates a single message that was made unbounded | status=passed | expected=passed | duration=14ms

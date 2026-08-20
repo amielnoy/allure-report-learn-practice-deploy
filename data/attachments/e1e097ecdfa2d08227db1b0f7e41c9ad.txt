@@ -1,0 +1,3 @@
+[GIVEN] refuses an ungrounded (Groq) request, with a status that says "not configured" | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/ai.spec.ts:42
+[WHEN] refuses an ungrounded (Groq) request, with a status that says "not configured" | execute test actions and assertions
+[THEN] refuses an ungrounded (Groq) request, with a status that says "not configured" | status=passed | expected=passed | duration=64ms

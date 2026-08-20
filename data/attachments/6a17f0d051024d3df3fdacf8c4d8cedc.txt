@@ -1,0 +1,3 @@
+[GIVEN] is refused when the rendered transcript is not an array | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/interviewSession.spec.ts:69
+[WHEN] is refused when the rendered transcript is not an array | execute test actions and assertions
+[THEN] is refused when the rendered transcript is not an array | status=passed | expected=passed | duration=4ms

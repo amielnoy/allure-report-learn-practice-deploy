@@ -1,3 +1,0 @@
-[GIVEN] links to the author with an external link that cannot reach back | project=component-mobile | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/Footer.spec.tsx:19
-[WHEN] links to the author with an external link that cannot reach back | execute test actions and assertions
-[THEN] links to the author with an external link that cannot reach back | status=passed | expected=passed | duration=746ms

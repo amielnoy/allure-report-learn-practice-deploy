@@ -1,0 +1,10 @@
+{
+  "project": "unit",
+  "test": "there are decks to check, so a rename cannot empty this file",
+  "suite": [
+    "unit/lectureDecks.spec.ts"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/lectureDecks.spec.ts:89",
+  "retry": 0,
+  "repeat": 0
+}

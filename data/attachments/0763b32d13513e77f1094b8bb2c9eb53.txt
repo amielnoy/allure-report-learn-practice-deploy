@@ -1,0 +1,3 @@
+[GIVEN] is dropped when its class is not one of the two the renderer styles | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/interviewSession.spec.ts:85
+[WHEN] is dropped when its class is not one of the two the renderer styles | execute test actions and assertions
+[THEN] is dropped when its class is not one of the two the renderer styles | status=passed | expected=passed | duration=22ms

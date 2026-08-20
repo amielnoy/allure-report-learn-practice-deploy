@@ -1,3 +1,0 @@
-[GIVEN] trims the leading and trailing whitespace of the whole document | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/documentText.spec.ts:121
-[WHEN] trims the leading and trailing whitespace of the whole document | execute test actions and assertions
-[THEN] trims the leading and trailing whitespace of the whole document | status=passed | expected=passed | duration=13ms

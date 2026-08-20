@@ -1,0 +1,7 @@
+{
+  "test": "test_a_trailing_slash_does_not_create_a_second_distinct_origin",
+  "source": "tests/test_origins.py::test_a_trailing_slash_does_not_create_a_second_distinct_origin",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

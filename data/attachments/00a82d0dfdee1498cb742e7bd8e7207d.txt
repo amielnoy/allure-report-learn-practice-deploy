@@ -1,3 +1,0 @@
-[GIVEN] still applies the fonts when scripting is off | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/fontLoading.spec.ts:87
-[WHEN] still applies the fonts when scripting is off | execute test actions and assertions
-[THEN] still applies the fonts when scripting is off | status=passed | expected=passed | duration=3ms
