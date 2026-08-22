@@ -1,3 +1,0 @@
-[GIVEN] refuses a token that is not a JWT | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/entitlements.spec.ts:52
-[WHEN] refuses a token that is not a JWT | execute test actions and assertions
-[THEN] refuses a token that is not a JWT | status=passed | expected=passed | duration=43ms

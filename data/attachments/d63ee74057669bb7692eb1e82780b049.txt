@@ -1,0 +1,3 @@
+[GIVEN] persists a key only after explicit opt-in and displays a warning | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ConnectionSetup.spec.tsx:76
+[WHEN] persists a key only after explicit opt-in and displays a warning | execute test actions and assertions
+[THEN] persists a key only after explicit opt-in and displays a warning | status=passed | expected=passed | duration=1651ms

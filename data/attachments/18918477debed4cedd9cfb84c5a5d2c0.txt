@@ -1,3 +1,0 @@
-[GIVEN] serves a Hebrew document at ?lang=he | project=e2e-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/e2e/seoHead.spec.ts:33
-[WHEN] serves a Hebrew document at ?lang=he | execute test actions and assertions
-[THEN] serves a Hebrew document at ?lang=he | status=passed | expected=passed | duration=2675ms

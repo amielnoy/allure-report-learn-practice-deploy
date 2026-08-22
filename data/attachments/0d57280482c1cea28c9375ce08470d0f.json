@@ -1,7 +1,0 @@
-{
-  "test": "test_gemini_only_searches_when_the_request_asked_it_to",
-  "source": "tests/test_ai_gateway.py::test_gemini_only_searches_when_the_request_asked_it_to",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

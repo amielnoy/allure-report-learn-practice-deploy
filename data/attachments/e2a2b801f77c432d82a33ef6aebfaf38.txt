@@ -1,3 +1,0 @@
-[GIVEN] escapes markup inside a link label | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:134
-[WHEN] escapes markup inside a link label | execute test actions and assertions
-[THEN] escapes markup inside a link label | status=passed | expected=passed | duration=7ms

@@ -1,0 +1,3 @@
+[GIVEN] does not leave a trailing space before the extension | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumeExport.spec.ts:47
+[WHEN] does not leave a trailing space before the extension | execute test actions and assertions
+[THEN] does not leave a trailing space before the extension | status=passed | expected=passed | duration=11ms

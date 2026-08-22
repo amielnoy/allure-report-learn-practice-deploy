@@ -1,3 +1,0 @@
-[GIVEN] never asks Google for anything | project=component-mobile | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/GoogleSignIn.spec.tsx:29
-[WHEN] never asks Google for anything | execute test actions and assertions
-[THEN] never asks Google for anything | status=passed | expected=passed | duration=1025ms

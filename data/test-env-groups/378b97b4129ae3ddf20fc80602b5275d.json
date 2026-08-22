@@ -1,1 +1,1 @@
-{"id":"378b97b4129ae3ddf20fc80602b5275d","fullName":"providers.spec.ts:119:3","name":"returns the empty string when there are no choices","status":"passed","testResultsByEnv":{"default":"2fd88e66c7edfd16ae9590bc73dbe7e7"}}
+{"id":"378b97b4129ae3ddf20fc80602b5275d","fullName":"providers.spec.ts:119:3","name":"returns the empty string when there are no choices","status":"passed","testResultsByEnv":{"default":"7500da06dc6eb86a2156d13c031d6202"}}

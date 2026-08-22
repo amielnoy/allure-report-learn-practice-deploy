@@ -1,3 +1,0 @@
-[GIVEN] offers the three providers the UI lists | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:41
-[WHEN] offers the three providers the UI lists | execute test actions and assertions
-[THEN] offers the three providers the UI lists | status=passed | expected=passed | duration=13ms

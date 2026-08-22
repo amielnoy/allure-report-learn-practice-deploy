@@ -1,0 +1,3 @@
+[GIVEN] renders one collapsible panel per interview stage | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/QuestionBank.spec.tsx:17
+[WHEN] renders one collapsible panel per interview stage | execute test actions and assertions
+[THEN] renders one collapsible panel per interview stage | status=passed | expected=passed | duration=1616ms

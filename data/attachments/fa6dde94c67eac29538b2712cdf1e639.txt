@@ -1,0 +1,3 @@
+[GIVEN] test_an_unconfigured_fallback_leaves_the_original_failure_showing | isolated backend fixtures | worker=gw0 | tests/test_ai_gateway.py::test_an_unconfigured_fallback_leaves_the_original_failure_showing
+[WHEN] test_an_unconfigured_fallback_leaves_the_original_failure_showing | execute test actions and assertions
+[THEN] test_an_unconfigured_fallback_leaves_the_original_failure_showing | status=passed | duration=22ms

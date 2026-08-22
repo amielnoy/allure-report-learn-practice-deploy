@@ -1,3 +1,0 @@
-[GIVEN] test_the_canonical_origin_wins_over_the_request_header | isolated backend fixtures | worker=gw1 | tests/test_origins.py::test_the_canonical_origin_wins_over_the_request_header
-[WHEN] test_the_canonical_origin_wins_over_the_request_header | execute test actions and assertions
-[THEN] test_the_canonical_origin_wins_over_the_request_header | status=passed | duration=8ms

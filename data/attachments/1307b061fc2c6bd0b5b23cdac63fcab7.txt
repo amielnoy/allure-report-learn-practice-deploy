@@ -1,0 +1,3 @@
+[GIVEN] writes the résumé as a readable text layer | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePdf.spec.ts:111
+[WHEN] writes the résumé as a readable text layer | execute test actions and assertions
+[THEN] writes the résumé as a readable text layer | status=passed | expected=passed | duration=1331ms

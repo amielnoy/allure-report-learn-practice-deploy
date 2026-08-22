@@ -1,1 +1,1 @@
-{"id":"58f972ca6f79ee63783df600094ca368","fullName":"openapi.spec.ts:139:5","name":"GET /ai/config has a generated response schema","status":"passed","testResultsByEnv":{"default":"8f34602ef36c0953b0de1242bf122d3c"}}
+{"id":"58f972ca6f79ee63783df600094ca368","fullName":"openapi.spec.ts:139:5","name":"GET /ai/config has a generated response schema","status":"passed","testResultsByEnv":{"default":"a34e440ea22b60d17e443831b8c01747"}}

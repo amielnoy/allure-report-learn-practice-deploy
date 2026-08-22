@@ -1,3 +1,0 @@
-[GIVEN] test_a_bad_request_is_not_offered_to_a_second_provider | isolated backend fixtures | worker=gw1 | tests/test_ai_gateway.py::test_a_bad_request_is_not_offered_to_a_second_provider
-[WHEN] test_a_bad_request_is_not_offered_to_a_second_provider | execute test actions and assertions
-[THEN] test_a_bad_request_is_not_offered_to_a_second_provider | status=passed | duration=10ms

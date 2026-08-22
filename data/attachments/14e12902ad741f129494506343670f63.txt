@@ -1,0 +1,3 @@
+[GIVEN] an unconfigured server key says so, rather than blaming usage | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:532
+[WHEN] an unconfigured server key says so, rather than blaming usage | execute test actions and assertions
+[THEN] an unconfigured server key says so, rather than blaming usage | status=passed | expected=passed | duration=24ms

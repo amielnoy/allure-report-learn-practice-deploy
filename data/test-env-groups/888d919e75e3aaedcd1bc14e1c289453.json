@@ -1,1 +1,1 @@
-{"id":"888d919e75e3aaedcd1bc14e1c289453","fullName":"openapi.spec.ts:184:5","name":"POST /ai/generate returns a body its schema accepts","status":"passed","testResultsByEnv":{"default":"dedf142d89860ccc448399246279e791"}}
+{"id":"888d919e75e3aaedcd1bc14e1c289453","fullName":"openapi.spec.ts:184:5","name":"POST /ai/generate returns a body its schema accepts","status":"passed","testResultsByEnv":{"default":"2a5df1e5790c9b74ae08a34d9a51684c"}}

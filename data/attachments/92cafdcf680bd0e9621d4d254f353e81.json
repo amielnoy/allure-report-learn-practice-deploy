@@ -1,0 +1,7 @@
+{
+  "test": "test_a_forged_entry_on_the_left_is_ignored",
+  "source": "tests/test_client_identity.py::test_a_forged_entry_on_the_left_is_ignored",
+  "worker": "gw1",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

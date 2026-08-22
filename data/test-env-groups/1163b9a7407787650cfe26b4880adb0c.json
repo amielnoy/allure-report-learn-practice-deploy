@@ -1,1 +1,1 @@
-{"id":"1163b9a7407787650cfe26b4880adb0c","fullName":"tests.test_catalog#test_any_single_missing_variable_stops_the_sale","name":"test_any_single_missing_variable_stops_the_sale[SALES_ENABLED]","status":"passed","testResultsByEnv":{"default":"73b0c5c224334cc883d0c66a9c1a9fb4"}}
+{"id":"1163b9a7407787650cfe26b4880adb0c","fullName":"tests.test_catalog#test_any_single_missing_variable_stops_the_sale","name":"test_any_single_missing_variable_stops_the_sale[STRIPE_COURSE_PRICE_ID]","status":"passed","testResultsByEnv":{"default":"0d9e291f1d4bda9205e0920d794f55c6"}}

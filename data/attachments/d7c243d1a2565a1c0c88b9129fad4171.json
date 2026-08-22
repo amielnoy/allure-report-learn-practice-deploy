@@ -1,7 +1,0 @@
-{
-  "test": "test_a_lecture_without_a_link_carries_no_url_key_at_all",
-  "source": "tests/test_content_store.py::test_a_lecture_without_a_link_carries_no_url_key_at_all",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

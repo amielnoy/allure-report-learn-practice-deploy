@@ -1,0 +1,3 @@
+[GIVEN] renders one card per challenge | project=component-mobile | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/CodingChallenges.spec.tsx:35
+[WHEN] renders one card per challenge | execute test actions and assertions
+[THEN] renders one card per challenge | status=passed | expected=passed | duration=1110ms

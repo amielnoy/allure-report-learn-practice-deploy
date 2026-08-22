@@ -1,3 +1,0 @@
-[GIVEN] refuses an RS256 token with no key id | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/entitlements.spec.ts:73
-[WHEN] refuses an RS256 token with no key id | execute test actions and assertions
-[THEN] refuses an RS256 token with no key id | status=passed | expected=passed | duration=62ms

@@ -1,3 +1,0 @@
-[GIVEN] replaces the model list with the newly chosen vendor models | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ConnectionSetup.spec.tsx:96
-[WHEN] replaces the model list with the newly chosen vendor models | execute test actions and assertions
-[THEN] replaces the model list with the newly chosen vendor models | status=passed | expected=passed | duration=1847ms

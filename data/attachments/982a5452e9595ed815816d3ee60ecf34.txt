@@ -1,2 +1,0 @@
-INFO     httpx:_client.py:1740 HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
-WARNING  app.ai_gateway:ai_gateway.py:264 AI provider groq refused request id=rGR3Nc2gCNI status=400
