@@ -1,1 +1,1 @@
-{"id":"66bd6fafa7eda240a87b8d45d842d06b","fullName":"documentText.spec.ts:53:3","name":"reads the extension from the last dot, not the first","status":"passed","testResultsByEnv":{"default":"f429bd4fdae3ad5345810ccef563a1e0"}}
+{"id":"66bd6fafa7eda240a87b8d45d842d06b","fullName":"documentText.spec.ts:53:3","name":"reads the extension from the last dot, not the first","status":"passed","testResultsByEnv":{"default":"55ba0cac060037f00d83a777b6622f80"}}

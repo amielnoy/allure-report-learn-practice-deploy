@@ -1,3 +1,0 @@
-[GIVEN] test_a_wrong_admin_token_is_refused | isolated backend fixtures | worker=gw1 | tests/test_customers.py::test_a_wrong_admin_token_is_refused
-[WHEN] test_a_wrong_admin_token_is_refused | execute test actions and assertions
-[THEN] test_a_wrong_admin_token_is_refused | status=passed | duration=11ms

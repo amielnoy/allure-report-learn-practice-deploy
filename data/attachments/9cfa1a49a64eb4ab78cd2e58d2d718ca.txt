@@ -1,3 +1,0 @@
-[GIVEN] test_an_unreachable_provider_is_reported_as_a_bad_gateway | isolated backend fixtures | worker=gw0 | tests/test_ai_gateway.py::test_an_unreachable_provider_is_reported_as_a_bad_gateway
-[WHEN] test_an_unreachable_provider_is_reported_as_a_bad_gateway | execute test actions and assertions
-[THEN] test_an_unreachable_provider_is_reported_as_a_bad_gateway | status=passed | duration=18ms

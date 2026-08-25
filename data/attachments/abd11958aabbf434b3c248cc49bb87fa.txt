@@ -1,0 +1,3 @@
+[GIVEN] the health schema has the same fields the spec declares | project=contract | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/contract/openapi.spec.ts:148
+[WHEN] the health schema has the same fields the spec declares | execute test actions and assertions
+[THEN] the health schema has the same fields the spec declares | status=passed | expected=passed | duration=21ms

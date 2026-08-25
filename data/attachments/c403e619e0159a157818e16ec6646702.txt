@@ -1,3 +1,0 @@
-[GIVEN] leaves the counter behind once the text is in | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ResumeAgent.spec.tsx:143
-[WHEN] leaves the counter behind once the text is in | execute test actions and assertions
-[THEN] leaves the counter behind once the text is in | status=passed | expected=passed | duration=2323ms

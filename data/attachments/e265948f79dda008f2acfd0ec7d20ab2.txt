@@ -1,3 +1,0 @@
-[GIVEN] reports that sales are disabled without contacting Stripe | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/stripe.spec.ts:125
-[WHEN] reports that sales are disabled without contacting Stripe | execute test actions and assertions
-[THEN] reports that sales are disabled without contacting Stripe | status=passed | expected=passed | duration=52ms

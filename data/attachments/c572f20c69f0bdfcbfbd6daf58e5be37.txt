@@ -1,3 +1,0 @@
-[GIVEN] test_the_recorded_purchase_normalises_the_email_it_will_be_looked_up_by | isolated backend fixtures | worker=gw1 | tests/test_commerce.py::test_the_recorded_purchase_normalises_the_email_it_will_be_looked_up_by
-[WHEN] test_the_recorded_purchase_normalises_the_email_it_will_be_looked_up_by | execute test actions and assertions
-[THEN] test_the_recorded_purchase_normalises_the_email_it_will_be_looked_up_by | status=passed | duration=2ms

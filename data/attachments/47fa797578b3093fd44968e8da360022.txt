@@ -1,0 +1,3 @@
+[GIVEN] falls back to the default role when the draft has none | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePrompt.spec.ts:174
+[WHEN] falls back to the default role when the draft has none | execute test actions and assertions
+[THEN] falls back to the default role when the draft has none | status=passed | expected=passed | duration=5ms

@@ -1,0 +1,7 @@
+{
+  "test": "test_a_grounded_request_goes_to_gemini",
+  "source": "tests/test_ai_gateway.py::test_a_grounded_request_goes_to_gemini",
+  "worker": "gw1",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

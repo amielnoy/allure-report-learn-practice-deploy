@@ -1,0 +1,3 @@
+[GIVEN] anything else keeps the status and the server’s own text | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:542
+[WHEN] anything else keeps the status and the server’s own text | execute test actions and assertions
+[THEN] anything else keeps the status and the server’s own text | status=passed | expected=passed | duration=9ms

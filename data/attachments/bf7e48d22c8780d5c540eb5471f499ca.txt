@@ -1,3 +1,0 @@
-[GIVEN] test_replit_runs_the_api_locally_instead_of_relaying_to_an_absent_backend | isolated backend fixtures | worker=gw1 | tests/test_replit_deployment.py::test_replit_runs_the_api_locally_instead_of_relaying_to_an_absent_backend
-[WHEN] test_replit_runs_the_api_locally_instead_of_relaying_to_an_absent_backend | execute test actions and assertions
-[THEN] test_replit_runs_the_api_locally_instead_of_relaying_to_an_absent_backend | status=passed | duration=11ms

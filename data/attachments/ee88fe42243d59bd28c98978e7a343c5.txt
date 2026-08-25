@@ -1,0 +1,3 @@
+[GIVEN] test_a_purchase_with_no_linked_account_is_marked_as_such | isolated backend fixtures | worker=gw1 | tests/test_customers.py::test_a_purchase_with_no_linked_account_is_marked_as_such
+[WHEN] test_a_purchase_with_no_linked_account_is_marked_as_such | execute test actions and assertions
+[THEN] test_a_purchase_with_no_linked_account_is_marked_as_such | status=passed | duration=13ms

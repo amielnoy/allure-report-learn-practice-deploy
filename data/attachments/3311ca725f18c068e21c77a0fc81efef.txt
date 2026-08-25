@@ -1,3 +1,0 @@
-[GIVEN] treats an error response as "no server key" | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:313
-[WHEN] treats an error response as "no server key" | execute test actions and assertions
-[THEN] treats an error response as "no server key" | status=passed | expected=passed | duration=15ms

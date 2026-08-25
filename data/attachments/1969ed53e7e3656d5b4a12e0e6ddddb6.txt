@@ -1,0 +1,3 @@
+[GIVEN] spends no second call on a rewrite that already came back in English | project=component-mobile | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ResumeImprove.spec.tsx:113
+[WHEN] spends no second call on a rewrite that already came back in English | execute test actions and assertions
+[THEN] spends no second call on a rewrite that already came back in English | status=passed | expected=passed | duration=1034ms

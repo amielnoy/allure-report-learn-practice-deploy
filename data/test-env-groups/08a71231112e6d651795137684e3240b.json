@@ -1,1 +1,1 @@
-{"id":"08a71231112e6d651795137684e3240b","fullName":"providers.spec.ts:55:3","name":"the Groq models match the ones the server proxy allows","status":"passed","testResultsByEnv":{"default":"126f0c11f2bf8943427f0c35d75c6324"}}
+{"id":"08a71231112e6d651795137684e3240b","fullName":"providers.spec.ts:55:3","name":"the Groq models match the ones the server proxy allows","status":"passed","testResultsByEnv":{"default":"fcb7619341309839b18ce589af9305cb"}}

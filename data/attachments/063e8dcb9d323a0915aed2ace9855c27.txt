@@ -1,3 +1,0 @@
-[GIVEN] takes its brief from the target role rather than a hard-coded one | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePrompt.spec.ts:33
-[WHEN] takes its brief from the target role rather than a hard-coded one | execute test actions and assertions
-[THEN] takes its brief from the target role rather than a hard-coded one | status=passed | expected=passed | duration=13ms

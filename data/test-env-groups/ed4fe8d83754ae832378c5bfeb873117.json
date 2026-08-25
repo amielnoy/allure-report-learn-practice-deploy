@@ -1,1 +1,1 @@
-{"id":"ed4fe8d83754ae832378c5bfeb873117","fullName":"tests.test_origins#test_a_replit_domain_becomes_an_https_origin","name":"test_a_replit_domain_becomes_an_https_origin","status":"passed","testResultsByEnv":{"default":"390e98a5ce15cdd019c99d47744398dc"}}
+{"id":"ed4fe8d83754ae832378c5bfeb873117","fullName":"tests.test_origins#test_a_replit_domain_becomes_an_https_origin","name":"test_a_replit_domain_becomes_an_https_origin","status":"passed","testResultsByEnv":{"default":"b0230339b14f251cef7cb11c1f3d348a"}}

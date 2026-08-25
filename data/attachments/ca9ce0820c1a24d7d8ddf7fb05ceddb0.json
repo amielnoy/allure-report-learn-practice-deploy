@@ -1,0 +1,12 @@
+{
+  "status": 401,
+  "statusText": "Unauthorized",
+  "url": "http://127.0.0.1:8789/api/entitlements/course",
+  "headers": {
+    "date": "Tue, 25 Aug 2026 10:44:02 GMT",
+    "server": "uvicorn",
+    "content-length": "48",
+    "content-type": "application/json"
+  },
+  "body": "{\n  \"error\": \"A valid Google ID token is required.\"\n}"
+}

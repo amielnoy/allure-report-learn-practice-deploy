@@ -1,3 +1,0 @@
-[GIVEN] offers exactly the providers the locale advertises | project=component-mobile | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ConnectionSetup.spec.tsx:105
-[WHEN] offers exactly the providers the locale advertises | execute test actions and assertions
-[THEN] offers exactly the providers the locale advertises | status=passed | expected=passed | duration=1199ms

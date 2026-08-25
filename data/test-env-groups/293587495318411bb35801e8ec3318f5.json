@@ -1,1 +1,1 @@
-{"id":"293587495318411bb35801e8ec3318f5","fullName":"openapi.spec.ts:139:5","name":"POST /admin/customers/{purchaseId}/recommendations has a generated response schema","status":"passed","testResultsByEnv":{"default":"15f834683db47d759380666622e1492b"}}
+{"id":"293587495318411bb35801e8ec3318f5","fullName":"openapi.spec.ts:139:5","name":"POST /admin/customers/{purchaseId}/recommendations has a generated response schema","status":"passed","testResultsByEnv":{"default":"2cd802d2936f59f7f1eae40b12129b4f"}}

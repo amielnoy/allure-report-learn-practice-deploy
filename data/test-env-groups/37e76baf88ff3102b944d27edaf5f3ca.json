@@ -1,1 +1,1 @@
-{"id":"37e76baf88ff3102b944d27edaf5f3ca","fullName":"providers.spec.ts:195:3","name":"sends the key as a bearer token and the system prompt as the first message","status":"passed","testResultsByEnv":{"default":"80db47e895f4ff84e60017f17d72a036"}}
+{"id":"37e76baf88ff3102b944d27edaf5f3ca","fullName":"providers.spec.ts:195:3","name":"sends the key as a bearer token and the system prompt as the first message","status":"passed","testResultsByEnv":{"default":"c99e7bfd64439c63d9dcb4446a8012d1"}}

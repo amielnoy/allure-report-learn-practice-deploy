@@ -1,1 +1,1 @@
-{"id":"221f6ab1f325ccdb391cf414d794df2f","fullName":"tests.test_customers#test_a_wrong_admin_token_is_refused","name":"test_a_wrong_admin_token_is_refused","status":"passed","testResultsByEnv":{"default":"4e4dd487599c63ab6667d1404594cc8c"}}
+{"id":"221f6ab1f325ccdb391cf414d794df2f","fullName":"tests.test_customers#test_a_wrong_admin_token_is_refused","name":"test_a_wrong_admin_token_is_refused","status":"passed","testResultsByEnv":{"default":"2ef9b837fcd4f7cdcaace7f94106fc77"}}

@@ -1,3 +1,0 @@
-[GIVEN] fills a portrait phone by turning, instead of letterboxing | project=deck | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/deck/sanity.spec.ts:55
-[WHEN] fills a portrait phone by turning, instead of letterboxing | execute test actions and assertions
-[THEN] fills a portrait phone by turning, instead of letterboxing | status=passed | expected=passed | duration=2458ms

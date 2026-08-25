@@ -1,3 +1,0 @@
-[GIVEN] the sample CV CTA loads a useful example without asking for setup first | project=e2e-mobile | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/e2e/tools.spec.ts:12
-[WHEN] the sample CV CTA loads a useful example without asking for setup first | execute test actions and assertions
-[THEN] the sample CV CTA loads a useful example without asking for setup first | status=passed | expected=passed | duration=2913ms

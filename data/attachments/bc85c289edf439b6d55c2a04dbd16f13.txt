@@ -1,0 +1,3 @@
+[GIVEN] leaves a single newline alone, because a résumé is a list of lines | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/documentText.spec.ts:117
+[WHEN] leaves a single newline alone, because a résumé is a list of lines | execute test actions and assertions
+[THEN] leaves a single newline alone, because a résumé is a list of lines | status=passed | expected=passed | duration=16ms
