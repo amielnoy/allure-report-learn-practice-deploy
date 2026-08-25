@@ -1,0 +1,3 @@
+[GIVEN] collapses back to the bare question on the third click | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/QuestionCard.spec.tsx:75
+[WHEN] collapses back to the bare question on the third click | execute test actions and assertions
+[THEN] collapses back to the bare question on the third click | status=passed | expected=passed | duration=748ms

@@ -1,1 +1,1 @@
-{"id":"6372ad5fb11f0fedbbb7904149500612","fullName":"openapi.spec.ts:184:5","name":"GET /admin/customers returns a body its schema accepts","status":"passed","testResultsByEnv":{"default":"04b1b9e688434294713435a50dfd9ec9"}}
+{"id":"6372ad5fb11f0fedbbb7904149500612","fullName":"openapi.spec.ts:184:5","name":"GET /admin/customers returns a body its schema accepts","status":"passed","testResultsByEnv":{"default":"62464cf405812e8b9a03fd609f0f3b61"}}

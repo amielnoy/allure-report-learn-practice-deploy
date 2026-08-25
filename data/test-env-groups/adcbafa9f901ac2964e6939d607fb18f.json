@@ -1,1 +1,1 @@
-{"id":"adcbafa9f901ac2964e6939d607fb18f","fullName":"tests.test_ai_gateway#test_a_bad_request_is_not_offered_to_a_second_provider","name":"test_a_bad_request_is_not_offered_to_a_second_provider","status":"passed","testResultsByEnv":{"default":"394409c5b9a679d601dd98099681fdda"}}
+{"id":"adcbafa9f901ac2964e6939d607fb18f","fullName":"tests.test_ai_gateway#test_a_bad_request_is_not_offered_to_a_second_provider","name":"test_a_bad_request_is_not_offered_to_a_second_provider","status":"passed","testResultsByEnv":{"default":"1c3566b26289f121290340067516433f"}}

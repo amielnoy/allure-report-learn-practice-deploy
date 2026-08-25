@@ -1,3 +1,0 @@
-[GIVEN] joins runs without inserting a space between them | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:255
-[WHEN] joins runs without inserting a space between them | execute test actions and assertions
-[THEN] joins runs without inserting a space between them | status=passed | expected=passed | duration=6ms

@@ -1,1 +1,1 @@
-{"id":"9e2efd59bc02edcfb0ee388c68d01b55","fullName":"openapi.spec.ts:184:5","name":"POST /stripe/checkout returns a body its schema accepts","status":"passed","testResultsByEnv":{"default":"c5cb703e8dd08ed004beb9e1f200dbe4"}}
+{"id":"9e2efd59bc02edcfb0ee388c68d01b55","fullName":"openapi.spec.ts:184:5","name":"POST /stripe/checkout returns a body its schema accepts","status":"passed","testResultsByEnv":{"default":"88981eb9b78148608069476f5865ea03"}}

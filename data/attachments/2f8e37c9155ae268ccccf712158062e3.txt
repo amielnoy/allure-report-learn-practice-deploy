@@ -1,3 +1,0 @@
-[GIVEN] treats an unreachable server as "no server key" | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:318
-[WHEN] treats an unreachable server as "no server key" | execute test actions and assertions
-[THEN] treats an unreachable server as "no server key" | status=passed | expected=passed | duration=10ms

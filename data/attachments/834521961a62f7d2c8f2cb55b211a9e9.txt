@@ -1,0 +1,3 @@
+[GIVEN] test_a_local_run_never_trusts_the_header | isolated backend fixtures | worker=gw1 | tests/test_client_identity.py::test_a_local_run_never_trusts_the_header
+[WHEN] test_a_local_run_never_trusts_the_header | execute test actions and assertions
+[THEN] test_a_local_run_never_trusts_the_header | status=passed | duration=4ms

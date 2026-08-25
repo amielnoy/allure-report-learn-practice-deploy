@@ -1,1 +1,1 @@
-{"id":"5d3933c92b4add03ac60ed02a1b31832","fullName":"openapi.spec.ts:184:5","name":"GET /auth/config returns a body its schema accepts","status":"passed","testResultsByEnv":{"default":"e5b559835f2cdd9cdbdd500ba4955f00"}}
+{"id":"5d3933c92b4add03ac60ed02a1b31832","fullName":"openapi.spec.ts:184:5","name":"GET /auth/config returns a body its schema accepts","status":"passed","testResultsByEnv":{"default":"eee75b529f9b3bcad7e6e454ffe683a8"}}

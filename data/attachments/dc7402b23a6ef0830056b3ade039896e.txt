@@ -1,3 +1,0 @@
-[GIVEN] a rate-limited sign-in says to wait, not to try again | project=component-mobile | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/GoogleSignIn.spec.tsx:268
-[WHEN] a rate-limited sign-in says to wait, not to try again | execute test actions and assertions
-[THEN] a rate-limited sign-in says to wait, not to try again | status=passed | expected=passed | duration=1099ms

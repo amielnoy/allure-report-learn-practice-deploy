@@ -1,1 +1,1 @@
-{"id":"c3a426de381731862009e69dd6d0d27d","fullName":"openapi.spec.ts:161:5","name":"GET /admin/customers answers with a documented status","status":"passed","testResultsByEnv":{"default":"8ab348f8b4bddc8f387f7af048d547ac"}}
+{"id":"c3a426de381731862009e69dd6d0d27d","fullName":"openapi.spec.ts:161:5","name":"GET /admin/customers answers with a documented status","status":"passed","testResultsByEnv":{"default":"ed4c0629f02227249518f486d025d496"}}

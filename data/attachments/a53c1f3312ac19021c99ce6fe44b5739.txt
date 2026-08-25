@@ -1,3 +1,0 @@
-[GIVEN] round-trips through writeValidated | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/storage.spec.ts:135
-[WHEN] round-trips through writeValidated | execute test actions and assertions
-[THEN] round-trips through writeValidated | status=passed | expected=passed | duration=11ms

@@ -1,1 +1,1 @@
-{"id":"1af080d91dd53997832eda3d83a4335e","fullName":"tests.test_google_auth#test_invalid_claims_are_rejected","name":"test_invalid_claims_are_rejected[issuer]","status":"passed","testResultsByEnv":{"default":"95fa0158ba07ac41758dd7aa1705c970"}}
+{"id":"1af080d91dd53997832eda3d83a4335e","fullName":"tests.test_google_auth#test_invalid_claims_are_rejected","name":"test_invalid_claims_are_rejected[no-email]","status":"passed","testResultsByEnv":{"default":"3f365e7c479896df505a9df3a9c514d4"}}

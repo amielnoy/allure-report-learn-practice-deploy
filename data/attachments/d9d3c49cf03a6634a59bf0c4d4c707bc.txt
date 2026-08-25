@@ -1,3 +1,0 @@
-[GIVEN] rejects the empty string | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:53
-[WHEN] rejects the empty string | execute test actions and assertions
-[THEN] rejects the empty string | status=passed | expected=passed | duration=6ms

@@ -1,0 +1,3 @@
+[GIVEN] test_an_unknown_origin_yields_nothing_rather_than_a_redirect | isolated backend fixtures | worker=gw0 | tests/test_origins.py::test_an_unknown_origin_yields_nothing_rather_than_a_redirect
+[WHEN] test_an_unknown_origin_yields_nothing_rather_than_a_redirect | execute test actions and assertions
+[THEN] test_an_unknown_origin_yields_nothing_rather_than_a_redirect | status=passed | duration=4ms

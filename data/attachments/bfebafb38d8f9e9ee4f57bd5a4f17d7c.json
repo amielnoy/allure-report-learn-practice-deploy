@@ -1,0 +1,7 @@
+{
+  "test": "test_no_command_escapes_the_workspace_root",
+  "source": "tests/test_replit_deployment.py::test_no_command_escapes_the_workspace_root",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

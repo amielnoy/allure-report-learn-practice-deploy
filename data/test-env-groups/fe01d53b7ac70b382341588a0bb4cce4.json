@@ -1,1 +1,1 @@
-{"id":"fe01d53b7ac70b382341588a0bb4cce4","fullName":"openapi.spec.ts:161:5","name":"POST /admin/customers/{purchaseId}/recommendations answers with a documented status","status":"passed","testResultsByEnv":{"default":"eacde5b6a76b7a152923dd9c6adfbb43"}}
+{"id":"fe01d53b7ac70b382341588a0bb4cce4","fullName":"openapi.spec.ts:161:5","name":"POST /admin/customers/{purchaseId}/recommendations answers with a documented status","status":"passed","testResultsByEnv":{"default":"67adfa08351431889dc7f747b7132054"}}

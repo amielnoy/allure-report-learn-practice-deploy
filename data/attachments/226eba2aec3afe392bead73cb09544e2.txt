@@ -1,0 +1,3 @@
+[GIVEN] test_the_business_identity_travels_with_the_catalog | isolated backend fixtures | worker=gw1 | tests/test_catalog.py::test_the_business_identity_travels_with_the_catalog
+[WHEN] test_the_business_identity_travels_with_the_catalog | execute test actions and assertions
+[THEN] test_the_business_identity_travels_with_the_catalog | status=passed | duration=2ms

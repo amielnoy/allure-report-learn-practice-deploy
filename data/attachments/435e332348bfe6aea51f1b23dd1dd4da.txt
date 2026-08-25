@@ -1,3 +1,0 @@
-[GIVEN] test_the_same_caller_through_a_different_edge_is_still_the_same_caller | isolated backend fixtures | worker=gw1 | tests/test_client_identity.py::test_the_same_caller_through_a_different_edge_is_still_the_same_caller
-[WHEN] test_the_same_caller_through_a_different_edge_is_still_the_same_caller | execute test actions and assertions
-[THEN] test_the_same_caller_through_a_different_edge_is_still_the_same_caller | status=passed | duration=3ms
