@@ -1,0 +1,7 @@
+{
+  "test": "test_stripe_credentials_come_from_backend_secrets",
+  "source": "tests/test_integrations.py::test_stripe_credentials_come_from_backend_secrets",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

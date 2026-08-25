@@ -1,3 +1,0 @@
-[GIVEN] renders a markdown link as an anchor that opens safely | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:112
-[WHEN] renders a markdown link as an anchor that opens safely | execute test actions and assertions
-[THEN] renders a markdown link as an anchor that opens safely | status=passed | expected=passed | duration=3ms

@@ -1,0 +1,3 @@
+[GIVEN] tolerates a name the model chose not to transliterate | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePrompt.spec.ts:142
+[WHEN] tolerates a name the model chose not to transliterate | execute test actions and assertions
+[THEN] tolerates a name the model chose not to transliterate | status=passed | expected=passed | duration=9ms

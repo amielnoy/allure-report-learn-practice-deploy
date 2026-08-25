@@ -1,0 +1,3 @@
+[GIVEN] forgetting the token clears it from storage | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/AdminPage.spec.tsx:80
+[WHEN] forgetting the token clears it from storage | execute test actions and assertions
+[THEN] forgetting the token clears it from storage | status=passed | expected=passed | duration=1508ms

@@ -1,0 +1,7 @@
+{
+  "test": "test_the_customer_routes_are_behind_the_admin_token",
+  "source": "tests/test_customers.py::test_the_customer_routes_are_behind_the_admin_token",
+  "worker": "gw1",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

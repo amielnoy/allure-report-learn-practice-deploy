@@ -1,1 +1,1 @@
-{"id":"c2d12b3321df527614af9429632997ee","fullName":"tests.test_integrations#test_webhook_grants_access_only_for_the_approved_catalog","name":"test_webhook_grants_access_only_for_the_approved_catalog","status":"passed","testResultsByEnv":{"default":"b10b875cf410c98d544e91ebb3d1a436"}}
+{"id":"c2d12b3321df527614af9429632997ee","fullName":"tests.test_integrations#test_webhook_grants_access_only_for_the_approved_catalog","name":"test_webhook_grants_access_only_for_the_approved_catalog","status":"passed","testResultsByEnv":{"default":"51d46001b9f2a4b0dde35a7b6ab94dbe"}}

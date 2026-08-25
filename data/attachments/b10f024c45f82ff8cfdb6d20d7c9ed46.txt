@@ -1,3 +1,0 @@
-[GIVEN] English: the sign-out label and Google’s own button are in English | project=component-mobile | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/GoogleSignIn.spec.tsx:192
-[WHEN] English: the sign-out label and Google’s own button are in English | execute test actions and assertions
-[THEN] English: the sign-out label and Google’s own button are in English | status=passed | expected=passed | duration=801ms

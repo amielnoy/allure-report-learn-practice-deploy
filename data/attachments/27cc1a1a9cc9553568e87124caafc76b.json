@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "catches a rewrite that came back in Hebrew",
+  "suite": [
+    "unit/resumePrompt.spec.ts",
+    "needsEnglishRepair"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePrompt.spec.ts:134",
+  "retry": 0,
+  "repeat": 0
+}

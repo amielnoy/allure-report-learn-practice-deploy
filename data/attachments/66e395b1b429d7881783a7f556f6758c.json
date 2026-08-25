@@ -1,0 +1,5 @@
+{
+  "method": "POST",
+  "url": "/api/admin/customers/{purchaseId}/recommendations",
+  "headers": {}
+}

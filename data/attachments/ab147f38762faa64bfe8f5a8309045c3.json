@@ -1,0 +1,7 @@
+{
+  "test": "test_fixture_signed_google_token_is_accepted",
+  "source": "tests/test_google_auth.py::test_fixture_signed_google_token_is_accepted",
+  "worker": "gw1",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

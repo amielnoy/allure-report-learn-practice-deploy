@@ -1,0 +1,7 @@
+{
+  "test": "test_an_unconfigured_store_is_a_503_and_not_a_stack_trace",
+  "source": "tests/test_content_store.py::test_an_unconfigured_store_is_a_503_and_not_a_stack_trace",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

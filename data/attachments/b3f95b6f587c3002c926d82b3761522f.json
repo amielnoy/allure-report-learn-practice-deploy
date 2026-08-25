@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "carries the job description when one is supplied",
+  "suite": [
+    "unit/resumePrompt.spec.ts",
+    "buildImproveRequest"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePrompt.spec.ts:67",
+  "retry": 0,
+  "repeat": 0
+}

@@ -1,0 +1,5 @@
+{
+  "method": "GET",
+  "url": "/api/admin/customers",
+  "headers": {}
+}

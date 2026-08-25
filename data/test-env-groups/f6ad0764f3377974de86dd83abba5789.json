@@ -1,1 +1,1 @@
-{"id":"f6ad0764f3377974de86dd83abba5789","fullName":"tests.test_commerce#test_prices_report_sales_as_disabled_without_calling_stripe","name":"test_prices_report_sales_as_disabled_without_calling_stripe","status":"passed","testResultsByEnv":{"default":"8c2ae27b62bd4f6e612767da73bca6f6"}}
+{"id":"f6ad0764f3377974de86dd83abba5789","fullName":"tests.test_commerce#test_prices_report_sales_as_disabled_without_calling_stripe","name":"test_prices_report_sales_as_disabled_without_calling_stripe","status":"passed","testResultsByEnv":{"default":"f443395b9e4484eeb795ad291c4722e9"}}

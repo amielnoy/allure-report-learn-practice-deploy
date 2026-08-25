@@ -1,3 +1,0 @@
-[GIVEN] loads without any uncaught page errors | project=e2e-mobile | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/e2e/sanity.spec.ts:14
-[WHEN] loads without any uncaught page errors | execute test actions and assertions
-[THEN] loads without any uncaught page errors | status=passed | expected=passed | duration=1848ms

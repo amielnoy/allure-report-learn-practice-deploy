@@ -1,3 +1,0 @@
-[GIVEN] test_a_missing_database_is_named | isolated backend fixtures | worker=gw0 | tests/test_rate_limit_config.py::test_a_missing_database_is_named
-[WHEN] test_a_missing_database_is_named | execute test actions and assertions
-[THEN] test_a_missing_database_is_named | status=passed | duration=5ms

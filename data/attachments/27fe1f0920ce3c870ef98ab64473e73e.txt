@@ -1,0 +1,3 @@
+[GIVEN] gives every question a unique text, so the cards keep stable keys | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/QuestionBank.spec.tsx:60
+[WHEN] gives every question a unique text, so the cards keep stable keys | execute test actions and assertions
+[THEN] gives every question a unique text, so the cards keep stable keys | status=passed | expected=passed | duration=1635ms

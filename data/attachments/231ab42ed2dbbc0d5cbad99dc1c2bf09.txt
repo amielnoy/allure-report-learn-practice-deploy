@@ -1,3 +1,0 @@
-[GIVEN] adopts the model the server says it defaults to | project=component-mobile | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ConnectionSetup.spec.tsx:33
-[WHEN] adopts the model the server says it defaults to | execute test actions and assertions
-[THEN] adopts the model the server says it defaults to | status=passed | expected=passed | duration=978ms

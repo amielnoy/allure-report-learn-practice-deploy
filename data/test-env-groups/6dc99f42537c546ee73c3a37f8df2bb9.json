@@ -1,1 +1,1 @@
-{"id":"6dc99f42537c546ee73c3a37f8df2bb9","fullName":"tests.test_auth_routes#test_auth_config_exposes_only_the_public_client_id","name":"test_auth_config_exposes_only_the_public_client_id","status":"passed","testResultsByEnv":{"default":"47cae91c55c045a29cab9689287fe08d"}}
+{"id":"6dc99f42537c546ee73c3a37f8df2bb9","fullName":"tests.test_auth_routes#test_auth_config_exposes_only_the_public_client_id","name":"test_auth_config_exposes_only_the_public_client_id","status":"passed","testResultsByEnv":{"default":"96030870470a397c56a034cc7ba06c91"}}

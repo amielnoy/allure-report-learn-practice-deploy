@@ -1,0 +1,3 @@
+[GIVEN] advertises the same alternates on every variant | project=e2e-mobile | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/e2e/seoHead.spec.ts:76
+[WHEN] advertises the same alternates on every variant | execute test actions and assertions
+[THEN] advertises the same alternates on every variant | status=passed | expected=passed | duration=3841ms

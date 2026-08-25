@@ -1,3 +1,0 @@
-[GIVEN] leaves the picker holding nothing, so the same file can be chosen again | project=component-mobile | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ResumeAgent.spec.tsx:152
-[WHEN] leaves the picker holding nothing, so the same file can be chosen again | execute test actions and assertions
-[THEN] leaves the picker holding nothing, so the same file can be chosen again | status=passed | expected=passed | duration=804ms

@@ -1,3 +1,0 @@
-[GIVEN] reads the first choice when parsing the reply | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:213
-[WHEN] reads the first choice when parsing the reply | execute test actions and assertions
-[THEN] reads the first choice when parsing the reply | status=passed | expected=passed | duration=3ms

@@ -1,0 +1,3 @@
+[GIVEN] test_a_naive_timestamp_is_read_as_utc_rather_than_local | isolated backend fixtures | worker=gw1 | tests/test_customers.py::test_a_naive_timestamp_is_read_as_utc_rather_than_local
+[WHEN] test_a_naive_timestamp_is_read_as_utc_rather_than_local | execute test actions and assertions
+[THEN] test_a_naive_timestamp_is_read_as_utc_rather_than_local | status=passed | duration=1ms

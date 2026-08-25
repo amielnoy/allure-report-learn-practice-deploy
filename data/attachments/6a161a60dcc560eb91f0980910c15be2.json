@@ -1,0 +1,11 @@
+{
+  "project": "component-desktop",
+  "test": "keeps the token for the tab only, never on the device",
+  "suite": [
+    "AdminPage.spec.tsx",
+    "with a token"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/AdminPage.spec.tsx:49",
+  "retry": 0,
+  "repeat": 0
+}

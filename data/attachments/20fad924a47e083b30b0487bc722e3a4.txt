@@ -1,0 +1,2 @@
+INFO     httpx:_client.py:1740 HTTP Request: GET http://test/api/admin/customers "HTTP/1.1 404 Not Found"
+INFO     httpx:_client.py:1740 HTTP Request: POST http://test/api/admin/customers/abc/recommendations "HTTP/1.1 404 Not Found"

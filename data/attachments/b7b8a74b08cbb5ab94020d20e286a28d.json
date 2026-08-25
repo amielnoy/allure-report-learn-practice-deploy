@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "rules out leaving non-Latin characters in the output",
+  "suite": [
+    "unit/resumePrompt.spec.ts",
+    "IMPROVE_RESUME_PROMPT"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePrompt.spec.ts:28",
+  "retry": 0,
+  "repeat": 0
+}

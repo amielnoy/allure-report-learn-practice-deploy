@@ -1,0 +1,11 @@
+{
+  "project": "component-desktop",
+  "test": "render as a priority list when the model returns the shape asked for",
+  "suite": [
+    "AdminPage.spec.tsx",
+    "recommendations"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/AdminPage.spec.tsx:92",
+  "retry": 0,
+  "repeat": 0
+}

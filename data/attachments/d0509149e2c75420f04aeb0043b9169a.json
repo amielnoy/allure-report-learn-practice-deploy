@@ -1,0 +1,11 @@
+{
+  "project": "component-desktop",
+  "test": "does not call the admin API at all",
+  "suite": [
+    "AdminPage.spec.tsx",
+    "before a token is given"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/AdminPage.spec.tsx:32",
+  "retry": 0,
+  "repeat": 0
+}

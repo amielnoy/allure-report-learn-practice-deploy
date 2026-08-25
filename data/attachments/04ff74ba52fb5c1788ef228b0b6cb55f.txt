@@ -1,0 +1,3 @@
+[GIVEN] sets a JSON content type from a JSON body without being told to | project=contract | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/contract/apiClient.spec.ts:45
+[WHEN] sets a JSON content type from a JSON body without being told to | execute test actions and assertions
+[THEN] sets a JSON content type from a JSON body without being told to | status=passed | expected=passed | duration=130ms

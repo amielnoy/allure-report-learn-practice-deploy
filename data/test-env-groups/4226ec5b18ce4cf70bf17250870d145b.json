@@ -1,1 +1,1 @@
-{"id":"4226ec5b18ce4cf70bf17250870d145b","fullName":"tests.test_integrations#test_checkout_returns_to_the_allowlisted_replit_app","name":"test_checkout_returns_to_the_allowlisted_replit_app","status":"passed","testResultsByEnv":{"default":"d042b1e25156766649a11012bffab3de"}}
+{"id":"4226ec5b18ce4cf70bf17250870d145b","fullName":"tests.test_integrations#test_checkout_returns_to_the_allowlisted_replit_app","name":"test_checkout_returns_to_the_allowlisted_replit_app","status":"passed","testResultsByEnv":{"default":"87291c0d5db081583a1dd8646b31156f"}}

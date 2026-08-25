@@ -1,1 +1,1 @@
-{"id":"53160273f414f21c1ab457921cdb6dc0","fullName":"tests.test_commerce#test_a_session_without_the_course_sku_is_rejected","name":"test_a_session_without_the_course_sku_is_rejected","status":"passed","testResultsByEnv":{"default":"3ac060f396dbd30f928648ae4a2fc610"}}
+{"id":"53160273f414f21c1ab457921cdb6dc0","fullName":"tests.test_commerce#test_a_session_without_the_course_sku_is_rejected","name":"test_a_session_without_the_course_sku_is_rejected","status":"passed","testResultsByEnv":{"default":"7604c0cd91ff7f9099d22c93c7d8ffd9"}}

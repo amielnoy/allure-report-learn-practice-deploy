@@ -1,0 +1,10 @@
+{
+  "project": "component-desktop",
+  "test": "says so rather than delivering Hebrew when even the translation comes back in Hebrew",
+  "suite": [
+    "ResumeImprove.spec.tsx"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ResumeImprove.spec.tsx:127",
+  "retry": 0,
+  "repeat": 0
+}

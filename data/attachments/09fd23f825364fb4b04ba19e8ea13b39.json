@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "tolerates a name the model chose not to transliterate",
+  "suite": [
+    "unit/resumePrompt.spec.ts",
+    "needsEnglishRepair"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePrompt.spec.ts:142",
+  "retry": 0,
+  "repeat": 0
+}

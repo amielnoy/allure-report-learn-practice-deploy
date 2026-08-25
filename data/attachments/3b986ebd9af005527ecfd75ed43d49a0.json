@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "falls back to a default role only when none was typed",
+  "suite": [
+    "unit/resumePrompt.spec.ts",
+    "buildImproveRequest"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePrompt.spec.ts:55",
+  "retry": 0,
+  "repeat": 0
+}

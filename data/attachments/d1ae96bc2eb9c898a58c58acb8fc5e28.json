@@ -1,0 +1,11 @@
+{
+  "project": "component-mobile",
+  "test": "forgetting the token clears it from storage",
+  "suite": [
+    "AdminPage.spec.tsx",
+    "with a token"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/AdminPage.spec.tsx:80",
+  "retry": 0,
+  "repeat": 0
+}
