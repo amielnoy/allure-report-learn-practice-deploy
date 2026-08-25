@@ -1,0 +1,3 @@
+[GIVEN] test_refusing_is_the_default_so_a_new_bucket_cannot_inherit_leniency | isolated backend fixtures | worker=gw0 | tests/test_rate_limit_config.py::test_refusing_is_the_default_so_a_new_bucket_cannot_inherit_leniency
+[WHEN] test_refusing_is_the_default_so_a_new_bucket_cannot_inherit_leniency | execute test actions and assertions
+[THEN] test_refusing_is_the_default_so_a_new_bucket_cannot_inherit_leniency | status=passed | duration=3ms

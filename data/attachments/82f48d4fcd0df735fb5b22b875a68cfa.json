@@ -1,7 +1,0 @@
-{
-  "test": "test_two_callers_behind_the_same_proxy_are_told_apart",
-  "source": "tests/test_client_identity.py::test_two_callers_behind_the_same_proxy_are_told_apart",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

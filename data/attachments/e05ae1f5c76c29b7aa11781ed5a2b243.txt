@@ -1,3 +1,0 @@
-[GIVEN] breaks a line where pdf.js says one ends | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:265
-[WHEN] breaks a line where pdf.js says one ends | execute test actions and assertions
-[THEN] breaks a line where pdf.js says one ends | status=passed | expected=passed | duration=9ms

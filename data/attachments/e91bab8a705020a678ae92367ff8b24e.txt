@@ -1,3 +1,0 @@
-[GIVEN] is left alone on a tablet held upright | project=deck | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/deck/sanity.spec.ts:75
-[WHEN] is left alone on a tablet held upright | execute test actions and assertions
-[THEN] is left alone on a tablet held upright | status=passed | expected=passed | duration=1846ms

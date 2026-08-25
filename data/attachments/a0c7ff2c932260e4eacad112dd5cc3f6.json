@@ -1,7 +1,0 @@
-{
-  "test": "test_relay_still_forwards_the_headers_the_api_needs",
-  "source": "tests/test_relay.py::test_relay_still_forwards_the_headers_the_api_needs",
-  "worker": "gw0",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

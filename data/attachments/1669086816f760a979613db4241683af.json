@@ -1,7 +1,0 @@
-{
-  "test": "test_the_outcome_names_the_provider_that_actually_answered",
-  "source": "tests/test_ai_gateway.py::test_the_outcome_names_the_provider_that_actually_answered",
-  "worker": "gw0",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

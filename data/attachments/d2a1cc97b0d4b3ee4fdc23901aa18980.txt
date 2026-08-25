@@ -1,3 +1,0 @@
-[GIVEN] is dropped when its text is not a string | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/interviewSession.spec.ts:79
-[WHEN] is dropped when its text is not a string | execute test actions and assertions
-[THEN] is dropped when its text is not a string | status=passed | expected=passed | duration=10ms

@@ -1,3 +1,0 @@
-[GIVEN] refuses a false terms value | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/stripe.spec.ts:77
-[WHEN] refuses a false terms value | execute test actions and assertions
-[THEN] refuses a false terms value | status=passed | expected=passed | duration=46ms

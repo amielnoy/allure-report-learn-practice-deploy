@@ -1,7 +1,0 @@
-{
-  "test": "test_checkout_rejects_an_untrusted_redirect_origin",
-  "source": "tests/test_integrations.py::test_checkout_rejects_an_untrusted_redirect_origin",
-  "worker": "gw0",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

@@ -1,7 +1,0 @@
-{
-  "test": "test_a_child_row_pointing_at_no_parent_is_left_out",
-  "source": "tests/test_content_store.py::test_a_child_row_pointing_at_no_parent_is_left_out",
-  "worker": "gw0",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

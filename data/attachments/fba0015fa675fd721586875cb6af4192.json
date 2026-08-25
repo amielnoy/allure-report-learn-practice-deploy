@@ -1,0 +1,7 @@
+{
+  "test": "test_the_recorded_purchase_normalises_the_email_it_will_be_looked_up_by",
+  "source": "tests/test_commerce.py::test_the_recorded_purchase_normalises_the_email_it_will_be_looked_up_by",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

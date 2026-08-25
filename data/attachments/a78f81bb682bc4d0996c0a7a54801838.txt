@@ -1,0 +1,3 @@
+[GIVEN] puts the system prompt first and keeps user/assistant turns as-is | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:81
+[WHEN] puts the system prompt first and keeps user/assistant turns as-is | execute test actions and assertions
+[THEN] puts the system prompt first and keeps user/assistant turns as-is | status=passed | expected=passed | duration=4ms

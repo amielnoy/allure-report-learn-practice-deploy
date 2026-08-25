@@ -1,3 +1,0 @@
-[GIVEN] test_readiness_stays_quiet_when_quotas_can_count | isolated backend fixtures | worker=gw0 | tests/test_rate_limit_config.py::test_readiness_stays_quiet_when_quotas_can_count
-[WHEN] test_readiness_stays_quiet_when_quotas_can_count | execute test actions and assertions
-[THEN] test_readiness_stays_quiet_when_quotas_can_count | status=passed | duration=14ms

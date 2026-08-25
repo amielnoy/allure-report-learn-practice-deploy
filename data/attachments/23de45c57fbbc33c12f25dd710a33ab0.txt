@@ -1,3 +1,0 @@
-[GIVEN] gives every challenge a unique title, so the cards keep stable keys | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/CodingChallenges.spec.tsx:63
-[WHEN] gives every challenge a unique title, so the cards keep stable keys | execute test actions and assertions
-[THEN] gives every challenge a unique title, so the cards keep stable keys | status=passed | expected=passed | duration=1384ms
