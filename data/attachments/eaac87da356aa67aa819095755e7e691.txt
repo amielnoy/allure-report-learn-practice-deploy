@@ -1,3 +1,0 @@
-[GIVEN] leaves a Latin-only line untouched | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/bidi.spec.ts:22
-[WHEN] leaves a Latin-only line untouched | execute test actions and assertions
-[THEN] leaves a Latin-only line untouched | status=passed | expected=passed | duration=30ms

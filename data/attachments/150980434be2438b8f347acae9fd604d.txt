@@ -1,3 +1,0 @@
-[GIVEN] the back-to-top button appears after scrolling and returns to the top | project=e2e-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/e2e/sanity.spec.ts:51
-[WHEN] the back-to-top button appears after scrolling and returns to the top | execute test actions and assertions
-[THEN] the back-to-top button appears after scrolling and returns to the top | status=passed | expected=passed | duration=4554ms

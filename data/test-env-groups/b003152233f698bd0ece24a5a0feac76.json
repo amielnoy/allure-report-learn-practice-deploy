@@ -1,1 +1,1 @@
-{"id":"b003152233f698bd0ece24a5a0feac76","fullName":"documentText.spec.ts:121:3","name":"trims the leading and trailing whitespace of the whole document","status":"passed","testResultsByEnv":{"default":"860e30d7c750d7a4027179e0be5772f6"}}
+{"id":"b003152233f698bd0ece24a5a0feac76","fullName":"documentText.spec.ts:121:3","name":"trims the leading and trailing whitespace of the whole document","status":"passed","testResultsByEnv":{"default":"0184f03e7410a1e28013c2447cd20ca8"}}

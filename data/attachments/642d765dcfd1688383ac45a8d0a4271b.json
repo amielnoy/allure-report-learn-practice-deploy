@@ -1,7 +1,0 @@
-{
-  "test": "test_an_unreachable_provider_is_reported_as_a_bad_gateway",
-  "source": "tests/test_ai_gateway.py::test_an_unreachable_provider_is_reported_as_a_bad_gateway",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

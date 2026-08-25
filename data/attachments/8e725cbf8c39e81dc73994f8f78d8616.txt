@@ -1,0 +1,3 @@
+[GIVEN] throws a readable error when there is no object at all | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:232
+[WHEN] throws a readable error when there is no object at all | execute test actions and assertions
+[THEN] throws a readable error when there is no object at all | status=passed | expected=passed | duration=15ms

@@ -1,7 +1,0 @@
-{
-  "test": "test_a_local_run_never_trusts_the_header",
-  "source": "tests/test_client_identity.py::test_a_local_run_never_trusts_the_header",
-  "worker": "gw0",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

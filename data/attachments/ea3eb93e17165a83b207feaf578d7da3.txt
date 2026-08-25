@@ -1,3 +1,0 @@
-[GIVEN] stringifies non-strings | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:34
-[WHEN] stringifies non-strings | execute test actions and assertions
-[THEN] stringifies non-strings | status=passed | expected=passed | duration=6ms

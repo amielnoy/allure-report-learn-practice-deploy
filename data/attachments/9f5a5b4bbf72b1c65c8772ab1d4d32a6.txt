@@ -1,3 +1,0 @@
-[GIVEN] test_a_forged_entry_on_the_left_is_ignored | isolated backend fixtures | worker=gw0 | tests/test_client_identity.py::test_a_forged_entry_on_the_left_is_ignored
-[WHEN] test_a_forged_entry_on_the_left_is_ignored | execute test actions and assertions
-[THEN] test_a_forged_entry_on_the_left_is_ignored | status=passed | duration=2ms

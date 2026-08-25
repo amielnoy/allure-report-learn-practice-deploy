@@ -1,7 +1,0 @@
-{
-  "test": "test_a_gemini_reply_joins_its_parts_and_reports_the_token_ceiling",
-  "source": "tests/test_ai_gateway.py::test_a_gemini_reply_joins_its_parts_and_reports_the_token_ceiling",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

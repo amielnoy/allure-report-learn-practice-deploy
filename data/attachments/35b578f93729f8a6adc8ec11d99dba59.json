@@ -1,7 +1,0 @@
-{
-  "test": "test_a_reply_that_is_not_json_does_not_escape_as_a_parse_error",
-  "source": "tests/test_ai_gateway.py::test_a_reply_that_is_not_json_does_not_escape_as_a_parse_error",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

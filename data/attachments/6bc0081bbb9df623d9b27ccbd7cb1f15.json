@@ -1,0 +1,7 @@
+{
+  "test": "test_when_every_provider_refuses_the_first_refusal_is_reported",
+  "source": "tests/test_ai_gateway.py::test_when_every_provider_refuses_the_first_refusal_is_reported",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

@@ -1,3 +1,0 @@
-[GIVEN] test_gemini_only_searches_when_the_request_asked_it_to | isolated backend fixtures | worker=gw1 | tests/test_ai_gateway.py::test_gemini_only_searches_when_the_request_asked_it_to
-[WHEN] test_gemini_only_searches_when_the_request_asked_it_to | execute test actions and assertions
-[THEN] test_gemini_only_searches_when_the_request_asked_it_to | status=passed | duration=8ms

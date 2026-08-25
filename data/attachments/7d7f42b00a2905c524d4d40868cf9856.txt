@@ -1,3 +1,0 @@
-[GIVEN] passes a supported file of an acceptable size | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/documentText.spec.ts:103
-[WHEN] passes a supported file of an acceptable size | execute test actions and assertions
-[THEN] passes a supported file of an acceptable size | status=passed | expected=passed | duration=8ms

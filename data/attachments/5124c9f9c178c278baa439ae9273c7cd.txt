@@ -1,3 +1,0 @@
-[GIVEN] ignores a language it has no catalog for | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/i18n.spec.ts:48
-[WHEN] ignores a language it has no catalog for | execute test actions and assertions
-[THEN] ignores a language it has no catalog for | status=passed | expected=passed | duration=4ms

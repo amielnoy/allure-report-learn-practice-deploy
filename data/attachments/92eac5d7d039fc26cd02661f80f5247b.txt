@@ -1,3 +1,0 @@
-[GIVEN] Hebrew: a Hebrew name survives the round trip intact | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/GoogleSignIn.spec.tsx:217
-[WHEN] Hebrew: a Hebrew name survives the round trip intact | execute test actions and assertions
-[THEN] Hebrew: a Hebrew name survives the round trip intact | status=passed | expected=passed | duration=1148ms

@@ -1,3 +1,0 @@
-[GIVEN] stays quiet when the key already looks like a Groq key | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:137
-[WHEN] stays quiet when the key already looks like a Groq key | execute test actions and assertions
-[THEN] stays quiet when the key already looks like a Groq key | status=passed | expected=passed | duration=7ms

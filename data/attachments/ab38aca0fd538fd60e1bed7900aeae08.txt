@@ -1,0 +1,3 @@
+[GIVEN] only treats http and mailto targets as markdown links | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:145
+[WHEN] only treats http and mailto targets as markdown links | execute test actions and assertions
+[THEN] only treats http and mailto targets as markdown links | status=passed | expected=passed | duration=8ms

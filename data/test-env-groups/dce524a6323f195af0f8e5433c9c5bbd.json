@@ -1,1 +1,1 @@
-{"id":"dce524a6323f195af0f8e5433c9c5bbd","fullName":"openapi.spec.ts:184:5","name":"POST /auth/logout returns a body its schema accepts","status":"passed","testResultsByEnv":{"default":"3d5ce560b223db51544667d082d74dc2"}}
+{"id":"dce524a6323f195af0f8e5433c9c5bbd","fullName":"openapi.spec.ts:184:5","name":"POST /auth/logout returns a body its schema accepts","status":"passed","testResultsByEnv":{"default":"5240f89e7f305a8012b4837908c0b4c3"}}

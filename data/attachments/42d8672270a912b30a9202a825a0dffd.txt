@@ -1,3 +1,0 @@
-[GIVEN] test_a_canonical_origin_that_is_not_allowlisted_is_not_trusted | isolated backend fixtures | worker=gw1 | tests/test_origins.py::test_a_canonical_origin_that_is_not_allowlisted_is_not_trusted
-[WHEN] test_a_canonical_origin_that_is_not_allowlisted_is_not_trusted | execute test actions and assertions
-[THEN] test_a_canonical_origin_that_is_not_allowlisted_is_not_trusted | status=passed | duration=6ms

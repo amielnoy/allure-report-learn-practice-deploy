@@ -1,0 +1,3 @@
+[GIVEN] GET /auth/config answers with a documented status | project=contract | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/contract/openapi.spec.ts:161
+[WHEN] GET /auth/config answers with a documented status | execute test actions and assertions
+[THEN] GET /auth/config answers with a documented status | status=passed | expected=passed | duration=21ms

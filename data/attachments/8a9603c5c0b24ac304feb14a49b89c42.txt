@@ -1,3 +1,0 @@
-[GIVEN] test_python_probe_exports_status_and_latency | isolated backend fixtures | worker=gw1 | tests/test_monitor.py::test_python_probe_exports_status_and_latency
-[WHEN] test_python_probe_exports_status_and_latency | execute test actions and assertions
-[THEN] test_python_probe_exports_status_and_latency | status=passed | duration=24ms

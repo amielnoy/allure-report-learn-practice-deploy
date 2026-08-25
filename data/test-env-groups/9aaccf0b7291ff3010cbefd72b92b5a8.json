@@ -1,1 +1,1 @@
-{"id":"9aaccf0b7291ff3010cbefd72b92b5a8","fullName":"tests.test_integrations#test_stripe_credentials_come_from_backend_secrets","name":"test_stripe_credentials_come_from_backend_secrets","status":"passed","testResultsByEnv":{"default":"65281c8efe4292cd360e106041ab10fb"}}
+{"id":"9aaccf0b7291ff3010cbefd72b92b5a8","fullName":"tests.test_integrations#test_stripe_credentials_come_from_backend_secrets","name":"test_stripe_credentials_come_from_backend_secrets","status":"passed","testResultsByEnv":{"default":"559ef7228ca963ebd553a92601433f72"}}

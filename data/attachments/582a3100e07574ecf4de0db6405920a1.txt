@@ -1,0 +1,3 @@
+[GIVEN] test_every_command_points_at_the_server_project_from_the_root | isolated backend fixtures | worker=gw1 | tests/test_replit_deployment.py::test_every_command_points_at_the_server_project_from_the_root
+[WHEN] test_every_command_points_at_the_server_project_from_the_root | execute test actions and assertions
+[THEN] test_every_command_points_at_the_server_project_from_the_root | status=passed | duration=3ms

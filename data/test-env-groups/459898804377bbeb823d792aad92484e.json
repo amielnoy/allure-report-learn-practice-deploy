@@ -1,1 +1,1 @@
-{"id":"459898804377bbeb823d792aad92484e","fullName":"tests.test_relay#test_relay_drops_a_client_supplied_identity_header","name":"test_relay_drops_a_client_supplied_identity_header[true-client-ip]","status":"passed","testResultsByEnv":{"default":"edb5ef2b64f57f3bafcece6d49f0ae2d"}}
+{"id":"459898804377bbeb823d792aad92484e","fullName":"tests.test_relay#test_relay_drops_a_client_supplied_identity_header","name":"test_relay_drops_a_client_supplied_identity_header[cf-connecting-ip]","status":"passed","testResultsByEnv":{"default":"a30e3247a2a986f0db5e5f02d82ce494"}}

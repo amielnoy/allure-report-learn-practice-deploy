@@ -1,3 +1,0 @@
-[GIVEN] test_a_test_run_does_not_take_the_local_fallback | isolated backend fixtures | worker=gw1 | tests/test_origins.py::test_a_test_run_does_not_take_the_local_fallback
-[WHEN] test_a_test_run_does_not_take_the_local_fallback | execute test actions and assertions
-[THEN] test_a_test_run_does_not_take_the_local_fallback | status=passed | duration=3ms
