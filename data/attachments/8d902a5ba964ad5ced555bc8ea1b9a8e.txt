@@ -1,3 +1,0 @@
-[GIVEN] GET /content/coding-challenges answers with a documented status | project=contract | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/contract/openapi.spec.ts:161
-[WHEN] GET /content/coding-challenges answers with a documented status | execute test actions and assertions
-[THEN] GET /content/coding-challenges answers with a documented status | status=passed | expected=passed | duration=31ms

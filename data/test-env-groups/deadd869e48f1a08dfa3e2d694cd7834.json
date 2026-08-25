@@ -1,1 +1,1 @@
-{"id":"deadd869e48f1a08dfa3e2d694cd7834","fullName":"openapi.spec.ts:170:5","name":"GET /healthz answers with a documented media type","status":"passed","testResultsByEnv":{"default":"d540f87380488e5e320d6ca9fe93ce27"}}
+{"id":"deadd869e48f1a08dfa3e2d694cd7834","fullName":"openapi.spec.ts:170:5","name":"GET /healthz answers with a documented media type","status":"passed","testResultsByEnv":{"default":"f290f35799dee008735c8e5a8780bb5a"}}

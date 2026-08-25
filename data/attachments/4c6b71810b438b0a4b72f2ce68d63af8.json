@@ -1,0 +1,7 @@
+{
+  "test": "test_the_same_caller_through_a_different_edge_is_still_the_same_caller",
+  "source": "tests/test_client_identity.py::test_the_same_caller_through_a_different_edge_is_still_the_same_caller",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

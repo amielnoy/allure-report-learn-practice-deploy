@@ -1,3 +1,0 @@
-[GIVEN] reads the extension from the last dot, not the first | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/documentText.spec.ts:53
-[WHEN] reads the extension from the last dot, not the first | execute test actions and assertions
-[THEN] reads the extension from the last dot, not the first | status=passed | expected=passed | duration=17ms

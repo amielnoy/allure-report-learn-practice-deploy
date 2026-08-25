@@ -1,3 +1,0 @@
-[GIVEN] is dropped when it is a bare string rather than an entry | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/interviewSession.spec.ts:91
-[WHEN] is dropped when it is a bare string rather than an entry | execute test actions and assertions
-[THEN] is dropped when it is a bare string rather than an entry | status=passed | expected=passed | duration=3ms

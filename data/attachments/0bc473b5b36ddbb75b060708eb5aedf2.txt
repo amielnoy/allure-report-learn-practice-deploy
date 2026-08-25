@@ -1,3 +1,0 @@
-[GIVEN] render as a priority list when the model returns the shape asked for | project=component-mobile | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/AdminPage.spec.tsx:92
-[WHEN] render as a priority list when the model returns the shape asked for | execute test actions and assertions
-[THEN] render as a priority list when the model returns the shape asked for | status=passed | expected=passed | duration=853ms

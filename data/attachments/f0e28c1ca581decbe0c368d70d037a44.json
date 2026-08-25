@@ -1,7 +1,0 @@
-{
-  "test": "test_groq_receives_the_system_prompt_as_its_first_message",
-  "source": "tests/test_ai_gateway.py::test_groq_receives_the_system_prompt_as_its_first_message",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

@@ -1,0 +1,3 @@
+[GIVEN] does not crash the mount when a message is not text | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/InterviewAgent.spec.tsx:115
+[WHEN] does not crash the mount when a message is not text | execute test actions and assertions
+[THEN] does not crash the mount when a message is not text | status=passed | expected=passed | duration=1008ms

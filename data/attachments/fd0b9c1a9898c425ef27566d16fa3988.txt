@@ -1,3 +1,0 @@
-[GIVEN] does not let a traversal sequence survive as one | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumeExport.spec.ts:31
-[WHEN] does not let a traversal sequence survive as one | execute test actions and assertions
-[THEN] does not let a traversal sequence survive as one | status=passed | expected=passed | duration=6ms

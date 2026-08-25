@@ -1,3 +1,0 @@
-[GIVEN] serves the deck and renders the first slide | project=deck | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/deck/sanity.spec.ts:44
-[WHEN] serves the deck and renders the first slide | execute test actions and assertions
-[THEN] serves the deck and renders the first slide | status=passed | expected=passed | duration=1887ms

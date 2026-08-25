@@ -1,0 +1,3 @@
+[GIVEN] omits the findings sections when the evaluation produced none | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePrompt.spec.ts:97
+[WHEN] omits the findings sections when the evaluation produced none | execute test actions and assertions
+[THEN] omits the findings sections when the evaluation produced none | status=passed | expected=passed | duration=7ms

@@ -1,3 +1,0 @@
-[GIVEN] renders the question as a button, with nothing revealed | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/QuestionCard.spec.tsx:29
-[WHEN] renders the question as a button, with nothing revealed | execute test actions and assertions
-[THEN] renders the question as a button, with nothing revealed | status=passed | expected=passed | duration=780ms

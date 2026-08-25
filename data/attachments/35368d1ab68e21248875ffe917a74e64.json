@@ -1,0 +1,7 @@
+{
+  "test": "test_a_caller_behind_one_load_balancer_is_identified",
+  "source": "tests/test_client_identity.py::test_a_caller_behind_one_load_balancer_is_identified",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

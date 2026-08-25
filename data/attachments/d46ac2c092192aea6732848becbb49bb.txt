@@ -1,0 +1,3 @@
+[GIVEN] refuses a client-supplied price ID | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/stripe.spec.ts:83
+[WHEN] refuses a client-supplied price ID | execute test actions and assertions
+[THEN] refuses a client-supplied price ID | status=passed | expected=passed | duration=55ms

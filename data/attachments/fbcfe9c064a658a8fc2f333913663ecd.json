@@ -1,0 +1,7 @@
+{
+  "test": "test_an_unconfigured_fallback_leaves_the_original_failure_showing",
+  "source": "tests/test_ai_gateway.py::test_an_unconfigured_fallback_leaves_the_original_failure_showing",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

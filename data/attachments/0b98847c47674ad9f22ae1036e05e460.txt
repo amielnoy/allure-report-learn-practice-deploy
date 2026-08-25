@@ -1,3 +1,0 @@
-[GIVEN] POST /admin/customers/{purchaseId}/recommendations has a generated response schema | project=contract | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/contract/openapi.spec.ts:139
-[WHEN] POST /admin/customers/{purchaseId}/recommendations has a generated response schema | execute test actions and assertions
-[THEN] POST /admin/customers/{purchaseId}/recommendations has a generated response schema | status=passed | expected=passed | duration=21ms

@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "covers all ten decks with one rule",
+  "suite": [
+    "unit/vercelRoutes.spec.ts",
+    "client-side routes"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/vercelRoutes.spec.ts:107",
+  "retry": 0,
+  "repeat": 0
+}

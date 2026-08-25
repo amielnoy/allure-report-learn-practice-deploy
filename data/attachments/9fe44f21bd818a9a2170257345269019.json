@@ -1,7 +1,0 @@
-{
-  "test": "test_a_grounded_request_is_never_handed_to_a_provider_without_search",
-  "source": "tests/test_ai_gateway.py::test_a_grounded_request_is_never_handed_to_a_provider_without_search",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

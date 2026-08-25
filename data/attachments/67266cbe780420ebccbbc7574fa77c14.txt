@@ -1,0 +1,3 @@
+[GIVEN] test_no_database_is_an_empty_list_rather_than_a_failure | isolated backend fixtures | worker=gw1 | tests/test_customers.py::test_no_database_is_an_empty_list_rather_than_a_failure
+[WHEN] test_no_database_is_an_empty_list_rather_than_a_failure | execute test actions and assertions
+[THEN] test_no_database_is_an_empty_list_rather_than_a_failure | status=passed | duration=4ms

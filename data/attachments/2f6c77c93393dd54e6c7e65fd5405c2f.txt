@@ -1,3 +1,0 @@
-[GIVEN] a refused token says so, rather than showing nothing | project=component-mobile | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/AdminPage.spec.tsx:72
-[WHEN] a refused token says so, rather than showing nothing | execute test actions and assertions
-[THEN] a refused token says so, rather than showing nothing | status=passed | expected=passed | duration=921ms

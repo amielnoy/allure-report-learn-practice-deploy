@@ -1,0 +1,3 @@
+[GIVEN] breaks a long résumé across pages instead of running off the first | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePdf.spec.ts:251
+[WHEN] breaks a long résumé across pages instead of running off the first | execute test actions and assertions
+[THEN] breaks a long résumé across pages instead of running off the first | status=passed | expected=passed | duration=91ms

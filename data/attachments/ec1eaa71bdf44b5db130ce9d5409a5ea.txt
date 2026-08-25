@@ -1,0 +1,3 @@
+[GIVEN] routes through the server proxy when the visitor has no key of their own | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:329
+[WHEN] routes through the server proxy when the visitor has no key of their own | execute test actions and assertions
+[THEN] routes through the server proxy when the visitor has no key of their own | status=passed | expected=passed | duration=35ms

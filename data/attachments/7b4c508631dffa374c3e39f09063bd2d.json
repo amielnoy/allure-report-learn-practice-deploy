@@ -1,7 +1,0 @@
-{
-  "test": "test_a_single_entry_is_used_as_it_stands",
-  "source": "tests/test_client_identity.py::test_a_single_entry_is_used_as_it_stands",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

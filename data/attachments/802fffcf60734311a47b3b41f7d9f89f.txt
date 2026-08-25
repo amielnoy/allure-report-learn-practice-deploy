@@ -1,3 +1,0 @@
-[GIVEN] test_webhook_grants_access_only_for_the_approved_catalog | isolated backend fixtures | worker=gw0 | tests/test_integrations.py::test_webhook_grants_access_only_for_the_approved_catalog
-[WHEN] test_webhook_grants_access_only_for_the_approved_catalog | execute test actions and assertions
-[THEN] test_webhook_grants_access_only_for_the_approved_catalog | status=passed | duration=14ms

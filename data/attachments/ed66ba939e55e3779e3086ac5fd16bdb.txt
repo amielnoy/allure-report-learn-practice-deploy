@@ -1,0 +1,3 @@
+[GIVEN] is a Build Output API v3 configuration | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/vercelRoutes.spec.ts:95
+[WHEN] is a Build Output API v3 configuration | execute test actions and assertions
+[THEN] is a Build Output API v3 configuration | status=passed | expected=passed | duration=13ms

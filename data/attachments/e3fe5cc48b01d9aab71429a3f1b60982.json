@@ -1,0 +1,7 @@
+{
+  "test": "test_whitespace_and_empty_entries_do_not_shift_the_count",
+  "source": "tests/test_client_identity.py::test_whitespace_and_empty_entries_do_not_shift_the_count",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}
