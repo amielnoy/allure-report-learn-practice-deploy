@@ -1,1 +1,1 @@
-{"id":"27565bcc42bf4bdbd2ca4fb7798cf34d","fullName":"openapi.spec.ts:139:5","name":"POST /stripe/checkout has a generated response schema","status":"passed","testResultsByEnv":{"default":"44cc94cc7a1b8772caf56a40f9bfa3ca"}}
+{"id":"27565bcc42bf4bdbd2ca4fb7798cf34d","fullName":"openapi.spec.ts:139:5","name":"POST /stripe/checkout has a generated response schema","status":"passed","testResultsByEnv":{"default":"c34498936811865f6f347a2f005a02bf"}}

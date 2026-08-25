@@ -1,0 +1,3 @@
+[GIVEN] test_flys_own_header_still_wins_where_it_is_present | isolated backend fixtures | worker=gw0 | tests/test_client_identity.py::test_flys_own_header_still_wins_where_it_is_present
+[WHEN] test_flys_own_header_still_wins_where_it_is_present | execute test actions and assertions
+[THEN] test_flys_own_header_still_wins_where_it_is_present | status=passed | duration=10ms

@@ -1,7 +1,0 @@
-{
-  "test": "test_a_purchase_linked_to_a_signed_in_account_is_marked_too",
-  "source": "tests/test_customers.py::test_a_purchase_linked_to_a_signed_in_account_is_marked_too",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

@@ -1,3 +1,0 @@
-[GIVEN] a reply that is not JSON is shown as the text it is | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/AdminPage.spec.tsx:110
-[WHEN] a reply that is not JSON is shown as the text it is | execute test actions and assertions
-[THEN] a reply that is not JSON is shown as the text it is | status=passed | expected=passed | duration=1159ms

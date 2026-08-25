@@ -1,3 +1,0 @@
-[GIVEN] rejects Latin-only text | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:49
-[WHEN] rejects Latin-only text | execute test actions and assertions
-[THEN] rejects Latin-only text | status=passed | expected=passed | duration=3ms

@@ -1,3 +1,0 @@
-[GIVEN] shows the challenge with nothing revealed | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ChallengeCard.spec.tsx:27
-[WHEN] shows the challenge with nothing revealed | execute test actions and assertions
-[THEN] shows the challenge with nothing revealed | status=passed | expected=passed | duration=1124ms

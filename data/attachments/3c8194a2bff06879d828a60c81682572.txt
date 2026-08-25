@@ -1,3 +1,0 @@
-[GIVEN] refusals disclose nothing about the expected token | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/adminAuth.spec.ts:89
-[WHEN] refusals disclose nothing about the expected token | execute test actions and assertions
-[THEN] refusals disclose nothing about the expected token | status=passed | expected=passed | duration=78ms

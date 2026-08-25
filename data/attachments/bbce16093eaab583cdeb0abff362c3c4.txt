@@ -1,3 +1,0 @@
-[GIVEN] rewrites a deck deep link to that deck, not to a 404 and not to the portfolio | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/vercelRoutes.spec.ts:100
-[WHEN] rewrites a deck deep link to that deck, not to a 404 and not to the portfolio | execute test actions and assertions
-[THEN] rewrites a deck deep link to that deck, not to a 404 and not to the portfolio | status=passed | expected=passed | duration=12ms

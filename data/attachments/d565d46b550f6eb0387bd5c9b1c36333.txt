@@ -1,3 +1,0 @@
-[GIVEN] is deleted rather than migrated | project=component-mobile | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/InterviewAgent.spec.tsx:103
-[WHEN] is deleted rather than migrated | execute test actions and assertions
-[THEN] is deleted rather than migrated | status=passed | expected=passed | duration=1298ms

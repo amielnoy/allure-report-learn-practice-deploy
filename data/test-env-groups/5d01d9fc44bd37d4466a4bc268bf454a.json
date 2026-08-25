@@ -1,1 +1,1 @@
-{"id":"5d01d9fc44bd37d4466a4bc268bf454a","fullName":"tests.test_integrations#test_checkout_rejects_a_client_supplied_price","name":"test_checkout_rejects_a_client_supplied_price","status":"passed","testResultsByEnv":{"default":"d15e2a0899ac0193829fd9be5218b0a8"}}
+{"id":"5d01d9fc44bd37d4466a4bc268bf454a","fullName":"tests.test_integrations#test_checkout_rejects_a_client_supplied_price","name":"test_checkout_rejects_a_client_supplied_price","status":"passed","testResultsByEnv":{"default":"2b1e8c3b4f6bcb02d45acf5b40624cb3"}}

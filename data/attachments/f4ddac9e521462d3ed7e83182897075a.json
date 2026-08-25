@@ -1,0 +1,7 @@
+{
+  "test": "test_no_database_is_an_empty_list_rather_than_a_failure",
+  "source": "tests/test_customers.py::test_no_database_is_an_empty_list_rather_than_a_failure",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

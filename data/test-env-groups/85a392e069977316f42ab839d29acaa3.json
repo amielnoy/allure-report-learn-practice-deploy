@@ -1,1 +1,1 @@
-{"id":"85a392e069977316f42ab839d29acaa3","fullName":"tests.test_rate_limit_config#test_the_metrics_salt_is_accepted_in_its_place","name":"test_the_metrics_salt_is_accepted_in_its_place","status":"passed","testResultsByEnv":{"default":"b3e8ddf0f4cc1aaf70ec3b1fd6210f1b"}}
+{"id":"85a392e069977316f42ab839d29acaa3","fullName":"tests.test_rate_limit_config#test_the_metrics_salt_is_accepted_in_its_place","name":"test_the_metrics_salt_is_accepted_in_its_place","status":"passed","testResultsByEnv":{"default":"0775332576d00b03a0a0a28ddf25ec88"}}

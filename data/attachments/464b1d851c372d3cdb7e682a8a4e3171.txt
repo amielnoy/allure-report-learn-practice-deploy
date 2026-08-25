@@ -1,0 +1,3 @@
+[GIVEN] revalidates the shells, whose names are stable and contents are not | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/vercelRoutes.spec.ts:141
+[WHEN] revalidates the shells, whose names are stable and contents are not | execute test actions and assertions
+[THEN] revalidates the shells, whose names are stable and contents are not | status=passed | expected=passed | duration=14ms

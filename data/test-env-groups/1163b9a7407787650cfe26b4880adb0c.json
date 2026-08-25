@@ -1,1 +1,1 @@
-{"id":"1163b9a7407787650cfe26b4880adb0c","fullName":"tests.test_catalog#test_any_single_missing_variable_stops_the_sale","name":"test_any_single_missing_variable_stops_the_sale[STRIPE_TAX_ENABLED]","status":"passed","testResultsByEnv":{"default":"3fd569dc395aad29905d2a0e65386ad2"}}
+{"id":"1163b9a7407787650cfe26b4880adb0c","fullName":"tests.test_catalog#test_any_single_missing_variable_stops_the_sale","name":"test_any_single_missing_variable_stops_the_sale[STRIPE_COURSE_PRODUCT_ID]","status":"passed","testResultsByEnv":{"default":"086bfcd3186b71ddbc8ba13fe4fec9fd"}}

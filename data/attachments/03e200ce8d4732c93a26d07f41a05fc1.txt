@@ -1,3 +1,0 @@
-[GIVEN] renders markdown bold as a strong tag | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:108
-[WHEN] renders markdown bold as a strong tag | execute test actions and assertions
-[THEN] renders markdown bold as a strong tag | status=passed | expected=passed | duration=7ms

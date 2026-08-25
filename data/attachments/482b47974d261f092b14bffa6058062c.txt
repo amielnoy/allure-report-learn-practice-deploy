@@ -1,0 +1,3 @@
+[GIVEN] hides every hint and answer until asked | project=component-mobile | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/QuestionBank.spec.tsx:35
+[WHEN] hides every hint and answer until asked | execute test actions and assertions
+[THEN] hides every hint and answer until asked | status=passed | expected=passed | duration=1476ms

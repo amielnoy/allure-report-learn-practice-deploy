@@ -1,3 +1,0 @@
-[GIVEN] deny the microphone everywhere except the academy, which has a voice mode | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/vercelRoutes.spec.ts:180
-[WHEN] deny the microphone everywhere except the academy, which has a voice mode | execute test actions and assertions
-[THEN] deny the microphone everywhere except the academy, which has a voice mode | status=passed | expected=passed | duration=5ms

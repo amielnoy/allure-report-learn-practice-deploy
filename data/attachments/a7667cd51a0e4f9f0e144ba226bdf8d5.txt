@@ -1,3 +1,0 @@
-[GIVEN] names the extension it does not support | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/documentText.spec.ts:93
-[WHEN] names the extension it does not support | execute test actions and assertions
-[THEN] names the extension it does not support | status=passed | expected=passed | duration=10ms

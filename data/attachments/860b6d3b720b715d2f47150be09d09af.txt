@@ -1,3 +1,0 @@
-[GIVEN] unlocks the key field once you opt into your own key | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ConnectionSetup.spec.tsx:39
-[WHEN] unlocks the key field once you opt into your own key | execute test actions and assertions
-[THEN] unlocks the key field once you opt into your own key | status=passed | expected=passed | duration=1451ms

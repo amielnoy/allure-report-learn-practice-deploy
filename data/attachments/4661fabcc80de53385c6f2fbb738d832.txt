@@ -1,3 +1,0 @@
-[GIVEN] contains keyboard focus while the mobile drawer is open | project=e2e-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/e2e/mobile-nav.spec.ts:29
-[WHEN] contains keyboard focus while the mobile drawer is open | execute test actions and assertions
-[THEN] contains keyboard focus while the mobile drawer is open | status=skipped | expected=skipped | duration=2615ms

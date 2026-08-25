@@ -1,1 +1,1 @@
-{"id":"04a0e9c96892bab340823bb9ec812681","fullName":"interviewSession.spec.ts:95:3","name":"is dropped from the model transcript when its role is not a turn","status":"passed","testResultsByEnv":{"default":"4ce5a12c186f5d815803fb632caa421b"}}
+{"id":"04a0e9c96892bab340823bb9ec812681","fullName":"interviewSession.spec.ts:95:3","name":"is dropped from the model transcript when its role is not a turn","status":"passed","testResultsByEnv":{"default":"917fb8c726fd939a7eac57d9a1349fc1"}}

@@ -1,0 +1,3 @@
+[GIVEN] localises the head before the app renders | project=e2e-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/e2e/seoHead.spec.ts:55
+[WHEN] localises the head before the app renders | execute test actions and assertions
+[THEN] localises the head before the app renders | status=passed | expected=passed | duration=2517ms

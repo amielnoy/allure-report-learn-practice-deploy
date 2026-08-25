@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "still applies the fonts when scripting is off",
+  "suite": [
+    "unit/fontLoading.spec.ts",
+    "ai-testing-academy"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/fontLoading.spec.ts:91",
+  "retry": 0,
+  "repeat": 0
+}

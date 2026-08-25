@@ -1,3 +1,0 @@
-[GIVEN] escapes markup in the surrounding text | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:130
-[WHEN] escapes markup in the surrounding text | execute test actions and assertions
-[THEN] escapes markup in the surrounding text | status=passed | expected=passed | duration=9ms

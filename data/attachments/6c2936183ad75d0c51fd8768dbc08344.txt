@@ -1,3 +1,0 @@
-[GIVEN] test_a_refused_provider_does_not_become_an_empty_recommendation | isolated backend fixtures | worker=gw1 | tests/test_customers.py::test_a_refused_provider_does_not_become_an_empty_recommendation
-[WHEN] test_a_refused_provider_does_not_become_an_empty_recommendation | execute test actions and assertions
-[THEN] test_a_refused_provider_does_not_become_an_empty_recommendation | status=passed | duration=3ms

@@ -1,1 +1,1 @@
-{"id":"226529f3506f3189e0921f4121006225","fullName":"resumePrompt.spec.ts:28:3","name":"rules out leaving non-Latin characters in the output","status":"passed","testResultsByEnv":{"default":"57d251a60dda38643ed1c522ad7962c5"}}
+{"id":"226529f3506f3189e0921f4121006225","fullName":"resumePrompt.spec.ts:28:3","name":"rules out leaving non-Latin characters in the output","status":"passed","testResultsByEnv":{"default":"f8b8383f1bfbea95a79daaeea5bf8a3a"}}

@@ -1,0 +1,7 @@
+{
+  "test": "test_a_missing_key_names_the_provider_that_is_unconfigured",
+  "source": "tests/test_ai_gateway.py::test_a_missing_key_names_the_provider_that_is_unconfigured",
+  "worker": "gw1",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

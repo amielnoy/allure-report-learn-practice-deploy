@@ -1,0 +1,3 @@
+[GIVEN] test_a_grounded_request_cannot_borrow_an_ungrounded_model | isolated backend fixtures | worker=gw1 | tests/test_ai_gateway.py::test_a_grounded_request_cannot_borrow_an_ungrounded_model
+[WHEN] test_a_grounded_request_cannot_borrow_an_ungrounded_model | execute test actions and assertions
+[THEN] test_a_grounded_request_cannot_borrow_an_ungrounded_model | status=passed | duration=5ms

@@ -1,7 +1,0 @@
-{
-  "test": "test_sign_in_survives_a_production_deployment_with_no_salt",
-  "source": "tests/test_rate_limit_config.py::test_sign_in_survives_a_production_deployment_with_no_salt",
-  "worker": "gw0",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

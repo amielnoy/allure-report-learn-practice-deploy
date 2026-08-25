@@ -1,7 +1,0 @@
-{
-  "test": "test_the_metrics_salt_is_accepted_in_its_place",
-  "source": "tests/test_rate_limit_config.py::test_the_metrics_salt_is_accepted_in_its_place",
-  "worker": "gw0",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

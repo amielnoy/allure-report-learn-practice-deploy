@@ -1,0 +1,3 @@
+[GIVEN] declares every language variant in the markup | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/hreflang.spec.ts:75
+[WHEN] declares every language variant in the markup | execute test actions and assertions
+[THEN] declares every language variant in the markup | status=passed | expected=passed | duration=19ms

@@ -1,7 +1,0 @@
-{
-  "test": "test_the_supabase_store_refuses_to_run_without_credentials",
-  "source": "tests/test_content_store.py::test_the_supabase_store_refuses_to_run_without_credentials",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

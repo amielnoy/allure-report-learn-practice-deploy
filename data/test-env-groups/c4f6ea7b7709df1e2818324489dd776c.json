@@ -1,1 +1,1 @@
-{"id":"c4f6ea7b7709df1e2818324489dd776c","fullName":"fontLoading.spec.ts:94:5","name":"warms up both font hosts with preconnect","status":"passed","testResultsByEnv":{"default":"b7b0a89b4e140bb50e0134d10a6440c9"}}
+{"id":"c4f6ea7b7709df1e2818324489dd776c","fullName":"fontLoading.spec.ts:98:5","name":"warms up both font hosts with preconnect","status":"passed","testResultsByEnv":{"default":"71dd3978950a16aeb3a7cf1ebb483442"}}
