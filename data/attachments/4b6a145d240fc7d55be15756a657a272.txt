@@ -1,3 +1,0 @@
-[GIVEN] renders a Markdown link by its label, not its raw syntax | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePdf.spec.ts:118
-[WHEN] renders a Markdown link by its label, not its raw syntax | execute test actions and assertions
-[THEN] renders a Markdown link by its label, not its raw syntax | status=passed | expected=passed | duration=1178ms

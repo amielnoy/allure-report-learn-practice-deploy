@@ -1,3 +1,0 @@
-[GIVEN] does not split a URL that changes style part way through | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:271
-[WHEN] does not split a URL that changes style part way through | execute test actions and assertions
-[THEN] does not split a URL that changes style part way through | status=passed | expected=passed | duration=10ms

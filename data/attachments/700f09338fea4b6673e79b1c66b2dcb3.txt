@@ -1,3 +1,0 @@
-[GIVEN] reads the server defaults without letting the answer be cached | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:304
-[WHEN] reads the server defaults without letting the answer be cached | execute test actions and assertions
-[THEN] reads the server defaults without letting the answer be cached | status=passed | expected=passed | duration=11ms

@@ -1,7 +1,0 @@
-{
-  "test": "test_the_ai_proxy_still_refuses_when_the_quota_cannot_count",
-  "source": "tests/test_rate_limit_config.py::test_the_ai_proxy_still_refuses_when_the_quota_cannot_count",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

@@ -1,3 +1,0 @@
-[GIVEN] lists the gaps and recommendations the evaluation found | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePrompt.spec.ts:84
-[WHEN] lists the gaps and recommendations the evaluation found | execute test actions and assertions
-[THEN] lists the gaps and recommendations the evaluation found | status=passed | expected=passed | duration=24ms

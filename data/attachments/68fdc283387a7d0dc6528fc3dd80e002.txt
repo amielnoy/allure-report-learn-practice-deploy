@@ -1,3 +1,0 @@
-[GIVEN] is named as a scan rather than as an extraction that came up short | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ResumeAgent.spec.tsx:47
-[WHEN] is named as a scan rather than as an extraction that came up short | execute test actions and assertions
-[THEN] is named as a scan rather than as an extraction that came up short | status=passed | expected=passed | duration=2079ms

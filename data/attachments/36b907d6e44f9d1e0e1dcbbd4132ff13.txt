@@ -1,3 +1,0 @@
-[GIVEN] test_the_listing_shows_the_operator_who_bought | isolated backend fixtures | worker=gw0 | tests/test_customers.py::test_the_listing_shows_the_operator_who_bought
-[WHEN] test_the_listing_shows_the_operator_who_bought | execute test actions and assertions
-[THEN] test_the_listing_shows_the_operator_who_bought | status=passed | duration=11ms

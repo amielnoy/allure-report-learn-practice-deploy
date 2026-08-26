@@ -1,7 +1,0 @@
-{
-  "test": "test_a_quota_guarding_a_billed_key_refuses_every_caller",
-  "source": "tests/test_rate_limit_config.py::test_a_quota_guarding_a_billed_key_refuses_every_caller",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

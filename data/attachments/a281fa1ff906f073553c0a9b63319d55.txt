@@ -1,3 +1,0 @@
-[GIVEN] test_an_unknown_customer_is_a_404_rather_than_advice_about_nobody | isolated backend fixtures | worker=gw0 | tests/test_customers.py::test_an_unknown_customer_is_a_404_rather_than_advice_about_nobody
-[WHEN] test_an_unknown_customer_is_a_404_rather_than_advice_about_nobody | execute test actions and assertions
-[THEN] test_an_unknown_customer_is_a_404_rather_than_advice_about_nobody | status=passed | duration=3ms

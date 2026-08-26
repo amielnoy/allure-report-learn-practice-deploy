@@ -1,7 +1,0 @@
-{
-  "test": "test_a_refused_provider_does_not_spend_the_daily_allowance",
-  "source": "tests/test_rate_limit_config.py::test_a_refused_provider_does_not_spend_the_daily_allowance",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

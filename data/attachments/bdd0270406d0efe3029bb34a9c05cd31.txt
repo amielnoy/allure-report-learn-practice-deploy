@@ -1,0 +1,3 @@
+[GIVEN] refuses a request with no token | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/entitlements.spec.ts:45
+[WHEN] refuses a request with no token | execute test actions and assertions
+[THEN] refuses a request with no token | status=passed | expected=passed | duration=78ms

@@ -1,0 +1,7 @@
+{
+  "test": "test_every_command_points_at_the_server_project_from_the_root",
+  "source": "tests/test_replit_deployment.py::test_every_command_points_at_the_server_project_from_the_root",
+  "worker": "gw1",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

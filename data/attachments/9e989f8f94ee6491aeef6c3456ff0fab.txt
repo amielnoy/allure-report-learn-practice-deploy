@@ -1,0 +1,4 @@
+INFO     httpx:_client.py:1740 HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+WARNING  app.ai_gateway:ai_gateway.py:264 AI provider groq refused request id=pvLh6aB2p3k status=503
+WARNING  app.ai_gateway:ai_gateway.py:227 groq could not serve the request (status 503); trying the next provider
+INFO     httpx:_client.py:1740 HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"

@@ -1,0 +1,3 @@
+[GIVEN] is served from the path the server mounts its router on | project=contract | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/contract/openapi.spec.ts:131
+[WHEN] is served from the path the server mounts its router on | execute test actions and assertions
+[THEN] is served from the path the server mounts its router on | status=passed | expected=passed | duration=10ms

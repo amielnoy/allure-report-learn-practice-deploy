@@ -1,1 +1,1 @@
-{"id":"2133b71376192906c49fb7a746be04ff","fullName":"tests.test_rate_limit_config#test_a_missing_database_is_named","name":"test_a_missing_database_is_named","status":"passed","testResultsByEnv":{"default":"92ff1f0f653900e1d68a308061a1650e"}}
+{"id":"2133b71376192906c49fb7a746be04ff","fullName":"tests.test_rate_limit_config#test_a_missing_database_is_named","name":"test_a_missing_database_is_named","status":"passed","testResultsByEnv":{"default":"be09706ee7777a987d915db6ce66fc11"}}

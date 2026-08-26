@@ -1,3 +1,0 @@
-[GIVEN] a rejected credential keeps the generic message | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/GoogleSignIn.spec.tsx:287
-[WHEN] a rejected credential keeps the generic message | execute test actions and assertions
-[THEN] a rejected credential keeps the generic message | status=passed | expected=passed | duration=1110ms

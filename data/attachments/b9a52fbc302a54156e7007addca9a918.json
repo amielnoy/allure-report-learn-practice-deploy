@@ -1,7 +1,0 @@
-{
-  "test": "test_a_hit_can_be_given_back",
-  "source": "tests/test_rate_limit_config.py::test_a_hit_can_be_given_back",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

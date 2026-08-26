@@ -1,7 +1,0 @@
-{
-  "test": "test_local_and_test_runs_never_report_a_problem",
-  "source": "tests/test_rate_limit_config.py::test_local_and_test_runs_never_report_a_problem",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

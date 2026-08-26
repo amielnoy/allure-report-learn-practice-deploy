@@ -1,3 +1,0 @@
-[GIVEN] never allow the camera | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/vercelRoutes.spec.ts:195
-[WHEN] never allow the camera | execute test actions and assertions
-[THEN] never allow the camera | status=passed | expected=passed | duration=9ms

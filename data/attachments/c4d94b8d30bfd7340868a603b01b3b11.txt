@@ -1,3 +1,0 @@
-[GIVEN] is ignored when it was saved in the other language | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/InterviewAgent.spec.tsx:85
-[WHEN] is ignored when it was saved in the other language | execute test actions and assertions
-[THEN] is ignored when it was saved in the other language | status=passed | expected=passed | duration=947ms

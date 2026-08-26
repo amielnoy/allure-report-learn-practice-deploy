@@ -1,1 +1,1 @@
-{"id":"e07cde3907c2cf6115778530c9f40687","fullName":"tests.test_rate_limit_config#test_a_missing_salt_is_named","name":"test_a_missing_salt_is_named","status":"passed","testResultsByEnv":{"default":"24fec638640bc891d06a6b6547a087f9"}}
+{"id":"e07cde3907c2cf6115778530c9f40687","fullName":"tests.test_rate_limit_config#test_a_missing_salt_is_named","name":"test_a_missing_salt_is_named","status":"passed","testResultsByEnv":{"default":"9dd961a770835a249a361a4bbc54e202"}}

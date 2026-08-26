@@ -1,3 +1,0 @@
-[GIVEN] unwraps bold without recording a link | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/domUtils.spec.ts:166
-[WHEN] unwraps bold without recording a link | execute test actions and assertions
-[THEN] unwraps bold without recording a link | status=passed | expected=passed | duration=10ms

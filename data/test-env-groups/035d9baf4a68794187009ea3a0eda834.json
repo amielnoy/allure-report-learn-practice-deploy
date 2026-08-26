@@ -1,1 +1,1 @@
-{"id":"035d9baf4a68794187009ea3a0eda834","fullName":"openapi.spec.ts:161:5","name":"GET /stripe/prices answers with a documented status","status":"passed","testResultsByEnv":{"default":"b333ac74f8cb8ca6d894ac7e08df35ea"}}
+{"id":"035d9baf4a68794187009ea3a0eda834","fullName":"openapi.spec.ts:161:5","name":"GET /stripe/prices answers with a documented status","status":"passed","testResultsByEnv":{"default":"7c93638707e7dfeb4a4fd270ba62601f"}}
