@@ -1,0 +1,3 @@
+[GIVEN] every column the seed writes exists in the schema | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/contentSchema.spec.ts:120
+[WHEN] every column the seed writes exists in the schema | execute test actions and assertions
+[THEN] every column the seed writes exists in the schema | status=passed | expected=passed | duration=98ms

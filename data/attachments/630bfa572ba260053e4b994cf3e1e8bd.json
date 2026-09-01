@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "rewrites a portfolio route to the portfolio shell",
+  "suite": [
+    "unit/vercelRoutes.spec.ts",
+    "client-side routes"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/vercelRoutes.spec.ts:116",
+  "retry": 0,
+  "repeat": 0
+}

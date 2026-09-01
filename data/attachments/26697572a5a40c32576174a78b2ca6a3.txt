@@ -1,3 +1,0 @@
-[GIVEN] replaces an existing lang parameter rather than appending one | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/i18n.spec.ts:109
-[WHEN] replaces an existing lang parameter rather than appending one | execute test actions and assertions
-[THEN] replaces an existing lang parameter rather than appending one | status=passed | expected=passed | duration=4ms

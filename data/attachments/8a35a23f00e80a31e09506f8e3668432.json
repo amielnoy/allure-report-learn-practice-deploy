@@ -1,7 +1,0 @@
-{
-  "test": "test_sales_are_off_unless_the_flag_is_exactly_true[1]",
-  "source": "tests/test_catalog.py::test_sales_are_off_unless_the_flag_is_exactly_true[1]",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

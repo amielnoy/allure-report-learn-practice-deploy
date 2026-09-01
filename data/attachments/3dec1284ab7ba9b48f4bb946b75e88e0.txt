@@ -1,3 +1,0 @@
-[GIVEN] test_the_cause_is_logged_once_rather_than_per_request | isolated backend fixtures | worker=gw0 | tests/test_rate_limit_config.py::test_the_cause_is_logged_once_rather_than_per_request
-[WHEN] test_the_cause_is_logged_once_rather_than_per_request | execute test actions and assertions
-[THEN] test_the_cause_is_logged_once_rather_than_per_request | status=passed | duration=10ms

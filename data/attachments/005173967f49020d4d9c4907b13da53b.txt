@@ -1,0 +1,8 @@
+ERROR:app.progress:Progress lookup failed
+Traceback (most recent call last):
+  File "/home/runner/work/LearnPracticeWork/LearnPracticeWork/server/app/progress.py", line 49, in _call
+    stored = await awaitable
+             ^^^^^^^^^^^^^^^
+  File "/home/runner/work/LearnPracticeWork/LearnPracticeWork/server/tests/test_progress.py", line 118, in explode
+    raise RuntimeError("connection reset")
+RuntimeError: connection reset

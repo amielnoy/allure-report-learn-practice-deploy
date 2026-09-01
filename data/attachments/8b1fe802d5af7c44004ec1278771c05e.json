@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "ai-testing-lecture-10",
+  "suite": [
+    "unit/lectureExamples.spec.ts",
+    "the seed writes the row each deck goes looking for"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/lectureExamples.spec.ts:100",
+  "retry": 0,
+  "repeat": 0
+}

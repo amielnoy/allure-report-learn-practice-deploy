@@ -1,3 +1,0 @@
-[GIVEN] freezes hashed assets, in every app | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/vercelRoutes.spec.ts:134
-[WHEN] freezes hashed assets, in every app | execute test actions and assertions
-[THEN] freezes hashed assets, in every app | status=passed | expected=passed | duration=10ms

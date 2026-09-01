@@ -1,3 +1,0 @@
-[GIVEN] a coding challenge reveals its solution on the second click | project=e2e-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/e2e/sanity.spec.ts:36
-[WHEN] a coding challenge reveals its solution on the second click | execute test actions and assertions
-[THEN] a coding challenge reveals its solution on the second click | status=passed | expected=passed | duration=3999ms

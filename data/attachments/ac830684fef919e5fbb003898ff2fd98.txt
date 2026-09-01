@@ -1,0 +1,3 @@
+[GIVEN] says so rather than delivering Hebrew when even the translation comes back in Hebrew | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/ResumeImprove.spec.tsx:127
+[WHEN] says so rather than delivering Hebrew when even the translation comes back in Hebrew | execute test actions and assertions
+[THEN] says so rather than delivering Hebrew when even the translation comes back in Hebrew | status=passed | expected=passed | duration=1344ms

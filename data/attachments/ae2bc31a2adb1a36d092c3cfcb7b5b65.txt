@@ -1,0 +1,3 @@
+[GIVEN] test_a_rejected_sign_in_is_recorded_without_an_identity | isolated backend fixtures | worker=gw0 | tests/test_activity.py::test_a_rejected_sign_in_is_recorded_without_an_identity
+[WHEN] test_a_rejected_sign_in_is_recorded_without_an_identity | execute test actions and assertions
+[THEN] test_a_rejected_sign_in_is_recorded_without_an_identity | status=passed | duration=18ms

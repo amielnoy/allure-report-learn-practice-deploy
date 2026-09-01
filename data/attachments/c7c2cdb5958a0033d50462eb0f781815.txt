@@ -1,0 +1,3 @@
+[GIVEN] stays out of the way near the top of the page | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/BackToTop.spec.tsx:25
+[WHEN] stays out of the way near the top of the page | execute test actions and assertions
+[THEN] stays out of the way near the top of the page | status=passed | expected=passed | duration=950ms

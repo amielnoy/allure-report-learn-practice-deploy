@@ -1,3 +1,0 @@
-[GIVEN] rejects an absent key | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/storage.spec.ts:96
-[WHEN] rejects an absent key | execute test actions and assertions
-[THEN] rejects an absent key | status=passed | expected=passed | duration=12ms

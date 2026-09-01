@@ -1,3 +1,0 @@
-[GIVEN] is signed out again once the credential has lapsed | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/GoogleSignIn.spec.tsx:127
-[WHEN] is signed out again once the credential has lapsed | execute test actions and assertions
-[THEN] is signed out again once the credential has lapsed | status=passed | expected=passed | duration=1058ms

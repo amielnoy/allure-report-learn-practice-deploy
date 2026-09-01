@@ -1,7 +1,0 @@
-{
-  "test": "test_readiness_names_the_problem_without_reporting_an_outage",
-  "source": "tests/test_rate_limit_config.py::test_readiness_names_the_problem_without_reporting_an_outage",
-  "worker": "gw0",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

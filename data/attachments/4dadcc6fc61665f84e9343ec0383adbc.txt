@@ -1,0 +1,3 @@
+[GIVEN] proxies to the configured origin, keeping the path | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/vercelRoutes.spec.ts:225
+[WHEN] proxies to the configured origin, keeping the path | execute test actions and assertions
+[THEN] proxies to the configured origin, keeping the path | status=passed | expected=passed | duration=16ms

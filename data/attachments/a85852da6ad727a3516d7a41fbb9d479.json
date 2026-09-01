@@ -1,0 +1,7 @@
+{
+  "test": "test_a_write_merges_and_answers_with_the_union",
+  "source": "tests/test_progress.py::test_a_write_merges_and_answers_with_the_union",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

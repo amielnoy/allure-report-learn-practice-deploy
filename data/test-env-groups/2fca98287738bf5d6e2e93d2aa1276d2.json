@@ -1,1 +1,1 @@
-{"id":"2fca98287738bf5d6e2e93d2aa1276d2","fullName":"tests.test_origins#test_localhost_is_allowed_by_cors_outside_production","name":"test_localhost_is_allowed_by_cors_outside_production","status":"passed","testResultsByEnv":{"default":"fe938948383506badf9d1a27ec7faed6"}}
+{"id":"2fca98287738bf5d6e2e93d2aa1276d2","fullName":"tests.test_origins#test_localhost_is_allowed_by_cors_outside_production","name":"test_localhost_is_allowed_by_cors_outside_production","status":"passed","testResultsByEnv":{"default":"6175a0523916001d1e6cc08a2d59c38e"}}

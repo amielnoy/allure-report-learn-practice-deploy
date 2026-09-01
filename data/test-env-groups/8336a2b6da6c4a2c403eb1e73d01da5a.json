@@ -1,1 +1,1 @@
-{"id":"8336a2b6da6c4a2c403eb1e73d01da5a","fullName":"tests.test_rate_limit_config#test_an_answered_request_does_spend_the_allowance","name":"test_an_answered_request_does_spend_the_allowance","status":"passed","testResultsByEnv":{"default":"567f3870438015ada0648998cec28a60"}}
+{"id":"8336a2b6da6c4a2c403eb1e73d01da5a","fullName":"tests.test_rate_limit_config#test_an_answered_request_does_spend_the_allowance","name":"test_an_answered_request_does_spend_the_allowance","status":"passed","testResultsByEnv":{"default":"511eb42e854cdcfba1a087df9986abab"}}

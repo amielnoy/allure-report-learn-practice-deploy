@@ -1,0 +1,7 @@
+{
+  "test": "test_unknown_fields_are_refused_rather_than_dropped",
+  "source": "tests/test_progress.py::test_unknown_fields_are_refused_rather_than_dropped",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

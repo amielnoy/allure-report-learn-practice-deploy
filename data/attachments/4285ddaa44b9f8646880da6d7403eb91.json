@@ -1,0 +1,7 @@
+{
+  "test": "test_a_rejected_sign_in_is_recorded_without_an_identity",
+  "source": "tests/test_activity.py::test_a_rejected_sign_in_is_recorded_without_an_identity",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

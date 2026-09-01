@@ -1,3 +1,0 @@
-[GIVEN] never puts the Google Fonts stylesheet on the render path | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/fontLoading.spec.ts:62
-[WHEN] never puts the Google Fonts stylesheet on the render path | execute test actions and assertions
-[THEN] never puts the Google Fonts stylesheet on the render path | status=passed | expected=passed | duration=9ms

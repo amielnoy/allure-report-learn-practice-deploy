@@ -1,0 +1,3 @@
+[GIVEN] toggles the colour theme and remembers the choice | project=e2e-mobile | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/e2e/appearance.spec.ts:9
+[WHEN] toggles the colour theme and remembers the choice | execute test actions and assertions
+[THEN] toggles the colour theme and remembers the choice | status=passed | expected=passed | duration=4183ms

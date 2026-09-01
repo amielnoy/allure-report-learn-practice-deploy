@@ -1,1 +1,1 @@
-{"id":"c6db16dc839f412a3fe95c2b87bdffb1","fullName":"openapi.spec.ts:139:5","name":"GET /content/coding-challenges has a generated response schema","status":"passed","testResultsByEnv":{"default":"34f1820276d501edcf195901d17dae1e"}}
+{"id":"c6db16dc839f412a3fe95c2b87bdffb1","fullName":"openapi.spec.ts:139:5","name":"GET /content/coding-challenges has a generated response schema","status":"passed","testResultsByEnv":{"default":"167d2628536816cc90d35e08b5c46ba9"}}

@@ -1,0 +1,12 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "url": "http://127.0.0.1:8788/api/stripe/prices",
+  "headers": {
+    "date": "Tue, 01 Sep 2026 06:43:08 GMT",
+    "server": "uvicorn",
+    "content-length": "32",
+    "content-type": "application/json"
+  },
+  "body": "{\n  \"data\": [],\n  \"salesEnabled\": false\n}"
+}

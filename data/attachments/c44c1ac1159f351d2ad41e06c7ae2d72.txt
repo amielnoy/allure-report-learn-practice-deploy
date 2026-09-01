@@ -1,3 +1,0 @@
-[GIVEN] drops trailing commas before a closing bracket or brace | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:251
-[WHEN] drops trailing commas before a closing bracket or brace | execute test actions and assertions
-[THEN] drops trailing commas before a closing bracket or brace | status=passed | expected=passed | duration=22ms

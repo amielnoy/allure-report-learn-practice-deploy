@@ -1,0 +1,10 @@
+{
+  "project": "unit",
+  "test": "no example is written for a slide that never asks for one",
+  "suite": [
+    "unit/lectureExamples.spec.ts"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/lectureExamples.spec.ts:88",
+  "retry": 0,
+  "repeat": 0
+}

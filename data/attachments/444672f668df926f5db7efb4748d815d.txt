@@ -1,3 +1,0 @@
-[GIVEN] carries the Hebrew through as Hebrew characters | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePdf.spec.ts:246
-[WHEN] carries the Hebrew through as Hebrew characters | execute test actions and assertions
-[THEN] carries the Hebrew through as Hebrew characters | status=passed | expected=passed | duration=82ms

@@ -1,1 +1,1 @@
-{"id":"06d20a4c912992a414f46528ed1a1f9b","fullName":"tests.test_catalog#test_tax_collection_cannot_be_left_unconfigured","name":"test_tax_collection_cannot_be_left_unconfigured","status":"passed","testResultsByEnv":{"default":"64167ccaf647e8d83fa7c8783d6614b9"}}
+{"id":"06d20a4c912992a414f46528ed1a1f9b","fullName":"tests.test_catalog#test_tax_collection_cannot_be_left_unconfigured","name":"test_tax_collection_cannot_be_left_unconfigured","status":"passed","testResultsByEnv":{"default":"6462c61b37bb11dcdf7d223417761256"}}

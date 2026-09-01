@@ -1,0 +1,7 @@
+{
+  "test": "test_a_credential_quota_degrades_instead_of_taking_authentication_down",
+  "source": "tests/test_rate_limit_config.py::test_a_credential_quota_degrades_instead_of_taking_authentication_down",
+  "worker": "gw1",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

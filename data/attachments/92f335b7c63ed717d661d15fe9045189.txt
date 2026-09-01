@@ -1,0 +1,3 @@
+[GIVEN] accepts a file exactly at the limit | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/documentText.spec.ts:86
+[WHEN] accepts a file exactly at the limit | execute test actions and assertions
+[THEN] accepts a file exactly at the limit | status=passed | expected=passed | duration=40ms

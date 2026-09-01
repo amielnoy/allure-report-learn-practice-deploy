@@ -1,3 +1,0 @@
-[GIVEN] covers all ten decks with one rule | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/vercelRoutes.spec.ts:107
-[WHEN] covers all ten decks with one rule | execute test actions and assertions
-[THEN] covers all ten decks with one rule | status=passed | expected=passed | duration=48ms

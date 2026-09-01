@@ -1,3 +1,0 @@
-[GIVEN] attaches a Hebrew prefix to the Latin word it qualifies | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/bidi.spec.ts:89
-[WHEN] attaches a Hebrew prefix to the Latin word it qualifies | execute test actions and assertions
-[THEN] attaches a Hebrew prefix to the Latin word it qualifies | status=passed | expected=passed | duration=14ms

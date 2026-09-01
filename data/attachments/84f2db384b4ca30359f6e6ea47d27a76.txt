@@ -1,3 +1,0 @@
-[GIVEN] content does not depend on a key, so both servers answer alike | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/content.spec.ts:98
-[WHEN] content does not depend on a key, so both servers answer alike | execute test actions and assertions
-[THEN] content does not depend on a key, so both servers answer alike | status=passed | expected=passed | duration=305ms

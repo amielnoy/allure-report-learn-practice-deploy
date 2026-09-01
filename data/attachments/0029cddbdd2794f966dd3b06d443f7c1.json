@@ -1,0 +1,7 @@
+{
+  "test": "test_a_broken_store_is_a_fault_and_not_an_absence",
+  "source": "tests/test_progress.py::test_a_broken_store_is_a_fault_and_not_an_absence",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

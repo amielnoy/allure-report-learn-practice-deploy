@@ -1,0 +1,7 @@
+{
+  "test": "test_a_run_identifies_itself_from_the_ci_environment",
+  "source": "tests/test_test_history.py::test_a_run_identifies_itself_from_the_ci_environment",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

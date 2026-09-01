@@ -1,0 +1,3 @@
+[GIVEN] asks for a translation, not a second rewrite | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePrompt.spec.ts:162
+[WHEN] asks for a translation, not a second rewrite | execute test actions and assertions
+[THEN] asks for a translation, not a second rewrite | status=passed | expected=passed | duration=19ms

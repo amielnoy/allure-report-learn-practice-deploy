@@ -1,3 +1,0 @@
-[GIVEN] rules out leaving non-Latin characters in the output | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePrompt.spec.ts:28
-[WHEN] rules out leaving non-Latin characters in the output | execute test actions and assertions
-[THEN] rules out leaving non-Latin characters in the output | status=passed | expected=passed | duration=3ms

@@ -1,0 +1,7 @@
+{
+  "test": "test_a_throttled_ai_request_is_recorded_as_a_429",
+  "source": "tests/test_activity.py::test_a_throttled_ai_request_is_recorded_as_a_429",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

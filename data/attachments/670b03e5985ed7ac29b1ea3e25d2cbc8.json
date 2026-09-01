@@ -1,0 +1,10 @@
+{
+  "project": "unit",
+  "test": "every deck that fetches examples has content for every slide that asks",
+  "suite": [
+    "unit/lectureExamples.spec.ts"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/lectureExamples.spec.ts:77",
+  "retry": 0,
+  "repeat": 0
+}

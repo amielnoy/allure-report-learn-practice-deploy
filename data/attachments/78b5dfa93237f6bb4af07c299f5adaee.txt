@@ -1,0 +1,3 @@
+[GIVEN] explains which host was unreachable when the browser blocks the call | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:421
+[WHEN] explains which host was unreachable when the browser blocks the call | execute test actions and assertions
+[THEN] explains which host was unreachable when the browser blocks the call | status=passed | expected=passed | duration=10ms

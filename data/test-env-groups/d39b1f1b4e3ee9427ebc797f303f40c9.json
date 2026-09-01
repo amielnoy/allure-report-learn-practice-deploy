@@ -1,1 +1,1 @@
-{"id":"d39b1f1b4e3ee9427ebc797f303f40c9","fullName":"openapi.spec.ts:139:5","name":"GET /stripe/prices has a generated response schema","status":"passed","testResultsByEnv":{"default":"a150fb56b4a46d123779d8068cf8b07d"}}
+{"id":"d39b1f1b4e3ee9427ebc797f303f40c9","fullName":"openapi.spec.ts:139:5","name":"GET /stripe/prices has a generated response schema","status":"passed","testResultsByEnv":{"default":"53bd5d8083c3dacd90823126ab30ef95"}}

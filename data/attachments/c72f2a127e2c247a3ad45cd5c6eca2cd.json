@@ -1,0 +1,7 @@
+{
+  "test": "test_an_oversized_list_is_refused",
+  "source": "tests/test_progress.py::test_an_oversized_list_is_refused",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

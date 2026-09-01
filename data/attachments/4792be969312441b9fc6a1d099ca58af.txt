@@ -1,0 +1,3 @@
+[GIVEN] leaves the static routes exactly as committed | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/vercelRoutes.spec.ts:262
+[WHEN] leaves the static routes exactly as committed | execute test actions and assertions
+[THEN] leaves the static routes exactly as committed | status=passed | expected=passed | duration=12ms

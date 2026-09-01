@@ -1,0 +1,7 @@
+{
+  "test": "test_a_signed_in_reader_gets_their_stored_progress",
+  "source": "tests/test_progress.py::test_a_signed_in_reader_gets_their_stored_progress",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

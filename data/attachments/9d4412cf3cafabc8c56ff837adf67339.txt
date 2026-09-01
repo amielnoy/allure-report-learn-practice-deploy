@@ -1,3 +1,0 @@
-[GIVEN] test_the_hop_count_is_configurable_for_a_deeper_chain | isolated backend fixtures | worker=gw0 | tests/test_client_identity.py::test_the_hop_count_is_configurable_for_a_deeper_chain
-[WHEN] test_the_hop_count_is_configurable_for_a_deeper_chain | execute test actions and assertions
-[THEN] test_the_hop_count_is_configurable_for_a_deeper_chain | status=passed | duration=11ms

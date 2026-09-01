@@ -1,3 +1,0 @@
-[GIVEN] refuses an unsigned webhook | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/stripe.spec.ts:18
-[WHEN] refuses an unsigned webhook | execute test actions and assertions
-[THEN] refuses an unsigned webhook | status=passed | expected=passed | duration=58ms

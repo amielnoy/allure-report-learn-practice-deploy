@@ -1,0 +1,3 @@
+[GIVEN] only returns CORS permission for an allowlisted production origin | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/ai.spec.ts:201
+[WHEN] only returns CORS permission for an allowlisted production origin | execute test actions and assertions
+[THEN] only returns CORS permission for an allowlisted production origin | status=passed | expected=passed | duration=133ms

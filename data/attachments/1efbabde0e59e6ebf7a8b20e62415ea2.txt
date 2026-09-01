@@ -1,3 +1,0 @@
-[GIVEN] gives crawler files an hour | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/vercelRoutes.spec.ts:152
-[WHEN] gives crawler files an hour | execute test actions and assertions
-[THEN] gives crawler files an hour | status=passed | expected=passed | duration=6ms

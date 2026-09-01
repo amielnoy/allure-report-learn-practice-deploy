@@ -1,3 +1,0 @@
-[GIVEN] test_monitor_targets_are_fixture_driven_json | isolated backend fixtures | worker=gw0 | tests/test_monitor.py::test_monitor_targets_are_fixture_driven_json
-[WHEN] test_monitor_targets_are_fixture_driven_json | execute test actions and assertions
-[THEN] test_monitor_targets_are_fixture_driven_json | status=passed | duration=2ms

@@ -1,0 +1,10 @@
+{
+  "project": "unit",
+  "test": "every column the seed writes exists in the schema",
+  "suite": [
+    "unit/contentSchema.spec.ts"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/contentSchema.spec.ts:120",
+  "retry": 0,
+  "repeat": 0
+}

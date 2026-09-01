@@ -1,0 +1,7 @@
+{
+  "test": "test_any_single_missing_variable_stops_the_sale[SALES_ENABLED]",
+  "source": "tests/test_catalog.py::test_any_single_missing_variable_stops_the_sale[SALES_ENABLED]",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

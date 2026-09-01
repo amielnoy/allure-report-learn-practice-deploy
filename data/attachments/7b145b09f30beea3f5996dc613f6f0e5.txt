@@ -1,3 +1,0 @@
-[GIVEN] catches a rewrite that is half English and half Hebrew | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePrompt.spec.ts:138
-[WHEN] catches a rewrite that is half English and half Hebrew | execute test actions and assertions
-[THEN] catches a rewrite that is half English and half Hebrew | status=passed | expected=passed | duration=7ms

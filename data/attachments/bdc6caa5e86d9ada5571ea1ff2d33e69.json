@@ -1,0 +1,5 @@
+{
+  "method": "PUT",
+  "url": "/api/progress",
+  "headers": {}
+}

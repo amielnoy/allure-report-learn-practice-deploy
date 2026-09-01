@@ -1,1 +1,1 @@
-{"id":"020ad38f2f1b206658a6d234776fabea","fullName":"openapi.spec.ts:139:5","name":"POST /auth/logout has a generated response schema","status":"passed","testResultsByEnv":{"default":"a5495628364980361f9a10d214109214"}}
+{"id":"020ad38f2f1b206658a6d234776fabea","fullName":"openapi.spec.ts:139:5","name":"POST /auth/logout has a generated response schema","status":"passed","testResultsByEnv":{"default":"0878ad0a76c834b345347028911a287f"}}

@@ -1,3 +1,0 @@
-[GIVEN] reports a document past the editor bound as too long | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/documentText.spec.ts:151
-[WHEN] reports a document past the editor bound as too long | execute test actions and assertions
-[THEN] reports a document past the editor bound as too long | status=passed | expected=passed | duration=41ms

@@ -1,1 +1,1 @@
-{"id":"bfba04460f5fad02b3fc68ef00e54593","fullName":"openapi.spec.ts:161:5","name":"GET /healthz answers with a documented status","status":"passed","testResultsByEnv":{"default":"a1a7e927472ef92940cca1aaaa7e2eb1"}}
+{"id":"bfba04460f5fad02b3fc68ef00e54593","fullName":"openapi.spec.ts:161:5","name":"GET /healthz answers with a documented status","status":"passed","testResultsByEnv":{"default":"0988c580098d3b3be389c3b6132014b8"}}

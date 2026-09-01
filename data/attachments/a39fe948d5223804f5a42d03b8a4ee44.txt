@@ -1,3 +1,0 @@
-[GIVEN] serves the page with the expected title and language | project=e2e-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/e2e/sanity.spec.ts:9
-[WHEN] serves the page with the expected title and language | execute test actions and assertions
-[THEN] serves the page with the expected title and language | status=passed | expected=passed | duration=2207ms
