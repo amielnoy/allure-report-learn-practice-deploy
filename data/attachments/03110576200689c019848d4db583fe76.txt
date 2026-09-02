@@ -1,0 +1,3 @@
+[GIVEN] returns 404 for a route that does not exist | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/health.spec.ts:75
+[WHEN] returns 404 for a route that does not exist | execute test actions and assertions
+[THEN] returns 404 for a route that does not exist | status=passed | expected=passed | duration=64ms

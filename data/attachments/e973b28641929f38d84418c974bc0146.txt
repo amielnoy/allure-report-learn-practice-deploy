@@ -1,3 +1,0 @@
-[GIVEN] no example is written for a slide that never asks for one | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/lectureExamples.spec.ts:88
-[WHEN] no example is written for a slide that never asks for one | execute test actions and assertions
-[THEN] no example is written for a slide that never asks for one | status=passed | expected=passed | duration=17ms

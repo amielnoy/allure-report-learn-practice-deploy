@@ -1,3 +1,0 @@
-[GIVEN] coding_challenges | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/contentSchema.spec.ts:110
-[WHEN] coding_challenges | execute test actions and assertions
-[THEN] coding_challenges | status=passed | expected=passed | duration=48ms

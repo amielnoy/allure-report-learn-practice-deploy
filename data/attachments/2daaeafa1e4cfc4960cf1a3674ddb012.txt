@@ -1,3 +1,0 @@
-[GIVEN] test_any_single_missing_variable_stops_the_sale[BUSINESS_LEGAL_NAME] | isolated backend fixtures | worker=gw0 | tests/test_catalog.py::test_any_single_missing_variable_stops_the_sale[BUSINESS_LEGAL_NAME]
-[WHEN] test_any_single_missing_variable_stops_the_sale[BUSINESS_LEGAL_NAME] | execute test actions and assertions
-[THEN] test_any_single_missing_variable_stops_the_sale[BUSINESS_LEGAL_NAME] | status=passed | duration=12ms

@@ -1,3 +1,0 @@
-[GIVEN] signs out by itself when the token lapses mid-visit | project=component-mobile | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/GoogleSignIn.spec.tsx:234
-[WHEN] signs out by itself when the token lapses mid-visit | execute test actions and assertions
-[THEN] signs out by itself when the token lapses mid-visit | status=passed | expected=passed | duration=2229ms

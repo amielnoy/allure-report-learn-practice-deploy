@@ -1,1 +1,1 @@
-{"id":"e4b786261add7292c035930b74e4cbe9","fullName":"openapi.spec.ts:184:5","name":"GET /content/coding-challenges returns a body its schema accepts","status":"passed","testResultsByEnv":{"default":"a11f85444625f5078c33ea09c98aae64"}}
+{"id":"e4b786261add7292c035930b74e4cbe9","fullName":"openapi.spec.ts:184:5","name":"GET /content/coding-challenges returns a body its schema accepts","status":"passed","testResultsByEnv":{"default":"c0e3a1caecdb66a8111e5e4a905a7df3"}}

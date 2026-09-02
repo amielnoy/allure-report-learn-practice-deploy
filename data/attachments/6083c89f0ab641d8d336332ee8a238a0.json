@@ -1,0 +1,7 @@
+{
+  "test": "test_refusing_is_the_default_so_a_new_bucket_cannot_inherit_leniency",
+  "source": "tests/test_rate_limit_config.py::test_refusing_is_the_default_so_a_new_bucket_cannot_inherit_leniency",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

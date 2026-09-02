@@ -1,0 +1,10 @@
+{
+  "project": "unit",
+  "test": "every font the stylesheet asks for is a font the page loads",
+  "suite": [
+    "unit/themePalette.spec.ts"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/themePalette.spec.ts:140",
+  "retry": 0,
+  "repeat": 0
+}

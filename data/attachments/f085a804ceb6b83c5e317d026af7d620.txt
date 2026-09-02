@@ -1,3 +1,0 @@
-[GIVEN] the route is not there at all | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/adminAuth.spec.ts:24
-[WHEN] the route is not there at all | execute test actions and assertions
-[THEN] the route is not there at all | status=passed | expected=passed | duration=347ms

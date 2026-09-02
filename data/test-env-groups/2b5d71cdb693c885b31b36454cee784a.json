@@ -1,1 +1,1 @@
-{"id":"2b5d71cdb693c885b31b36454cee784a","fullName":"tests.test_rate_limit_config#test_the_refusal_is_logged_with_its_cause","name":"test_the_refusal_is_logged_with_its_cause","status":"passed","testResultsByEnv":{"default":"a07fbaa76dd7d84437377ede541c526f"}}
+{"id":"2b5d71cdb693c885b31b36454cee784a","fullName":"tests.test_rate_limit_config#test_the_refusal_is_logged_with_its_cause","name":"test_the_refusal_is_logged_with_its_cause","status":"passed","testResultsByEnv":{"default":"fea6ad30581c4e43f8a757aec172fb12"}}

@@ -1,3 +1,0 @@
-[GIVEN] test_a_run_identifies_itself_from_the_ci_environment | isolated backend fixtures | worker=gw0 | tests/test_test_history.py::test_a_run_identifies_itself_from_the_ci_environment
-[WHEN] test_a_run_identifies_itself_from_the_ci_environment | execute test actions and assertions
-[THEN] test_a_run_identifies_itself_from_the_ci_environment | status=passed | duration=6ms

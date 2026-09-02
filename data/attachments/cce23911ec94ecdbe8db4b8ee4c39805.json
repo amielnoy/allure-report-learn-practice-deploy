@@ -1,7 +1,0 @@
-{
-  "test": "test_prices_report_sales_as_disabled_without_calling_stripe",
-  "source": "tests/test_commerce.py::test_prices_report_sales_as_disabled_without_calling_stripe",
-  "worker": "gw0",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

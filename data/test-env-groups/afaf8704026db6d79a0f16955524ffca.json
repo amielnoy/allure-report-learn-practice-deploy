@@ -1,1 +1,1 @@
-{"id":"afaf8704026db6d79a0f16955524ffca","fullName":"tests.test_customers#test_a_purchase_linked_to_a_signed_in_account_is_marked_too","name":"test_a_purchase_linked_to_a_signed_in_account_is_marked_too","status":"passed","testResultsByEnv":{"default":"b0dd7455d29224b82f0f1dbf95fa0435"}}
+{"id":"afaf8704026db6d79a0f16955524ffca","fullName":"tests.test_customers#test_a_purchase_linked_to_a_signed_in_account_is_marked_too","name":"test_a_purchase_linked_to_a_signed_in_account_is_marked_too","status":"passed","testResultsByEnv":{"default":"b00d35a17f558faac84ddd09cef85ea5"}}

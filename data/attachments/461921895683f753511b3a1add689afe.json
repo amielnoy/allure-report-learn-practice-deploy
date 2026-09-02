@@ -1,0 +1,7 @@
+{
+  "test": "test_a_fully_configured_production_deployment_reports_no_problem",
+  "source": "tests/test_rate_limit_config.py::test_a_fully_configured_production_deployment_reports_no_problem",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

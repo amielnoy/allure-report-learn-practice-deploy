@@ -1,3 +1,0 @@
-[GIVEN] renders one button per question across every stage | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/QuestionBank.spec.tsx:27
-[WHEN] renders one button per question across every stage | execute test actions and assertions
-[THEN] renders one button per question across every stage | status=passed | expected=passed | duration=1659ms

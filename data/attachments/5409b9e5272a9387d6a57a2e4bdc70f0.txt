@@ -1,0 +1,3 @@
+[GIVEN] lecture_tracks | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/contentSchema.spec.ts:101
+[WHEN] lecture_tracks | execute test actions and assertions
+[THEN] lecture_tracks | status=passed | expected=passed | duration=6ms

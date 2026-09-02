@@ -1,3 +1,0 @@
-[GIVEN] reads a fully Hebrew draft as almost entirely non-Latin | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePrompt.spec.ts:156
-[WHEN] reads a fully Hebrew draft as almost entirely non-Latin | execute test actions and assertions
-[THEN] reads a fully Hebrew draft as almost entirely non-Latin | status=passed | expected=passed | duration=7ms

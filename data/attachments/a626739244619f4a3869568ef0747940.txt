@@ -1,4 +1,0 @@
-[GIVEN] test_storage_is_skipped_rather_than_failed_without_a_database | isolated backend fixtures | worker=gw0 | tests/test_test_history.py::test_storage_is_skipped_rather_than_failed_without_a_database
-[WHEN] test_storage_is_skipped_rather_than_failed_without_a_database | execute test actions and assertions
-DATABASE_URL is not configured; test-history storage is disabled.
-[THEN] test_storage_is_skipped_rather_than_failed_without_a_database | status=passed | duration=10ms

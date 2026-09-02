@@ -1,0 +1,12 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "url": "http://127.0.0.1:8788/api/healthz",
+  "headers": {
+    "date": "Wed, 02 Sep 2026 20:57:00 GMT",
+    "server": "uvicorn",
+    "content-length": "15",
+    "content-type": "application/json"
+  },
+  "body": "{\n  \"status\": \"ok\"\n}"
+}

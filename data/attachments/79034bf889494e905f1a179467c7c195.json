@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "--muted on --card clears 4.5:1 — secondary copy on a card",
+  "suite": [
+    "unit/themePalette.spec.ts",
+    "light palette"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/themePalette.spec.ts:97",
+  "retry": 0,
+  "repeat": 0
+}

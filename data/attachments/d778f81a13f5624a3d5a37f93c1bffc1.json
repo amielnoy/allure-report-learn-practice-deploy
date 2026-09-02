@@ -1,7 +1,0 @@
-{
-  "test": "test_the_model_is_told_the_facts_the_advice_turns_on",
-  "source": "tests/test_customers.py::test_the_model_is_told_the_facts_the_advice_turns_on",
-  "worker": "gw0",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

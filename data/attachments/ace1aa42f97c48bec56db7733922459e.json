@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "--accent2 on --bg clears 4.5:1 — the far end of every accent gradient carries text too",
+  "suite": [
+    "unit/themePalette.spec.ts",
+    "dark palette"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/themePalette.spec.ts:97",
+  "retry": 0,
+  "repeat": 0
+}

@@ -1,1 +1,1 @@
-{"id":"3bd4abddf95a0cb4d56b6dd3971c49c2","fullName":"stripe.spec.ts:83:3","name":"refuses a client-supplied price ID","status":"passed","testResultsByEnv":{"default":"70c0e793c0b8fdb9d2c571c681af2fa1"}}
+{"id":"3bd4abddf95a0cb4d56b6dd3971c49c2","fullName":"stripe.spec.ts:83:3","name":"refuses a client-supplied price ID","status":"passed","testResultsByEnv":{"default":"f3c980eacd5f301d3398efd5497ff6ac"}}

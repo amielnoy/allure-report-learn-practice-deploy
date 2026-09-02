@@ -1,3 +1,0 @@
-[GIVEN] GET /content/lecture-series answers with a documented status | project=contract | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/contract/openapi.spec.ts:161
-[WHEN] GET /content/lecture-series answers with a documented status | execute test actions and assertions
-[THEN] GET /content/lecture-series answers with a documented status | status=passed | expected=passed | duration=24ms

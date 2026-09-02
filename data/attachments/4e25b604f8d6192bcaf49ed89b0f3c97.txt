@@ -1,3 +1,0 @@
-[GIVEN] every one of them aligns left, whatever the slide around it does | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/lectureDecks.spec.ts:155
-[WHEN] every one of them aligns left, whatever the slide around it does | execute test actions and assertions
-[THEN] every one of them aligns left, whatever the slide around it does | status=passed | expected=passed | duration=44ms

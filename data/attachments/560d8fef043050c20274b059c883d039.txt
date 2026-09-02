@@ -1,3 +1,0 @@
-[GIVEN] test_a_failed_event_write_does_not_fail_the_request | isolated backend fixtures | worker=gw0 | tests/test_activity.py::test_a_failed_event_write_does_not_fail_the_request
-[WHEN] test_a_failed_event_write_does_not_fail_the_request | execute test actions and assertions
-[THEN] test_a_failed_event_write_does_not_fail_the_request | status=passed | duration=15ms

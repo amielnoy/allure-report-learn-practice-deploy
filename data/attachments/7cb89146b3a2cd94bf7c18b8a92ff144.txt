@@ -1,0 +1,3 @@
+[GIVEN] falls back to English for an unknown language | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/i18n.spec.ts:80
+[WHEN] falls back to English for an unknown language | execute test actions and assertions
+[THEN] falls back to English for an unknown language | status=passed | expected=passed | duration=2ms

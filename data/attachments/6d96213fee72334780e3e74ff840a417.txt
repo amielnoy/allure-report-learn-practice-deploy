@@ -1,3 +1,0 @@
-[GIVEN] reach every response, rewritten ones included | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/vercelRoutes.spec.ts:169
-[WHEN] reach every response, rewritten ones included | execute test actions and assertions
-[THEN] reach every response, rewritten ones included | status=passed | expected=passed | duration=30ms

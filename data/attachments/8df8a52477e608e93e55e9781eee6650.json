@@ -1,7 +1,0 @@
-{
-  "test": "test_the_model_is_never_told_who_the_customer_is",
-  "source": "tests/test_customers.py::test_the_model_is_never_told_who_the_customer_is",
-  "worker": "gw0",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

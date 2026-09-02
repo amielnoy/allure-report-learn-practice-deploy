@@ -1,0 +1,3 @@
+[GIVEN] --green on --card clears 4.5:1 — the completed state | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/themePalette.spec.ts:97
+[WHEN] --green on --card clears 4.5:1 — the completed state | execute test actions and assertions
+[THEN] --green on --card clears 4.5:1 — the completed state | status=passed | expected=passed | duration=5ms

@@ -1,3 +1,0 @@
-[GIVEN] a question button starts collapsed | project=e2e-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/e2e/questions.spec.ts:14
-[WHEN] a question button starts collapsed | execute test actions and assertions
-[THEN] a question button starts collapsed | status=passed | expected=passed | duration=3189ms

@@ -1,0 +1,3 @@
+[GIVEN] loads at least its own stylesheet and the shared floor | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/designTokens.spec.ts:80
+[WHEN] loads at least its own stylesheet and the shared floor | execute test actions and assertions
+[THEN] loads at least its own stylesheet and the shared floor | status=passed | expected=passed | duration=11ms

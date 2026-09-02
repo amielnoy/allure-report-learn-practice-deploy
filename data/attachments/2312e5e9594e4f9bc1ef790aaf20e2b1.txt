@@ -1,0 +1,3 @@
+[GIVEN] carries the job description when one is supplied | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePrompt.spec.ts:67
+[WHEN] carries the job description when one is supplied | execute test actions and assertions
+[THEN] carries the job description when one is supplied | status=passed | expected=passed | duration=5ms

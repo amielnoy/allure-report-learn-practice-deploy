@@ -1,0 +1,3 @@
+[GIVEN] --text on --bg clears 4.5:1 — body copy on the page | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/themePalette.spec.ts:97
+[WHEN] --text on --bg clears 4.5:1 — body copy on the page | execute test actions and assertions
+[THEN] --text on --bg clears 4.5:1 — body copy on the page | status=passed | expected=passed | duration=6ms

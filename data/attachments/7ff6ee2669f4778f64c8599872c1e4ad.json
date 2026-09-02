@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "--border-field on --field-bg clears 3:1 — the visible boundary of an input",
+  "suite": [
+    "unit/themePalette.spec.ts",
+    "light palette"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/themePalette.spec.ts:97",
+  "retry": 0,
+  "repeat": 0
+}

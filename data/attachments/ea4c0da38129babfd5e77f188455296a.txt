@@ -1,3 +1,0 @@
-[GIVEN] reads are granted to the anon role the API uses | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/contentSchema.spec.ts:135
-[WHEN] reads are granted to the anon role the API uses | execute test actions and assertions
-[THEN] reads are granted to the anon role the API uses | status=passed | expected=passed | duration=16ms

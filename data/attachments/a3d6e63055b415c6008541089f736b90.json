@@ -1,0 +1,7 @@
+{
+  "test": "test_a_session_with_no_line_items_cannot_match",
+  "source": "tests/test_commerce.py::test_a_session_with_no_line_items_cannot_match",
+  "worker": "gw1",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

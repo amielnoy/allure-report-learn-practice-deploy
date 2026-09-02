@@ -1,0 +1,3 @@
+[GIVEN] shows progress while the server verifies Google’s answer | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/GoogleSignIn.spec.tsx:74
+[WHEN] shows progress while the server verifies Google’s answer | execute test actions and assertions
+[THEN] shows progress while the server verifies Google’s answer | status=passed | expected=passed | duration=902ms

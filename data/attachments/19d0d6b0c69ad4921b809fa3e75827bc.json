@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "loads at least its own stylesheet and the shared floor",
+  "suite": [
+    "unit/designTokens.spec.ts",
+    "artifacts/ai-testing-academy/src/app.css"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/designTokens.spec.ts:80",
+  "retry": 0,
+  "repeat": 0
+}

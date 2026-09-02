@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "every token it uses without a fallback is one it loads",
+  "suite": [
+    "unit/designTokens.spec.ts",
+    "artifacts/ai-testing-academy/src/app.css"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/designTokens.spec.ts:85",
+  "retry": 0,
+  "repeat": 0
+}

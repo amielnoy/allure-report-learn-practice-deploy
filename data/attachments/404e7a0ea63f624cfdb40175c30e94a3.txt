@@ -1,0 +1,3 @@
+[GIVEN] --code-text on --code-bg clears 4.5:1 — code blocks, which keep one surface in both themes | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/themePalette.spec.ts:97
+[WHEN] --code-text on --code-bg clears 4.5:1 — code blocks, which keep one surface in both themes | execute test actions and assertions
+[THEN] --code-text on --code-bg clears 4.5:1 — code blocks, which keep one surface in both themes | status=passed | expected=passed | duration=7ms

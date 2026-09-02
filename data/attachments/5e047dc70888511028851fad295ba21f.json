@@ -1,0 +1,12 @@
+{
+  "status": 500,
+  "statusText": "Internal Server Error",
+  "url": "http://127.0.0.1:8789/api/stripe/seed",
+  "headers": {
+    "date": "Wed, 02 Sep 2026 20:56:59 GMT",
+    "server": "uvicorn",
+    "content-length": "48",
+    "content-type": "application/json"
+  },
+  "body": "{\n  \"error\": \"Could not prepare the Stripe catalog\"\n}"
+}

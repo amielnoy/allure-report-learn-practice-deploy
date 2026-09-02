@@ -1,3 +1,0 @@
-[GIVEN] keeps a URL intact | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/bidi.spec.ts:50
-[WHEN] keeps a URL intact | execute test actions and assertions
-[THEN] keeps a URL intact | status=passed | expected=passed | duration=9ms

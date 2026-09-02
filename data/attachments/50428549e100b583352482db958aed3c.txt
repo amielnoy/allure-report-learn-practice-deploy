@@ -1,3 +1,0 @@
-[GIVEN] recovers a missing comma between objects in an array | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:242
-[WHEN] recovers a missing comma between objects in an array | execute test actions and assertions
-[THEN] recovers a missing comma between objects in an array | status=passed | expected=passed | duration=5ms

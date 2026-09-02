@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "--code-text on --code-bg clears 4.5:1 — code blocks, which keep one surface in both themes",
+  "suite": [
+    "unit/themePalette.spec.ts",
+    "light palette"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/themePalette.spec.ts:97",
+  "retry": 0,
+  "repeat": 0
+}

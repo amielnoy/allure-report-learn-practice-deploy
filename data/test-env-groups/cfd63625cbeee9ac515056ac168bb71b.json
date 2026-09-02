@@ -1,1 +1,1 @@
-{"id":"cfd63625cbeee9ac515056ac168bb71b","fullName":"vercelRoutes.spec.ts:240:3","name":"fails loudly rather than silently when no origin is configured","status":"passed","testResultsByEnv":{"default":"aacf210a6ea7468bbdb7483edef4a9b4"}}
+{"id":"cfd63625cbeee9ac515056ac168bb71b","fullName":"vercelRoutes.spec.ts:240:3","name":"fails loudly rather than silently when no origin is configured","status":"passed","testResultsByEnv":{"default":"39a0a0b4326fbb9393c2f17afe65ae00"}}

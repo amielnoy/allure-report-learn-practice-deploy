@@ -1,0 +1,3 @@
+[GIVEN] test_a_matching_live_price_is_served_with_sales_enabled | isolated backend fixtures | worker=gw1 | tests/test_commerce.py::test_a_matching_live_price_is_served_with_sales_enabled
+[WHEN] test_a_matching_live_price_is_served_with_sales_enabled | execute test actions and assertions
+[THEN] test_a_matching_live_price_is_served_with_sales_enabled | status=passed | duration=2ms

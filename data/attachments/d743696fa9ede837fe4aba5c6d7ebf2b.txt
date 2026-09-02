@@ -1,0 +1,3 @@
+[GIVEN] test_a_throttled_ai_request_is_recorded_as_a_429 | isolated backend fixtures | worker=gw0 | tests/test_activity.py::test_a_throttled_ai_request_is_recorded_as_a_429
+[WHEN] test_a_throttled_ai_request_is_recorded_as_a_429 | execute test actions and assertions
+[THEN] test_a_throttled_ai_request_is_recorded_as_a_429 | status=passed | duration=25ms

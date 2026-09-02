@@ -1,0 +1,7 @@
+{
+  "test": "test_a_missing_salt_is_named",
+  "source": "tests/test_rate_limit_config.py::test_a_missing_salt_is_named",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

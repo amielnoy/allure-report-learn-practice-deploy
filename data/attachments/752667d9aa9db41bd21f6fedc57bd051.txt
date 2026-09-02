@@ -1,0 +1,3 @@
+[GIVEN] test_a_replit_domain_becomes_an_https_origin | isolated backend fixtures | worker=gw1 | tests/test_origins.py::test_a_replit_domain_becomes_an_https_origin
+[WHEN] test_a_replit_domain_becomes_an_https_origin | execute test actions and assertions
+[THEN] test_a_replit_domain_becomes_an_https_origin | status=passed | duration=5ms

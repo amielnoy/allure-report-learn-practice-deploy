@@ -1,3 +1,0 @@
-[GIVEN] test_a_paid_session_with_no_email_cannot_be_recorded | isolated backend fixtures | worker=gw0 | tests/test_commerce.py::test_a_paid_session_with_no_email_cannot_be_recorded
-[WHEN] test_a_paid_session_with_no_email_cannot_be_recorded | execute test actions and assertions
-[THEN] test_a_paid_session_with_no_email_cannot_be_recorded | status=passed | duration=9ms

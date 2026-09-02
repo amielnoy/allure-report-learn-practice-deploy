@@ -1,1 +1,1 @@
-{"id":"459898804377bbeb823d792aad92484e","fullName":"tests.test_relay#test_relay_drops_a_client_supplied_identity_header","name":"test_relay_drops_a_client_supplied_identity_header[x-forwarded-for]","status":"passed","testResultsByEnv":{"default":"6fa96e46168ebd3e69cf107c94dd4288"}}
+{"id":"459898804377bbeb823d792aad92484e","fullName":"tests.test_relay#test_relay_drops_a_client_supplied_identity_header","name":"test_relay_drops_a_client_supplied_identity_header[cf-connecting-ip]","status":"passed","testResultsByEnv":{"default":"e8c5605e13e1a2dc88defc23f807947f"}}

@@ -1,0 +1,3 @@
+[GIVEN] --ds-ring on --card clears 3:1 — the keyboard focus ring against what it lands on | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/themePalette.spec.ts:97
+[WHEN] --ds-ring on --card clears 3:1 — the keyboard focus ring against what it lands on | execute test actions and assertions
+[THEN] --ds-ring on --card clears 3:1 — the keyboard focus ring against what it lands on | status=passed | expected=passed | duration=4ms

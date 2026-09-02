@@ -1,3 +1,0 @@
-[GIVEN] test_local_and_test_runs_never_report_a_problem | isolated backend fixtures | worker=gw1 | tests/test_rate_limit_config.py::test_local_and_test_runs_never_report_a_problem
-[WHEN] test_local_and_test_runs_never_report_a_problem | execute test actions and assertions
-[THEN] test_local_and_test_runs_never_report_a_problem | status=passed | duration=8ms

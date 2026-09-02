@@ -1,0 +1,7 @@
+{
+  "test": "test_monitor_rejects_unsafe_targets[{\"bad name\":\"https://example.test\"}]",
+  "source": "tests/test_monitor.py::test_monitor_rejects_unsafe_targets[{\"bad name\":\"https://example.test\"}]",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

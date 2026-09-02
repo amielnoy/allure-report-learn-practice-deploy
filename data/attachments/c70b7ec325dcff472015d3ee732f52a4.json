@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "--ds-ring on --card clears 3:1 — the keyboard focus ring against what it lands on",
+  "suite": [
+    "unit/themePalette.spec.ts",
+    "light palette"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/themePalette.spec.ts:97",
+  "retry": 0,
+  "repeat": 0
+}

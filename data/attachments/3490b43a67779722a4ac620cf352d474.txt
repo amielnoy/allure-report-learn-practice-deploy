@@ -1,0 +1,3 @@
+[GIVEN] --on-accent on --accent clears 4.5:1 — ink on the primary button | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/themePalette.spec.ts:97
+[WHEN] --on-accent on --accent clears 4.5:1 — ink on the primary button | execute test actions and assertions
+[THEN] --on-accent on --accent clears 4.5:1 — ink on the primary button | status=passed | expected=passed | duration=8ms

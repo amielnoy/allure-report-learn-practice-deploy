@@ -1,7 +1,0 @@
-{
-  "test": "test_the_business_identity_travels_with_the_catalog",
-  "source": "tests/test_catalog.py::test_the_business_identity_travels_with_the_catalog",
-  "worker": "gw0",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

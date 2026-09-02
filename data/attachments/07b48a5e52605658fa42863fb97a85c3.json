@@ -1,7 +1,0 @@
-{
-  "test": "test_readiness_stays_quiet_when_quotas_can_count",
-  "source": "tests/test_rate_limit_config.py::test_readiness_stays_quiet_when_quotas_can_count",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

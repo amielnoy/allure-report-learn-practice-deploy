@@ -1,7 +1,0 @@
-{
-  "test": "test_a_purchase_with_no_linked_account_is_marked_as_such",
-  "source": "tests/test_customers.py::test_a_purchase_with_no_linked_account_is_marked_as_such",
-  "worker": "gw0",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

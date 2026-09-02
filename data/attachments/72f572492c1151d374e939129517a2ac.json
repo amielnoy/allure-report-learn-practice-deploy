@@ -1,0 +1,12 @@
+{
+  "status": 404,
+  "statusText": "Not Found",
+  "url": "http://127.0.0.1:8788/api/admin/customers",
+  "headers": {
+    "date": "Wed, 02 Sep 2026 20:57:06 GMT",
+    "server": "uvicorn",
+    "content-length": "21",
+    "content-type": "application/json"
+  },
+  "body": "{\n  \"error\": \"Not found\"\n}"
+}

@@ -1,0 +1,3 @@
+[GIVEN] --border-field on --field-bg clears 3:1 — the visible boundary of an input | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/themePalette.spec.ts:97
+[WHEN] --border-field on --field-bg clears 3:1 — the visible boundary of an input | execute test actions and assertions
+[THEN] --border-field on --field-bg clears 3:1 — the visible boundary of an input | status=passed | expected=passed | duration=4ms

@@ -1,0 +1,7 @@
+{
+  "test": "test_an_upstream_refusal_keeps_its_status_but_not_its_detail",
+  "source": "tests/test_ai_gateway.py::test_an_upstream_refusal_keeps_its_status_but_not_its_detail",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

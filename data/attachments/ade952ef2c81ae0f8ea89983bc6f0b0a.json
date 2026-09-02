@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "--red on --card clears 4.5:1 — the error state",
+  "suite": [
+    "unit/themePalette.spec.ts",
+    "light palette"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/themePalette.spec.ts:97",
+  "retry": 0,
+  "repeat": 0
+}

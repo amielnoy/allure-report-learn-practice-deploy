@@ -1,3 +1,0 @@
-[GIVEN] serves a real file rather than a shell | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/vercelRoutes.spec.ts:125
-[WHEN] serves a real file rather than a shell | execute test actions and assertions
-[THEN] serves a real file rather than a shell | status=passed | expected=passed | duration=7ms

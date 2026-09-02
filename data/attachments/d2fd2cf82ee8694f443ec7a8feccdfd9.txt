@@ -1,0 +1,3 @@
+[GIVEN] test_a_successful_sign_in_is_recorded_against_its_subject | isolated backend fixtures | worker=gw0 | tests/test_activity.py::test_a_successful_sign_in_is_recorded_against_its_subject
+[WHEN] test_a_successful_sign_in_is_recorded_against_its_subject | execute test actions and assertions
+[THEN] test_a_successful_sign_in_is_recorded_against_its_subject | status=passed | duration=92ms

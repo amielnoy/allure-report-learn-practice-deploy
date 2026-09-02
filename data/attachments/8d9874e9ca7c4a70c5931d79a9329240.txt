@@ -1,3 +1,0 @@
-[GIVEN] revalidates a rewritten deep link too | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/vercelRoutes.spec.ts:145
-[WHEN] revalidates a rewritten deep link too | execute test actions and assertions
-[THEN] revalidates a rewritten deep link too | status=passed | expected=passed | duration=3ms
