@@ -1,1 +1,1 @@
-{"id":"d542ce0c4dffbd9055554d7d5d9febc5","fullName":"openapi.spec.ts:161:5","name":"POST /auth/logout answers with a documented status","status":"passed","testResultsByEnv":{"default":"639df7e70590efbc5bb928c7f6b24597"}}
+{"id":"d542ce0c4dffbd9055554d7d5d9febc5","fullName":"openapi.spec.ts:161:5","name":"POST /auth/logout answers with a documented status","status":"passed","testResultsByEnv":{"default":"f5d21579fdb0a83a8ec552d487e72aa6"}}

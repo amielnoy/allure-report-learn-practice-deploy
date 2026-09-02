@@ -1,3 +1,0 @@
-[GIVEN] --red on --card clears 4.5:1 — the error state | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/themePalette.spec.ts:97
-[WHEN] --red on --card clears 4.5:1 — the error state | execute test actions and assertions
-[THEN] --red on --card clears 4.5:1 — the error state | status=passed | expected=passed | duration=18ms

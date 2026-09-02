@@ -1,7 +1,0 @@
-{
-  "test": "test_a_naive_timestamp_is_read_as_utc_rather_than_local",
-  "source": "tests/test_customers.py::test_a_naive_timestamp_is_read_as_utc_rather_than_local",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

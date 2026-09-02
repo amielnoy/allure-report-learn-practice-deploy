@@ -1,3 +1,0 @@
-[GIVEN] --muted on --card clears 4.5:1 — secondary copy on a card | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/themePalette.spec.ts:97
-[WHEN] --muted on --card clears 4.5:1 — secondary copy on a card | execute test actions and assertions
-[THEN] --muted on --card clears 4.5:1 — secondary copy on a card | status=passed | expected=passed | duration=6ms

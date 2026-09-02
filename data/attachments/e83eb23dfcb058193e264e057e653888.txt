@@ -1,3 +1,0 @@
-[GIVEN] refuses to send a body on a GET, instead of letting the server reject it | project=contract | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/contract/apiClient.spec.ts:57
-[WHEN] refuses to send a body on a GET, instead of letting the server reject it | execute test actions and assertions
-[THEN] refuses to send a body on a GET, instead of letting the server reject it | status=passed | expected=passed | duration=28ms

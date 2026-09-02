@@ -1,0 +1,3 @@
+[GIVEN] reverses a Hebrew-only line | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/bidi.spec.ts:18
+[WHEN] reverses a Hebrew-only line | execute test actions and assertions
+[THEN] reverses a Hebrew-only line | status=passed | expected=passed | duration=32ms

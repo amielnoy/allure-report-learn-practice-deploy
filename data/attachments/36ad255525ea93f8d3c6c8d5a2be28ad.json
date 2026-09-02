@@ -1,0 +1,7 @@
+{
+  "test": "test_an_allowlisted_request_origin_is_used_when_there_is_no_canonical_one",
+  "source": "tests/test_origins.py::test_an_allowlisted_request_origin_is_used_when_there_is_no_canonical_one",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

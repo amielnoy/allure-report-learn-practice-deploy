@@ -1,0 +1,3 @@
+[GIVEN] test_when_every_provider_refuses_the_first_refusal_is_reported | isolated backend fixtures | worker=gw1 | tests/test_ai_gateway.py::test_when_every_provider_refuses_the_first_refusal_is_reported
+[WHEN] test_when_every_provider_refuses_the_first_refusal_is_reported | execute test actions and assertions
+[THEN] test_when_every_provider_refuses_the_first_refusal_is_reported | status=passed | duration=21ms

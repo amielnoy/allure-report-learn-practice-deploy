@@ -1,3 +1,0 @@
-[GIVEN] --on-accent on --accent2 clears 4.5:1 — the same ink at the gradient’s far end | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/themePalette.spec.ts:97
-[WHEN] --on-accent on --accent2 clears 4.5:1 — the same ink at the gradient’s far end | execute test actions and assertions
-[THEN] --on-accent on --accent2 clears 4.5:1 — the same ink at the gradient’s far end | status=passed | expected=passed | duration=4ms

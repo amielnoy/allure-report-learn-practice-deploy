@@ -1,0 +1,12 @@
+{
+  "status": 413,
+  "statusText": "Request Entity Too Large",
+  "url": "http://127.0.0.1:8789/api/ai/generate",
+  "headers": {
+    "date": "Wed, 02 Sep 2026 21:53:08 GMT",
+    "server": "uvicorn",
+    "content-length": "37",
+    "content-type": "application/json"
+  },
+  "body": "{\n  \"error\": \"Request body is too large\"\n}"
+}

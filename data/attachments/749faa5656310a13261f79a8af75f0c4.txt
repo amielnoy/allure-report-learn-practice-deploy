@@ -1,0 +1,3 @@
+[GIVEN] reveals the hint on the first click, without giving away the answer | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/QuestionCard.spec.tsx:50
+[WHEN] reveals the hint on the first click, without giving away the answer | execute test actions and assertions
+[THEN] reveals the hint on the first click, without giving away the answer | status=passed | expected=passed | duration=1113ms

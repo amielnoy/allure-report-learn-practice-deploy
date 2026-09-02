@@ -1,0 +1,3 @@
+[GIVEN] the prefix is translated, as it is on the direct-call paths | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/providers.spec.ts:553
+[WHEN] the prefix is translated, as it is on the direct-call paths | execute test actions and assertions
+[THEN] the prefix is translated, as it is on the direct-call paths | status=passed | expected=passed | duration=7ms

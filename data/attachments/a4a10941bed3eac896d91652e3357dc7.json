@@ -1,0 +1,7 @@
+{
+  "test": "test_storage_is_skipped_rather_than_failed_without_a_database",
+  "source": "tests/test_test_history.py::test_storage_is_skipped_rather_than_failed_without_a_database",
+  "worker": "gw1",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

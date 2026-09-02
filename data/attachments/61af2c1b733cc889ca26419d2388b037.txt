@@ -1,3 +1,0 @@
-[GIVEN] swaps the print stylesheet in once it has loaded | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/fontLoading.spec.ts:83
-[WHEN] swaps the print stylesheet in once it has loaded | execute test actions and assertions
-[THEN] swaps the print stylesheet in once it has loaded | status=passed | expected=passed | duration=7ms

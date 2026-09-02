@@ -1,0 +1,21 @@
+ERROR    app.rate_limit:rate_limit.py:168 Shared rate limiting is unavailable: RATE_LIMIT_SALT (or METRICS_ID_SALT) is not set; the 'login' quota is per-worker only
+ERROR    app.database:database.py:461 Could not record an activity event
+Traceback (most recent call last):
+  File "/home/runner/work/LearnPracticeWork/LearnPracticeWork/server/app/database.py", line 459, in _record_event
+    await asyncio.to_thread(_execute, statement, parameters)
+  File "/usr/lib/python3.12/asyncio/threads.py", line 25, in to_thread
+    return await loop.run_in_executor(None, func_call)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/LearnPracticeWork/LearnPracticeWork/server/app/database.py", line 465, in _execute
+    with psycopg.connect(database_url()) as connection:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/LearnPracticeWork/LearnPracticeWork/server/.venv/lib/python3.12/site-packages/psycopg/connection.py", line 100, in connect
+    attempts = conninfo_attempts(params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/LearnPracticeWork/LearnPracticeWork/server/.venv/lib/python3.12/site-packages/psycopg/_conninfo_attempts.py", line 55, in conninfo_attempts
+    raise last_exc
+psycopg.OperationalError: failed to resolve host 'fixture': [Errno -3] Temporary failure in name resolution
+INFO     httpx:_client.py:1740 HTTP Request: POST http://test/api/auth/google "HTTP/1.1 401 Unauthorized"

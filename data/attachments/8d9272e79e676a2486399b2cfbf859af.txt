@@ -1,0 +1,3 @@
+[GIVEN] falls back to the persisted choice when there is no query string | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/i18n.spec.ts:28
+[WHEN] falls back to the persisted choice when there is no query string | execute test actions and assertions
+[THEN] falls back to the persisted choice when there is no query string | status=passed | expected=passed | duration=18ms

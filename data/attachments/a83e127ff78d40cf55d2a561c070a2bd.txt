@@ -1,0 +1,3 @@
+[GIVEN] en academy has no WCAG A/AA violations in the dark theme | project=e2e-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/e2e/accessibility.spec.ts:123
+[WHEN] en academy has no WCAG A/AA violations in the dark theme | execute test actions and assertions
+[THEN] en academy has no WCAG A/AA violations in the dark theme | status=passed | expected=passed | duration=9140ms

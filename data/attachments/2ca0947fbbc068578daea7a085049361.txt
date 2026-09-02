@@ -1,0 +1,3 @@
+[GIVEN] test_a_signed_in_reader_gets_their_stored_progress | isolated backend fixtures | worker=gw0 | tests/test_progress.py::test_a_signed_in_reader_gets_their_stored_progress
+[WHEN] test_a_signed_in_reader_gets_their_stored_progress | execute test actions and assertions
+[THEN] test_a_signed_in_reader_gets_their_stored_progress | status=passed | duration=378ms

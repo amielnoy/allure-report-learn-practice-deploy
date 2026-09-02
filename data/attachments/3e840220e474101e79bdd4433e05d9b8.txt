@@ -1,3 +1,0 @@
-[GIVEN] prefers the query string over everything else | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/i18n.spec.ts:18
-[WHEN] prefers the query string over everything else | execute test actions and assertions
-[THEN] prefers the query string over everything else | status=passed | expected=passed | duration=4ms

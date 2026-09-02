@@ -1,0 +1,7 @@
+{
+  "test": "test_suite_totals_zero_fill_every_status",
+  "source": "tests/test_test_history.py::test_suite_totals_zero_fill_every_status",
+  "worker": "gw1",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

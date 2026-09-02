@@ -1,0 +1,3 @@
+[GIVEN] question_bank_items | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/contentSchema.spec.ts:110
+[WHEN] question_bank_items | execute test actions and assertions
+[THEN] question_bank_items | status=passed | expected=passed | duration=12ms

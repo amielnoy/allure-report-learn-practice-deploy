@@ -1,3 +1,0 @@
-[GIVEN] test_fixture_signed_google_token_is_accepted | isolated backend fixtures | worker=gw1 | tests/test_google_auth.py::test_fixture_signed_google_token_is_accepted
-[WHEN] test_fixture_signed_google_token_is_accepted | execute test actions and assertions
-[THEN] test_fixture_signed_google_token_is_accepted | status=passed | duration=258ms

@@ -1,0 +1,7 @@
+{
+  "test": "test_giving_back_more_than_was_taken_cannot_go_negative",
+  "source": "tests/test_rate_limit_config.py::test_giving_back_more_than_was_taken_cannot_go_negative",
+  "worker": "gw1",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

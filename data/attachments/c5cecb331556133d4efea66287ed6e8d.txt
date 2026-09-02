@@ -1,3 +1,0 @@
-[GIVEN] hands back the draft under the role it was written for | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePrompt.spec.ts:167
-[WHEN] hands back the draft under the role it was written for | execute test actions and assertions
-[THEN] hands back the draft under the role it was written for | status=passed | expected=passed | duration=3ms

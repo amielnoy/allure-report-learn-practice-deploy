@@ -1,3 +1,0 @@
-[GIVEN] the schema covers all three collections, parents and children | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/contentSchema.spec.ts:84
-[WHEN] the schema covers all three collections, parents and children | execute test actions and assertions
-[THEN] the schema covers all three collections, parents and children | status=passed | expected=passed | duration=9ms

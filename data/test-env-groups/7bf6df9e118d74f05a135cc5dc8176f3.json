@@ -1,1 +1,1 @@
-{"id":"7bf6df9e118d74f05a135cc5dc8176f3","fullName":"openapi.spec.ts:139:5","name":"GET /progress has a generated response schema","status":"passed","testResultsByEnv":{"default":"d788b863ccf29b3af5af20bb229f45c8"}}
+{"id":"7bf6df9e118d74f05a135cc5dc8176f3","fullName":"openapi.spec.ts:139:5","name":"GET /progress has a generated response schema","status":"passed","testResultsByEnv":{"default":"b5a575991fe1355bc5fe0d3d15b89d1b"}}

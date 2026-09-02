@@ -1,3 +1,0 @@
-[GIVEN] is settled before the filesystem, so nothing else can claim it | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/vercelRoutes.spec.ts:248
-[WHEN] is settled before the filesystem, so nothing else can claim it | execute test actions and assertions
-[THEN] is settled before the filesystem, so nothing else can claim it | status=passed | expected=passed | duration=5ms

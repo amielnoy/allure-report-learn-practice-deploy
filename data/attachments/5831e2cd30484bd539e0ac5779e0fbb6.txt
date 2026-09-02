@@ -1,3 +1,0 @@
-[GIVEN] repeats the full alternate set on every sitemap entry | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/hreflang.spec.ts:86
-[WHEN] repeats the full alternate set on every sitemap entry | execute test actions and assertions
-[THEN] repeats the full alternate set on every sitemap entry | status=passed | expected=passed | duration=11ms

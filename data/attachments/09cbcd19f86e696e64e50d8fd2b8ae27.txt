@@ -1,0 +1,3 @@
+[GIVEN] test_a_session_for_a_different_purchase_is_rejected[product_id-prod_other] | isolated backend fixtures | worker=gw0 | tests/test_commerce.py::test_a_session_for_a_different_purchase_is_rejected[product_id-prod_other]
+[WHEN] test_a_session_for_a_different_purchase_is_rejected[product_id-prod_other] | execute test actions and assertions
+[THEN] test_a_session_for_a_different_purchase_is_rejected[product_id-prod_other] | status=passed | duration=12ms

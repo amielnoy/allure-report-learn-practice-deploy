@@ -1,1 +1,1 @@
-{"id":"9f54f221ca022c5cb045f27a0a255581","fullName":"stripe.spec.ts:125:3","name":"reports that sales are disabled without contacting Stripe","status":"passed","testResultsByEnv":{"default":"ed8536744236522e54d2ed48f1469d40"}}
+{"id":"9f54f221ca022c5cb045f27a0a255581","fullName":"stripe.spec.ts:125:3","name":"reports that sales are disabled without contacting Stripe","status":"passed","testResultsByEnv":{"default":"e7fcf756d1358be6c79a48e5aa5134a0"}}

@@ -1,0 +1,3 @@
+[GIVEN] a prefix of the token is refused | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/adminAuth.spec.ts:67
+[WHEN] a prefix of the token is refused | execute test actions and assertions
+[THEN] a prefix of the token is refused | status=passed | expected=passed | duration=84ms

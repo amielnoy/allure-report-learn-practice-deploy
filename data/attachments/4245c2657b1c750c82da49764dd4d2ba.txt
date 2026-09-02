@@ -1,3 +1,0 @@
-[GIVEN] test_an_allowlisted_request_origin_is_used_when_there_is_no_canonical_one | isolated backend fixtures | worker=gw1 | tests/test_origins.py::test_an_allowlisted_request_origin_is_used_when_there_is_no_canonical_one
-[WHEN] test_an_allowlisted_request_origin_is_used_when_there_is_no_canonical_one | execute test actions and assertions
-[THEN] test_an_allowlisted_request_origin_is_used_when_there_is_no_canonical_one | status=passed | duration=4ms

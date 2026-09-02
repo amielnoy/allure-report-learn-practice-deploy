@@ -1,0 +1,7 @@
+{
+  "test": "test_an_ungrounded_request_goes_to_groq",
+  "source": "tests/test_ai_gateway.py::test_an_ungrounded_request_goes_to_groq",
+  "worker": "gw1",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

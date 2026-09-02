@@ -1,3 +1,0 @@
-[GIVEN] --accent on --bg clears 4.5:1 — links and sub-headings | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/themePalette.spec.ts:97
-[WHEN] --accent on --bg clears 4.5:1 — links and sub-headings | execute test actions and assertions
-[THEN] --accent on --bg clears 4.5:1 — links and sub-headings | status=passed | expected=passed | duration=3ms

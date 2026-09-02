@@ -1,3 +1,0 @@
-[GIVEN] every token it uses without a fallback is one it loads | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/designTokens.spec.ts:85
-[WHEN] every token it uses without a fallback is one it loads | execute test actions and assertions
-[THEN] every token it uses without a fallback is one it loads | status=passed | expected=passed | duration=13ms

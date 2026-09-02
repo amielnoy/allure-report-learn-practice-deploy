@@ -1,3 +1,0 @@
-[GIVEN] test_a_rate_limited_provider_hands_the_request_to_the_other | isolated backend fixtures | worker=gw0 | tests/test_ai_gateway.py::test_a_rate_limited_provider_hands_the_request_to_the_other
-[WHEN] test_a_rate_limited_provider_hands_the_request_to_the_other | execute test actions and assertions
-[THEN] test_a_rate_limited_provider_hands_the_request_to_the_other | status=passed | duration=5ms

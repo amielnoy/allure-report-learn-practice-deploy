@@ -1,3 +1,0 @@
-[GIVEN] defaults to English for any other browser locale | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/i18n.spec.ts:43
-[WHEN] defaults to English for any other browser locale | execute test actions and assertions
-[THEN] defaults to English for any other browser locale | status=passed | expected=passed | duration=3ms

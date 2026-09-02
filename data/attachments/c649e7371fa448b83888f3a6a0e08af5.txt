@@ -1,0 +1,3 @@
+[GIVEN] every font the stylesheet asks for is a font the page loads | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/themePalette.spec.ts:140
+[WHEN] every font the stylesheet asks for is a font the page loads | execute test actions and assertions
+[THEN] every font the stylesheet asks for is a font the page loads | status=passed | expected=passed | duration=8ms

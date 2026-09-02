@@ -1,3 +1,0 @@
-[GIVEN] names the role it was given | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePrompt.spec.ts:45
-[WHEN] names the role it was given | execute test actions and assertions
-[THEN] names the role it was given | status=passed | expected=passed | duration=4ms

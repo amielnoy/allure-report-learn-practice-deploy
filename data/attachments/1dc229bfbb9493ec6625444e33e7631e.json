@@ -1,0 +1,7 @@
+{
+  "test": "test_an_unexpected_store_failure_is_still_a_503_to_the_caller",
+  "source": "tests/test_content_store.py::test_an_unexpected_store_failure_is_still_a_503_to_the_caller",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

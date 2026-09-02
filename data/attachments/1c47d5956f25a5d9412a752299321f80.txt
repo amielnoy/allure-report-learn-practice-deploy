@@ -1,3 +1,0 @@
-[GIVEN] asks the browser to mediate the dialog rather than opening a popup | project=component-desktop | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/component/GoogleSignIn.spec.tsx:309
-[WHEN] asks the browser to mediate the dialog rather than opening a popup | execute test actions and assertions
-[THEN] asks the browser to mediate the dialog rather than opening a popup | status=passed | expected=passed | duration=787ms

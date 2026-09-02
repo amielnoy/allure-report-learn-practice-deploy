@@ -1,3 +1,0 @@
-[GIVEN] ai-testing-lecture-4 | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/lectureExamples.spec.ts:100
-[WHEN] ai-testing-lecture-4 | execute test actions and assertions
-[THEN] ai-testing-lecture-4 | status=passed | expected=passed | duration=5ms

@@ -1,1 +1,1 @@
-{"id":"42a643146df0ec82188379fad60559b6","fullName":"openapi.spec.ts:131:3","name":"is served from the path the server mounts its router on","status":"passed","testResultsByEnv":{"default":"ab536b0420b18d51aa9525ade67b7c43"}}
+{"id":"42a643146df0ec82188379fad60559b6","fullName":"openapi.spec.ts:131:3","name":"is served from the path the server mounts its router on","status":"passed","testResultsByEnv":{"default":"719ade0a14d055afd0d16ca634a8ee6c"}}

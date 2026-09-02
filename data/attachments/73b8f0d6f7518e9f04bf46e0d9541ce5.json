@@ -1,7 +1,0 @@
-{
-  "test": "test_an_unknown_customer_is_a_404_rather_than_advice_about_nobody",
-  "source": "tests/test_customers.py::test_an_unknown_customer_is_a_404_rather_than_advice_about_nobody",
-  "worker": "gw1",
-  "python": "3.12.3",
-  "externalServices": "in-memory fixtures only"
-}

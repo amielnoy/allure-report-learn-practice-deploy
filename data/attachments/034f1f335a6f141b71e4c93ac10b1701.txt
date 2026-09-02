@@ -1,0 +1,3 @@
+[GIVEN] requires a messages array | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/ai.spec.ts:95
+[WHEN] requires a messages array | execute test actions and assertions
+[THEN] requires a messages array | status=passed | expected=passed | duration=72ms

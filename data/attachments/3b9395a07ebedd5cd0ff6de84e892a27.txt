@@ -1,3 +1,0 @@
-[GIVEN] keeps its own wording in English around a Hebrew résumé | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/resumePrompt.spec.ts:109
-[WHEN] keeps its own wording in English around a Hebrew résumé | execute test actions and assertions
-[THEN] keeps its own wording in English around a Hebrew résumé | status=passed | expected=passed | duration=2ms

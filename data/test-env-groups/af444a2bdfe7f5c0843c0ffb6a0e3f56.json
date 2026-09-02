@@ -1,1 +1,1 @@
-{"id":"af444a2bdfe7f5c0843c0ffb6a0e3f56","fullName":"themePalette.spec.ts:97:7","name":"--code-text on --code-bg clears 4.5:1 — code blocks, which keep one surface in both themes","status":"passed","testResultsByEnv":{"default":"80a50071432c5a242ab681d0787787b4"}}
+{"id":"af444a2bdfe7f5c0843c0ffb6a0e3f56","fullName":"themePalette.spec.ts:97:7","name":"--code-text on --code-bg clears 4.5:1 — code blocks, which keep one surface in both themes","status":"passed","testResultsByEnv":{"default":"3adaa7e2dc923bccb13e6ded769e03cb"}}

@@ -1,3 +1,0 @@
-[GIVEN] answers a preflight without invoking the route | project=api | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/api/health.spec.ts:38
-[WHEN] answers a preflight without invoking the route | execute test actions and assertions
-[THEN] answers a preflight without invoking the route | status=passed | expected=passed | duration=56ms

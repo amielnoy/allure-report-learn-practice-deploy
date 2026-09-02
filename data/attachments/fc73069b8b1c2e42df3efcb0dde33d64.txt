@@ -1,3 +1,0 @@
-[GIVEN] --yellow on --card clears 4.5:1 — the warning state | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/themePalette.spec.ts:97
-[WHEN] --yellow on --card clears 4.5:1 — the warning state | execute test actions and assertions
-[THEN] --yellow on --card clears 4.5:1 — the warning state | status=passed | expected=passed | duration=4ms

@@ -1,3 +1,0 @@
-[GIVEN] never hands an API path to the SPA shell | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/vercelRoutes.spec.ts:234
-[WHEN] never hands an API path to the SPA shell | execute test actions and assertions
-[THEN] never hands an API path to the SPA shell | status=passed | expected=passed | duration=4ms

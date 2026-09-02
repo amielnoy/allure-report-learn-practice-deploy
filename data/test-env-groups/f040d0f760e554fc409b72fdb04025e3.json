@@ -1,1 +1,1 @@
-{"id":"f040d0f760e554fc409b72fdb04025e3","fullName":"providers.spec.ts:378:3","name":"calls the vendor directly once the visitor supplies a key","status":"passed","testResultsByEnv":{"default":"15805a0554beedfcfc68f89f4c3c6c32"}}
+{"id":"f040d0f760e554fc409b72fdb04025e3","fullName":"providers.spec.ts:378:3","name":"calls the vendor directly once the visitor supplies a key","status":"passed","testResultsByEnv":{"default":"df88c809764e47ced0a19f711aece6c6"}}

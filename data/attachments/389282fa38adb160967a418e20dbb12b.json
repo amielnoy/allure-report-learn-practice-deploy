@@ -1,0 +1,7 @@
+{
+  "test": "test_the_listing_shows_the_operator_who_bought",
+  "source": "tests/test_customers.py::test_the_listing_shows_the_operator_who_bought",
+  "worker": "gw0",
+  "python": "3.12.3",
+  "externalServices": "in-memory fixtures only"
+}

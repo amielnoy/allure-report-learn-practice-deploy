@@ -1,3 +1,0 @@
-[GIVEN] POST /admin/customers/{purchaseId}/recommendations returns a body its schema accepts | project=contract | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/contract/openapi.spec.ts:184
-[WHEN] POST /admin/customers/{purchaseId}/recommendations returns a body its schema accepts | execute test actions and assertions
-[THEN] POST /admin/customers/{purchaseId}/recommendations returns a body its schema accepts | status=passed | expected=passed | duration=32ms
